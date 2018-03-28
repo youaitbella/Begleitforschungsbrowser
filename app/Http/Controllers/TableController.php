@@ -108,7 +108,7 @@ class tableController extends Controller
                 case 'primarydiagsprocsInpatientprocarea':
                     $data = $this->getDataFromCSV('C_1_2abc.csv', $dataYear);
                     $filteredData = $this->filterPrimaryDiagsProc(2,2, $data);
-                    $dataSum = $this->getDataFromCSV('C_114_sum.csv', $dataYear);
+                    $dataSum = $this->getDataFromCSV('C_115_sum.csv', $dataYear);
                     $dataCountProz = $this->getPercent($dataYear, 1);
                     return view('primarydiagsprocsInpatientprocarea', [
                         'data' => $filteredData,
@@ -120,7 +120,7 @@ class tableController extends Controller
                 case 'primarydiagsprocsInpatientproccode':
                     $data = $this->getDataFromCSV('C_1_2abc.csv', $dataYear);
                     $filteredData = $this->filterPrimaryDiagsProc(3,2, $data);
-                    $dataSum = $this->getDataFromCSV('C_114_sum.csv', $dataYear);
+                    $dataSum = $this->getDataFromCSV('C_115_sum.csv', $dataYear);
                     $dataCountProz = $this->getPercent($dataYear, 1);
                     return view('primarydiagsprocsInpatientproccode', [
                         'data' => $filteredData,

@@ -168,6 +168,8 @@
                         @foreach($dataSum as $entry => $value)
                             <tr>
                                 <td class="text-right">{{number_format($value[0], 0, ',', '.')}}</td>
+                                <td class="text-right">{{number_format($value[1], 0, ',', '.')}}</td>
+                                <td class="text-right">{{number_format($value[2], 0, ',', '.')}}</td>
                                 <td class="text-right">{{number_format($value[3], 0, ',', '.')}}</td>
                                 <td class="text-right">{{number_format($value[4], 0, ',', '.')}}</td>
                                 <td class="text-right">{{number_format($value[5], 0, ',', '.')}}</td>
@@ -186,8 +188,8 @@
                                 <td class="text-right">{{number_format($value[18], 0, ',', '.')}}</td>
                                 <td class="text-right">{{number_format($value[19], 0, ',', '.')}}</td>
                                 <td class="text-right">{{number_format($value[20], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format($value[21], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format($value[22], 0, ',', '.')}}</td>
+                                <td class="text-right">{{number_format(str_replace(',','.',$value[21]) * 100, 2, ',', '.') . ' %'}}</td>
+                                <td class="text-right">{{number_format(str_replace(',','.',$value[22]) * 100, 2, ',', '.') . ' %'}}</td>
                                 <td class="text-right">{{number_format(str_replace(',','.',$value[23]) * 100, 2, ',', '.') . ' %'}}</td>
                                 <td class="text-right">{{number_format(str_replace(',','.',$value[24]) * 100, 2, ',', '.') . ' %'}}</td>
                                 <td class="text-right">{{number_format(str_replace(',','.',$value[25]) * 100, 2, ',', '.') . ' %'}}</td>
@@ -206,8 +208,6 @@
                                 <td class="text-right">{{number_format(str_replace(',','.',$value[38]) * 100, 2, ',', '.') . ' %'}}</td>
                                 <td class="text-right">{{number_format(str_replace(',','.',$value[39]) * 100, 2, ',', '.') . ' %'}}</td>
                                 <td class="text-right">{{number_format(str_replace(',','.',$value[40]) * 100, 2, ',', '.') . ' %'}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[41]) * 100, 2, ',', '.') . ' %'}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[42]) * 100, 2, ',', '.') . ' %'}}</td>
                             </tr>
                         @endforeach
                         </tbody>
