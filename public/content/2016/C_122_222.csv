@@ -1,0 +1,37 @@
+﻿Type;Type2;AufAnlName;Anzahl;sortnr
+1;A;Einweisung durch Arzt (E, Z);8513685;1
+1;A;Notfall;8519875;2
+1;A;nach vorausg. Behandlung in Reha-Einricht.;3040;3
+1;A;Verlegung (A) Behandlungsdauer > 24h;485348;4
+1;A;Verlegung (A) Behandlungsdauer < 24h;185261;5
+1;A;Geburt;699342;7
+1;A;Aufnahmen gesamt (ohne Begleitpersonen);18406551;8
+1;E;Behandlung beendet (01, 03, 04);15345374;9
+1;E;Behandlung beendet, nachstat. Beh. vorgesehen (02, 14, 15);1234241;10
+1;E;Tod;414267;11
+1;E;Verlegung (E) in ein anderes Krankenhaus;610822;12
+1;E;Verlegung (E) in ein anderes Krankenhaus im Rahmen einer Kooperation;14496;13
+1;E;Externe Verlegung (E) zur psych. Behandlung;13257;14
+1;E;Fallabschluss (interne Verlegung) mit Wechsel zwischen voll- und teilstationärer Behandlung;3075;15
+1;E;Entlassung in andere Versorgungseinrichtung (099, 109, 119);741198;16
+1;E;Interne Verlegung zwischen den Entgeltbereichen der DRG-Fallpauschalen, nach der BPflV oder für besondere Einrichtungen nach § 17 Abs. 1 Satz 15 KHG;29433;17
+1;E;Zuständigkeitswechsel des Kostenträgers;388;18
+1;E;Entlassungen/Verlegungen gesamt;18406551;20
+2;A;Einweisung durch Arzt (E, Z);414783;1
+2;A;Notfall;77329;2
+2;A;nach vorausg. Behandlung in Reha-Einricht.;7;3
+2;A;Verlegung (A) Behandlungsdauer > 24h;1647;4
+2;A;Verlegung (A) Behandlungsdauer < 24h;940;5
+2;A;Geburt;40349;7
+2;A;Aufnahmen gesamt (ohne Begleitpersonen);535055;8
+2;E;Behandlung beendet (01, 03, 04);510589;9
+2;E;Behandlung beendet, nachstat. Beh. vorgesehen (02, 14, 15);3442;10
+2;E;Tod;1489;11
+2;E;Verlegung (E) in ein anderes Krankenhaus;6989;12
+2;E;Verlegung (E) in ein anderes Krankenhaus im Rahmen einer Kooperation;313;13
+2;E;Externe Verlegung (E) zur psych. Behandlung;14;14
+2;E;Fallabschluss (interne Verlegung) mit Wechsel zwischen voll- und teilstationärer Behandlung;2;15
+2;E;Entlassung in andere Versorgungseinrichtung (099, 109, 119);12191;16
+2;E;Interne Verlegung zwischen den Entgeltbereichen der DRG-Fallpauschalen, nach der BPflV oder für besondere Einrichtungen nach § 17 Abs. 1 Satz 15 KHG;21;17
+2;E;Zuständigkeitswechsel des Kostenträgers;5;18
+2;E;Entlassungen/Verlegungen gesamt;535055;20

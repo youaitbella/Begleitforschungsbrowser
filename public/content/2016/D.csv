@@ -1,0 +1,2048 @@
+﻿Type;Bereich;Bezeichnung;Anzahl KH;AnzahlTS
+1;01;Bestimmte infektiöse und parasitäre Krankheiten;168;4877
+1;02;Neubildungen;246;149535
+1;03;Krankheiten des Blutes und der blutbildenden Organe sowie bestimmte Störungen mit Beteiligung des Immunsystems;164;7448
+1;04;Endokrine, Ernährungs- und Stoffwechselkrankheiten;221;15211
+1;05;Psychische und Verhaltensstörungen;220;19068
+1;06;Krankheiten des Nervensystems;276;39070
+1;07;Krankheiten des Auges und der Augenanhangsgebilde;83;7585
+1;08;Krankheiten des Ohres und des Warzenfortsatzes;110;8557
+1;09;Krankheiten des Kreislaufsystems;236;12056
+1;10;Krankheiten des Atmungssystems;198;5525
+1;11;Krankheiten des Verdauungssystems;186;13731
+1;12;Krankheiten der Haut und der Unterhaut;118;19475
+1;13;Krankheiten des Muskel-Skelett-Systems und des Bindegewebes;287;28971
+1;14;Krankheiten des Urogenitalsystems;198;13201
+1;15;Schwangerschaft, Geburt und Wochenbett;23;924
+1;16;Bestimmte Zustände, die ihren Ursprung in der Perinatalperiode haben;29;167
+1;17;Angeborene Fehlbildungen, Deformitäten und Chromosomenanomalien;98;5739
+1;18;Symptome und abnorme klinische und Laborbefunde, die anderenorts nicht klassifiziert sind;293;28139
+1;19;Verletzungen, Vergiftungen und bestimmte andere Folgen äußerer Ursachen;233;9680
+1;20;Äußere Ursachen von Morbidität und Mortalität;0;0
+1;21;Faktoren, die den Gesundheitszustand beeinflussen und zur Inanspruchnahme des Gesundheitswesens führen;223;39167
+1;22;Schlüsselnummern für besondere Zwecke;5;10
+2;A00-A09;Infektiöse Darmkrankheiten;62;230
+2;A15-A19;Tuberkulose;21;114
+2;A20-A28;Bestimmte bakterielle Zoonosen;6;7
+2;A30-A49;Sonstige bakterielle Krankheiten;74;367
+2;A50-A64;Infektionen, die vorwiegend durch Geschlechtsverkehr übertragen werden;31;249
+2;A65-A69;Sonstige Spirochätenkrankheiten;52;202
+2;A70-A74;Sonstige Krankheiten durch Chlamydien;-999;-999
+2;A75-A79;Rickettsiosen;-999;-999
+2;A80-A89;Virusinfektionen des Zentralnervensystems;19;37
+2;A92-A99;Durch Arthropoden übertragene Viruskrankheiten und virale hämorrhagische Fieber;-999;-999
+2;B00-B09;Virusinfektionen, die durch Haut- und Schleimhautläsionen gekennzeichnet sind;73;671
+2;B15-B19;Virushepatitis;17;281
+2;B20-B24;HIV-Krankheit [Humane Immundefizienz-Viruskrankheit];16;2265
+2;B25-B34;Sonstige Viruskrankheiten;34;107
+2;B35-B49;Mykosen;34;153
+2;B50-B64;Protozoenkrankheiten;13;19
+2;B65-B83;Helminthosen;7;30
+2;B85-B89;Pedikulose [Läusebefall], Akarinose [Milbenbefall] und sonstiger Parasitenbefall der Haut;14;57
+2;B90-B94;Folgezustände von infektiösen und parasitären Krankheiten;3;3
+2;B95-B98;Bakterien, Viren und sonstige Infektionserreger als Ursache von Krankheiten, die in anderen Kapiteln klassifiziert sind;0;0
+2;B99-B99;Sonstige Infektionskrankheiten;26;81
+2;C00-C14;Bösartige Neubildungen der Lippe, der Mundhöhle und des Pharynx;80;3178
+2;C15-C26;Bösartige Neubildungen der Verdauungsorgane;158;24941
+2;C30-C39;Bösartige Neubildungen der Atmungsorgane und sonstiger intrathorakaler Organe;128;15037
+2;C40-C41;Bösartige Neubildungen des Knochens und des Gelenkknorpels;60;1248
+2;C43-C44;Melanom und sonstige bösartige Neubildungen der Haut;80;8873
+2;C45-C49;Bösartige Neubildungen des mesothelialen Gewebes und des Weichteilgewebes;104;3637
+2;C50-C50;Bösartige Neubildungen der Brustdrüse [Mamma];114;21477
+2;C51-C58;Bösartige Neubildungen der weiblichen Genitalorgane;113;7107
+2;C60-C63;Bösartige Neubildungen der männlichen Genitalorgane;105;4768
+2;C64-C68;Bösartige Neubildungen der Harnorgane;111;2750
+2;C69-C72;Bösartige Neubildungen des Auges, des Gehirns und sonstiger Teile des Zentralnervensystems;88;4164
+2;C73-C75;Bösartige Neubildungen der Schilddrüse und sonstiger endokriner Drüsen;63;1139
+2;C76-C80;Bösartige Neubildungen ungenau bezeichneter, sekundärer und nicht näher bezeichneter Lokalisationen;128;4937
+2;C81-C96;Bösartige Neubildungen des lymphatischen, blutbildenden und verwandten Gewebes, als primär festgestellt oder vermutet;131;33846
+2;C97-C97;Bösartige Neubildungen als Primärtumoren an mehreren Lokalisationen;0;0
+2;D00-D09;In-situ-Neubildungen;45;684
+2;D10-D36;Gutartige Neubildungen;112;4850
+2;D37-D48;Neubildungen unsicheren oder unbekannten Verhaltens;137;6899
+2;D50-D53;Alimentäre Anämien;91;448
+2;D55-D59;Hämolytische Anämien;72;2130
+2;D60-D64;Aplastische und sonstige Anämien;99;1666
+2;D65-D69;Koagulopathien, Purpura und sonstige hämorrhagische Diathesen;94;1290
+2;D70-D77;Sonstige Krankheiten des Blutes und der blutbildenden Organe;73;463
+2;D80-D90;Bestimmte Störungen mit Beteiligung des Immunsystems;97;1451
+2;E00-E07;Krankheiten der Schilddrüse;58;1065
+2;E10-E14;Diabetes mellitus;158;5276
+2;E15-E16;Sonstige Störungen der Blutglukose-Regulation und der inneren Sekretion des Pankreas;21;81
+2;E20-E35;Krankheiten sonstiger endokriner Drüsen;62;2466
+2;E40-E46;Mangelernährung;16;53
+2;E50-E64;Sonstige alimentäre Mangelzustände;51;119
+2;E65-E68;Adipositas und sonstige Überernährung;63;1953
+2;E70-E90;Stoffwechselstörungen;136;4198
+2;F00-F09;Organische, einschließlich symptomatischer psychischer Störungen;130;1550
+2;F10-F19;Psychische und Verhaltensstörungen durch psychotrope Substanzen;22;86
+2;F20-F29;Schizophrenie, schizotype und wahnhafte Störungen;15;18
+2;F30-F39;Affektive Störungen;111;668
+2;F40-F48;Neurotische, Belastungs- und somatoforme Störungen;152;11317
+2;F50-F59;Verhaltensauffälligkeiten mit körperlichen Störungen und Faktoren;37;561
+2;F60-F69;Persönlichkeits- und Verhaltensstörungen;24;77
+2;F70-F79;Intelligenzstörung;18;42
+2;F80-F89;Entwicklungsstörungen;46;3352
+2;F90-F98;Verhaltens- und emotionale Störungen mit Beginn in der Kindheit und Jugend;53;1392
+2;F99-F99;Nicht näher bezeichnete psychische Störungen;4;5
+2;G00-G09;Entzündliche Krankheiten des Zentralnervensystems;46;494
+2;G10-G14;Systematrophien, die vorwiegend das Zentralnervensystem betreffen;56;290
+2;G20-G26;Extrapyramidale Krankheiten und Bewegungsstörungen;183;2085
+2;G30-G32;Sonstige degenerative Krankheiten des Nervensystems;113;1026
+2;G35-G37;Demyelinisierende Krankheiten des Zentralnervensystems;75;3701
+2;G40-G47;Episodische und paroxysmale Krankheiten des Nervensystems;178;24658
+2;G50-G59;Krankheiten von Nerven, Nervenwurzeln und Nervenplexus;110;1240
+2;G60-G64;Polyneuropathien und sonstige Krankheiten des peripheren Nervensystems;133;2705
+2;G70-G73;Krankheiten im Bereich der neuromuskulären Synapse und des Muskels;73;595
+2;G80-G83;Zerebrale Lähmung und sonstige Lähmungssyndrome;131;1182
+2;G90-G99;Sonstige Krankheiten des Nervensystems;113;1094
+2;H00-H06;Affektionen des Augenlides, des Tränenapparates und der Orbita;31;680
+2;H10-H13;Affektionen der Konjunktiva;11;47
+2;H15-H22;Affektionen der Sklera, der Hornhaut, der Iris und des Ziliarkörpers;21;105
+2;H25-H28;Affektionen der Linse;9;3506
+2;H30-H36;Affektionen der Aderhaut und der Netzhaut;16;2535
+2;H40-H42;Glaukom;7;37
+2;H43-H45;Affektionen des Glaskörpers und des Augapfels;9;20
+2;H46-H48;Affektionen des N. opticus und der Sehbahn;34;163
+2;H49-H52;Affektionen der Augenmuskeln, Störungen der Blickbewegungen sowie Akkommodationsstörungen und Refraktionsfehler;43;192
+2;H53-H54;Sehstörungen und Blindheit;44;216
+2;H55-H59;Sonstige Affektionen des Auges und der Augenanhangsgebilde;34;84
+2;H60-H62;Krankheiten des äußeren Ohres;15;78
+2;H65-H75;Krankheiten des Mittelohres und des Warzenfortsatzes;24;260
+2;H80-H83;Krankheiten des Innenohres;79;1152
+2;H90-H95;Sonstige Krankheiten des Ohres;42;7067
+2;I00-I02;Akutes rheumatisches Fieber;0;0
+2;I05-I09;Chronische rheumatische Herzkrankheiten;9;21
+2;I10-I15;Hypertonie [Hochdruckkrankheit];109;725
+2;I20-I25;Ischämische Herzkrankheiten;111;1290
+2;I26-I28;Pulmonale Herzkrankheit und Krankheiten des Lungenkreislaufes;61;129
+2;I30-I52;Sonstige Formen der Herzkrankheit;164;3539
+2;I60-I69;Zerebrovaskuläre Krankheiten;175;3359
+2;I70-I79;Krankheiten der Arterien, Arteriolen und Kapillaren;141;1711
+2;I80-I89;Krankheiten der Venen, der Lymphgefäße und der Lymphknoten, anderenorts nicht klassifiziert;92;1128
+2;I95-I99;Sonstige und nicht näher bezeichnete Krankheiten des Kreislaufsystems;48;154
+2;J00-J06;Akute Infektionen der oberen Atemwege;30;131
+2;J09-J18;Grippe und Pneumonie;79;317
+2;J20-J22;Sonstige akute Infektionen der unteren Atemwege;42;191
+2;J30-J39;Sonstige Krankheiten der oberen Atemwege;49;790
+2;J40-J47;Chronische Krankheiten der unteren Atemwege;144;2986
+2;J60-J70;Lungenkrankheiten durch exogene Substanzen;15;36
+2;J80-J84;Sonstige Krankheiten der Atmungsorgane, die hauptsächlich das Interstitium betreffen;27;141
+2;J85-J86;Purulente und nekrotisierende Krankheitszustände der unteren Atemwege;12;16
+2;J90-J94;Sonstige Krankheiten der Pleura;23;62
+2;J95-J99;Sonstige Krankheiten des Atmungssystems;57;855
+2;K00-K14;Krankheiten der Mundhöhle, der Speicheldrüsen und der Kiefer;47;1148
+2;K20-K31;Krankheiten des Ösophagus, des Magens und des Duodenums;109;2668
+2;K35-K38;Krankheiten der Appendix;7;9
+2;K40-K46;Hernien;37;101
+2;K50-K52;Nichtinfektiöse Enteritis und Kolitis;90;4555
+2;K55-K64;Sonstige Krankheiten des Darmes;126;2463
+2;K65-K67;Krankheiten des Peritoneums;11;19
+2;K70-K77;Krankheiten der Leber;67;628
+2;K80-K87;Krankheiten der Gallenblase, der Gallenwege und des Pankreas;80;586
+2;K90-K93;Sonstige Krankheiten des Verdauungssystems;70;1554
+2;L00-L08;Infektionen der Haut und der Unterhaut;53;213
+2;L10-L14;Bullöse Dermatosen;35;301
+2;L20-L30;Dermatitis und Ekzem;67;6231
+2;L40-L45;Papulosquamöse Hautkrankheiten;75;5824
+2;L50-L54;Urtikaria und Erythem;50;736
+2;L55-L59;Krankheiten der Haut und der Unterhaut durch Strahleneinwirkung;35;1873
+2;L60-L75;Krankheiten der Hautanhangsgebilde;53;1135
+2;L80-L99;Sonstige Krankheiten der Haut und der Unterhaut;82;3162
+2;M00-M03;Infektiöse Arthropathien;36;75
+2;M05-M14;Entzündliche Polyarthropathien;138;3855
+2;M15-M19;Arthrose;189;2329
+2;M20-M25;Sonstige Gelenkkrankheiten;139;1250
+2;M30-M36;Systemkrankheiten des Bindegewebes;118;3150
+2;M40-M43;Deformitäten der Wirbelsäule und des Rückens;96;846
+2;M45-M49;Spondylopathien;191;3736
+2;M50-M54;Sonstige Krankheiten der Wirbelsäule und des Rückens;212;7549
+2;M60-M63;Krankheiten der Muskeln;91;448
+2;M65-M68;Krankheiten der Synovialis und der Sehnen;36;88
+2;M70-M79;Sonstige Krankheiten des Weichteilgewebes;160;3279
+2;M80-M85;Veränderungen der Knochendichte und -struktur;144;759
+2;M86-M90;Sonstige Osteopathien;88;1011
+2;M91-M94;Chondropathien;22;46
+2;M95-M99;Sonstige Krankheiten des Muskel-Skelett-Systems und des Bindegewebes;66;550
+2;N00-N08;Glomeruläre Krankheiten;36;154
+2;N10-N16;Tubulointerstitielle Nierenkrankheiten;59;1111
+2;N17-N19;Niereninsuffizienz;145;6424
+2;N20-N23;Urolithiasis;19;263
+2;N25-N29;Sonstige Krankheiten der Niere und des Ureters;34;313
+2;N30-N39;Sonstige Krankheiten des Harnsystems;77;3781
+2;N40-N51;Krankheiten der männlichen Genitalorgane;50;272
+2;N60-N64;Krankheiten der Mamma [Brustdrüse];22;389
+2;N70-N77;Entzündliche Krankheiten der weiblichen Beckenorgane;6;22
+2;N80-N98;Nichtentzündliche Krankheiten des weiblichen Genitaltraktes;43;453
+2;N99-N99;Sonstige Krankheiten des Urogenitalsystems;8;19
+2;O00-O08;Schwangerschaft mit abortivem Ausgang;7;32
+2;O09-O09;Schwangerschaftsdauer;0;0
+2;O10-O16;Ödeme, Proteinurie und Hypertonie während der Schwangerschaft, der Geburt und des Wochenbettes;-999;-999
+2;O20-O29;Sonstige Krankheiten der Mutter, die vorwiegend mit der Schwangerschaft verbunden sind;15;343
+2;O30-O48;Betreuung der Mutter im Hinblick auf den Fetus und die Amnionhöhle sowie mögliche Entbindungskomplikationen;7;492
+2;O60-O75;Komplikationen bei Wehentätigkeit und Entbindung;3;18
+2;O80-O82;Entbindung;0;0
+2;O85-O92;Komplikationen, die vorwiegend im Wochenbett auftreten;3;11
+2;O94-O99;Sonstige Krankheitszustände während der Gestationsperiode, die anderenorts nicht klassifiziert sind;6;27
+2;P00-P04;Schädigung des Fetus und Neugeborenen durch mütterliche Faktoren und durch Komplikationen bei Schwangerschaft, Wehentätigkeit und Entbindung;-999;-999
+2;P05-P08;Störungen im Zusammenhang mit der Schwangerschaftsdauer und dem fetalen Wachstum;5;11
+2;P10-P15;Geburtstrauma;3;3
+2;P20-P29;Krankheiten des Atmungs- und Herz-Kreislaufsystems, die für die Perinatalperiode spezifisch sind;12;62
+2;P35-P39;Infektionen, die für die Perinatalperiode spezifisch sind;10;14
+2;P50-P61;Hämorrhagische und hämatologische Krankheiten beim Fetus und Neugeborenen;11;32
+2;P70-P74;Transitorische endokrine und Stoffwechselstörungen, die für den Fetus und das Neugeborene spezifisch sind;3;3
+2;P75-P78;Krankheiten des Verdauungssystems beim Fetus und Neugeborenen;-999;-999
+2;P80-P83;Krankheitszustände mit Beteiligung der Haut und der Temperaturregulation beim Fetus und Neugeborenen;-999;-999
+2;P90-P96;Sonstige Störungen, die ihren Ursprung in der Perinatalperiode haben;15;38
+2;Q00-Q07;Angeborene Fehlbildungen des Nervensystems;50;602
+2;Q10-Q18;Angeborene Fehlbildungen des Auges, des Ohres, des Gesichtes und des Halses;25;167
+2;Q20-Q28;Angeborene Fehlbildungen des Kreislaufsystems;38;760
+2;Q30-Q34;Angeborene Fehlbildungen des Atmungssystems;24;50
+2;Q35-Q37;Lippen-, Kiefer- und Gaumenspalte;5;59
+2;Q38-Q45;Sonstige angeborene Fehlbildungen des Verdauungssystems;34;308
+2;Q50-Q56;Angeborene Fehlbildungen der Genitalorgane;31;90
+2;Q60-Q64;Angeborene Fehlbildungen des Harnsystems;46;1810
+2;Q65-Q79;Angeborene Fehlbildungen und Deformitäten des Muskel-Skelett-Systems;57;515
+2;Q80-Q89;Sonstige angeborene Fehlbildungen;72;1236
+2;Q90-Q99;Chromosomenanomalien, anderenorts nicht klassifiziert;38;142
+2;R00-R09;Symptome, die das Kreislaufsystem und das Atmungssystem betreffen;109;1737
+2;R10-R19;Symptome, die das Verdauungssystem und das Abdomen betreffen;115;4234
+2;R20-R23;Symptome, die die Haut und das Unterhautgewebe betreffen;68;630
+2;R25-R29;Symptome, die das Nervensystem und das Muskel-Skelett-System betreffen;204;13103
+2;R30-R39;Symptome, die das Harnsystem betreffen;46;1195
+2;R40-R46;Symptome, die das Erkennungs- und Wahrnehmungsvermögen, die Stimmung und das Verhalten betreffen;124;2032
+2;R47-R49;Symptome, die die Sprache und die Stimme betreffen;46;257
+2;R50-R69;Allgemeinsymptome;213;4316
+2;R70-R79;Abnorme Blutuntersuchungsbefunde ohne Vorliegen einer Diagnose;51;302
+2;R80-R82;Abnorme Urinuntersuchungsbefunde ohne Vorliegen einer Diagnose;14;19
+2;R83-R89;Abnorme Befunde ohne Vorliegen einer Diagnose bei der Untersuchung anderer Körperflüssigkeiten, Substanzen und Gewebe;6;10
+2;R90-R94;Abnorme Befunde ohne Vorliegen einer Diagnose bei bildgebender Diagnostik und Funktionsprüfungen;60;304
+2;R95-R99;Ungenau bezeichnete und unbekannte Todesursachen;0;0
+2;S00-S09;Verletzungen des Kopfes;99;1298
+2;S10-S19;Verletzungen des Halses;34;83
+2;S20-S29;Verletzungen des Thorax;92;319
+2;S30-S39;Verletzungen des Abdomens, der Lumbosakralgegend, der Lendenwirbelsäule und des Beckens;125;879
+2;S40-S49;Verletzungen der Schulter und des Oberarmes;128;848
+2;S50-S59;Verletzungen des Ellenbogens und des Unterarmes;74;199
+2;S60-S69;Verletzungen des Handgelenkes und der Hand;21;61
+2;S70-S79;Verletzungen der Hüfte und des Oberschenkels;127;1779
+2;S80-S89;Verletzungen des Knies und des Unterschenkels;105;392
+2;S90-S99;Verletzungen der Knöchelregion und des Fußes;41;86
+2;T00-T07;Verletzungen mit Beteiligung mehrerer Körperregionen;7;9
+2;T08-T14;Verletzungen nicht näher bezeichneter Teile des Rumpfes, der Extremitäten oder anderer Körperregionen;20;66
+2;T15-T19;Folgen des Eindringens eines Fremdkörpers durch eine natürliche Körperöffnung;27;163
+2;T20-T25;Verbrennungen oder Verätzungen der äußeren Körperoberfläche, Lokalisation bezeichnet;20;77
+2;T26-T28;Verbrennungen oder Verätzungen, die auf das Auge und auf innere Organe begrenzt sind;3;4
+2;T29-T32;Verbrennungen oder Verätzungen mehrerer und nicht näher bezeichneter Körperregionen;3;4
+2;T33-T35;Erfrierungen;0;0
+2;T36-T50;Vergiftungen durch Arzneimittel, Drogen und biologisch aktive Substanzen;11;15
+2;T51-T65;Toxische Wirkungen von vorwiegend nicht medizinisch verwendeten Substanzen;24;214
+2;T66-T78;Sonstige und nicht näher bezeichnete Schäden durch äußere Ursachen;48;1183
+2;T79-T79;Bestimmte Frühkomplikationen eines Traumas;7;8
+2;T80-T88;Komplikationen bei chirurgischen Eingriffen und medizinischer Behandlung, anderenorts nicht klassifiziert;141;1924
+2;T89-T89;Sonstige Komplikationen eines Traumas, anderenorts nicht klassifiziert;14;52
+2;T90-T98;Folgen von Verletzungen, Vergiftungen und sonstigen Auswirkungen äußerer Ursachen;9;17
+2;U00-U49;Vorläufige Zuordnungen für Krankheiten mit unklarer Ätiologie und nicht belegte Schlüsselnummern;0;0
+2;U50-U52;Funktionseinschränkung;4;6
+2;U55-U55;Erfolgte Registrierung zur Organtransplantation;-999;-999
+2;U60-U61;Stadieneinteilung der HIV-Infektion;0;0
+2;U69-U69;Sonstige sekundäre Schlüsselnummern für besondere Zwecke;0;0
+2;U80-U85;Infektionserreger mit Resistenzen gegen bestimmte Antibiotika oder Chemotherapeutika;0;0
+2;U99-U99;Nicht belegte Schlüsselnummern;0;0
+2;V01-X59;Unfälle;0;0
+2;X60-X84;Vorsätzliche Selbstbeschädigung;0;0
+2;X85-Y09;Tätlicher Angriff;0;0
+2;Y10-Y34;Ereignis, dessen nähere Umstände unbestimmt sind;0;0
+2;Y35-Y36;Gesetzliche Maßnahmen und Kriegshandlungen;0;0
+2;Y40-Y84;Komplikationen bei der medizinischen und chirurgischen Behandlung;0;0
+2;Z00-Z13;Personen, die das Gesundheitswesen zur Untersuchung und Abklärung in Anspruch nehmen;99;8676
+2;Z20-Z29;Personen mit potentiellen Gesundheitsrisiken hinsichtlich übertragbarer Krankheiten;30;442
+2;Z30-Z39;Personen, die das Gesundheitswesen im Zusammenhang mit Problemen der Reproduktion in Anspruch nehmen;8;12
+2;Z40-Z54;Personen, die das Gesundheitswesen zum Zwecke spezifischer Maßnahmen und zur medizinischen Betreuung in Anspruch nehmen;166;28914
+2;Z55-Z65;Personen mit potentiellen Gesundheitsrisiken aufgrund sozioökonomischer oder psychosozialer Umstände;3;20
+2;Z70-Z76;Personen, die das Gesundheitswesen aus sonstigen Gründen in Anspruch nehmen;16;92
+2;Z80-Z99;Personen mit potentiellen Gesundheitsrisiken aufgrund der Familien- oder Eigenanamnese und bestimmte Zustände, die den Gesundheitszustand beeinflussen;70;1011
+3;A00;Cholera;0;0
+3;A01;Typhus abdominalis und Paratyphus;-999;-999
+3;A02;Sonstige Salmonelleninfektionen;4;4
+3;A03;Shigellose [Bakterielle Ruhr];-999;-999
+3;A04;Sonstige bakterielle Darminfektionen;21;35
+3;A05;Sonstige bakteriell bedingte Lebensmittelvergiftungen, anderenorts nicht klassifiziert;2;4
+3;A06;Amöbiasis;-999;-999
+3;A07;Sonstige Darmkrankheiten durch Protozoen;2;2
+3;A08;Virusbedingte und sonstige näher bezeichnete Darminfektionen;12;24
+3;A09;Sonstige und nicht näher bezeichnete Gastroenteritis und Kolitis infektiösen und nicht näher bezeichneten Ursprungs;49;158
+3;A15;Tuberkulose der Atmungsorgane, bakteriologisch, molekularbiologisch oder histologisch gesichert;8;18
+3;A16;Tuberkulose der Atmungsorgane, weder bakteriologisch, molekularbiologisch noch histologisch gesichert;10;68
+3;A17;Tuberkulose des Nervensystems;5;6
+3;A18;Tuberkulose sonstiger Organe;10;22
+3;A19;Miliartuberkulose;0;0
+3;A20;Pest;0;0
+3;A21;Tularämie;0;0
+3;A22;Anthrax [Milzbrand];0;0
+3;A23;Brucellose;0;0
+3;A24;Rotz [Malleus] und Melioidose [Pseudorotz];0;0
+3;A25;Rattenbisskrankheiten;0;0
+3;A26;Erysipeloid;5;5
+3;A27;Leptospirose;0;0
+3;A28;Sonstige bakterielle Zoonosen, anderenorts nicht klassifiziert;-999;-999
+3;A30;Lepra [Aussatz];0;0
+3;A31;Infektion durch sonstige Mykobakterien;10;25
+3;A32;Listeriose;0;0
+3;A33;Tetanus neonatorum;0;0
+3;A34;Tetanus während der Schwangerschaft, der Geburt und des Wochenbettes;0;0
+3;A35;Sonstiger Tetanus;0;0
+3;A36;Diphtherie;0;0
+3;A37;Keuchhusten;-999;-999
+3;A38;Scharlach;0;0
+3;A39;Meningokokkeninfektion;0;0
+3;A40;Streptokokkensepsis;10;12
+3;A41;Sonstige Sepsis;33;59
+3;A42;Aktinomykose;-999;-999
+3;A43;Nokardiose;0;0
+3;A44;Bartonellose;0;0
+3;A46;Erysipel [Wundrose];41;86
+3;A48;Sonstige bakterielle Krankheiten, anderenorts nicht klassifiziert;3;4
+3;A49;Bakterielle Infektion nicht näher bezeichneter Lokalisation;11;178
+3;A50;Syphilis connata;-999;-999
+3;A51;Frühsyphilis;10;50
+3;A52;Spätsyphilis;9;13
+3;A53;Sonstige und nicht näher bezeichnete Syphilis;10;53
+3;A54;Gonokokkeninfektion;6;6
+3;A55;Lymphogranuloma inguinale (venereum) durch Chlamydien;0;0
+3;A56;Sonstige durch Geschlechtsverkehr übertragene Chlamydienkrankheiten;-999;-999
+3;A57;Ulcus molle (venereum);0;0
+3;A58;Granuloma venereum (inguinale);0;0
+3;A59;Trichomoniasis;0;0
+3;A60;Infektionen des Anogenitalbereiches durch Herpesviren [Herpes simplex];0;0
+3;A63;Sonstige vorwiegend durch Geschlechtsverkehr übertragene Krankheiten, anderenorts nicht klassifiziert;19;124
+3;A64;Durch Geschlechtsverkehr übertragene Krankheiten, nicht näher bezeichnet;-999;-999
+3;A65;Nichtvenerische Syphilis;0;0
+3;A66;Frambösie;0;0
+3;A67;Pinta [Carate];0;0
+3;A68;Rückfallfieber;0;0
+3;A69;Sonstige Spirochäteninfektionen;52;202
+3;A70;Infektionen durch Chlamydia psittaci;0;0
+3;A71;Trachom;0;0
+3;A74;Sonstige Krankheiten durch Chlamydien;-999;-999
+3;A75;Fleckfieber;0;0
+3;A77;Zeckenbissfieber [Rickettsiosen, durch Zecken übertragen];0;0
+3;A78;Q-Fieber;0;0
+3;A79;Sonstige Rickettsiosen;-999;-999
+3;A80;Akute Poliomyelitis [Spinale Kinderlähmung];0;0
+3;A81;Atypische Virusinfektionen des Zentralnervensystems;8;12
+3;A82;Tollwut [Rabies];0;0
+3;A83;Virusenzephalitis, durch Moskitos [Stechmücken] übertragen;0;0
+3;A84;Virusenzephalitis, durch Zecken übertragen;3;3
+3;A85;Sonstige Virusenzephalitis, anderenorts nicht klassifiziert;2;2
+3;A86;Virusenzephalitis, nicht näher bezeichnet;2;3
+3;A87;Virusmeningitis;9;17
+3;A88;Sonstige Virusinfektionen des Zentralnervensystems, anderenorts nicht klassifiziert;0;0
+3;A89;Virusinfektion des Zentralnervensystems, nicht näher bezeichnet;0;0
+3;A92;Sonstige durch Moskitos [Stechmücken] übertragene Viruskrankheiten;-999;-999
+3;A93;Sonstige durch Arthropoden übertragene Viruskrankheiten, anderenorts nicht klassifiziert;0;0
+3;A94;Durch Arthropoden übertragene Viruskrankheit, nicht näher bezeichnet;0;0
+3;A95;Gelbfieber;0;0
+3;A96;Hämorrhagisches Fieber durch Arenaviren;0;0
+3;A97;Dengue;-999;-999
+3;A98;Sonstige hämorrhagische Viruskrankheiten, anderenorts nicht klassifiziert;0;0
+3;A99;Nicht näher bezeichnete hämorrhagische Viruskrankheit;0;0
+3;B00;Infektionen durch Herpesviren [Herpes simplex];14;22
+3;B01;Varizellen [Windpocken];-999;-999
+3;B02;Zoster [Herpes zoster];49;157
+3;B03;Pocken;0;0
+3;B04;Affenpocken;0;0
+3;B05;Masern;0;0
+3;B06;Röteln [Rubeola] [Rubella];0;0
+3;B07;Viruswarzen;25;350
+3;B08;Sonstige Virusinfektionen, die durch Haut- und Schleimhautläsionen gekennzeichnet sind, anderenorts nicht klassifiziert;26;140
+3;B09;Nicht näher bezeichnete Virusinfektion, die durch Haut- und Schleimhautläsionen gekennzeichnet ist;-999;-999
+3;B15;Akute Virushepatitis A;0;0
+3;B16;Akute Virushepatitis B;3;4
+3;B17;Sonstige akute Virushepatitis;5;6
+3;B18;Chronische Virushepatitis;14;271
+3;B19;Nicht näher bezeichnete Virushepatitis;0;0
+3;B20;Infektiöse und parasitäre Krankheiten infolge HIV-Krankheit [Humane Immundefizienz-Viruskrankheit];3;179
+3;B21;Bösartige Neubildungen infolge HIV-Krankheit [Humane Immundefizienz-Viruskrankheit];3;85
+3;B22;Sonstige näher bezeichnete Krankheiten infolge HIV-Krankheit [Humane Immundefizienz-Viruskrankheit];6;86
+3;B23;Sonstige Krankheitszustände infolge HIV-Krankheit [Humane Immundefizienz-Viruskrankheit];6;796
+3;B24;Nicht näher bezeichnete HIV-Krankheit [Humane Immundefizienz-Viruskrankheit];14;1119
+3;B25;Zytomegalie;16;21
+3;B26;Mumps;0;0
+3;B27;Infektiöse Mononukleose;18;26
+3;B30;Viruskonjunktivitis;0;0
+3;B33;Sonstige Viruskrankheiten, anderenorts nicht klassifiziert;3;22
+3;B34;Viruskrankheit nicht näher bezeichneter Lokalisation;13;38
+3;B35;Dermatophytose [Tinea];20;74
+3;B36;Sonstige oberflächliche Mykosen;2;2
+3;B37;Kandidose;13;19
+3;B38;Kokzidioidomykose;0;0
+3;B39;Histoplasmose;0;0
+3;B40;Blastomykose;0;0
+3;B41;Parakokzidioidomykose;0;0
+3;B42;Sporotrichose;0;0
+3;B43;Chromomykose und chromomykotischer Abszess;0;0
+3;B44;Aspergillose;6;58
+3;B45;Kryptokokkose;0;0
+3;B46;Zygomykose;0;0
+3;B47;Myzetom;0;0
+3;B48;Sonstige Mykosen, anderenorts nicht klassifiziert;0;0
+3;B49;Nicht näher bezeichnete Mykose;0;0
+3;B50;Malaria tropica durch Plasmodium falciparum;0;0
+3;B51;Malaria tertiana durch Plasmodium vivax;-999;-999
+3;B52;Malaria quartana durch Plasmodium malariae;0;0
+3;B53;Sonstige parasitologisch bestätigte Malaria;0;0
+3;B54;Malaria, nicht näher bezeichnet;0;0
+3;B55;Leishmaniose;12;16
+3;B56;Afrikanische Trypanosomiasis;0;0
+3;B57;Chagas-Krankheit;0;0
+3;B58;Toxoplasmose;2;2
+3;B59;Pneumozystose;0;0
+3;B60;Sonstige Protozoenkrankheiten, anderenorts nicht klassifiziert;0;0
+3;B64;Nicht näher bezeichnete Protozoenkrankheit;0;0
+3;B65;Schistosomiasis [Bilharziose];-999;-999
+3;B66;Befall durch sonstige Trematoden [Egel];0;0
+3;B67;Echinokokkose;6;17
+3;B68;Taeniasis;0;0
+3;B69;Zystizerkose;0;0
+3;B70;Diphyllobothriose und Sparganose;0;0
+3;B71;Befall durch sonstige Zestoden;-999;-999
+3;B72;Drakunkulose;0;0
+3;B73;Onchozerkose;0;0
+3;B74;Filariose;-999;-999
+3;B75;Trichinellose;-999;-999
+3;B76;Hakenwurm-Krankheit;-999;-999
+3;B77;Askaridose;0;0
+3;B78;Strongyloidiasis;0;0
+3;B79;Trichuriasis;0;0
+3;B80;Enterobiasis;2;7
+3;B81;Sonstige intestinale Helminthosen, anderenorts nicht klassifiziert;0;0
+3;B82;Nicht näher bezeichneter intestinaler Parasitismus;0;0
+3;B83;Sonstige Helminthosen;-999;-999
+3;B85;Pedikulose [Läusebefall] und Phthiriasis [Filzläusebefall];-999;-999
+3;B86;Skabies;13;54
+3;B87;Myiasis;0;0
+3;B88;Sonstiger Parasitenbefall der Haut;-999;-999
+3;B89;Nicht näher bezeichnete parasitäre Krankheit;0;0
+3;B90;Folgezustände der Tuberkulose;0;0
+3;B91;Folgezustände der Poliomyelitis;-999;-999
+3;B92;Folgezustände der Lepra;0;0
+3;B94;Folgezustände sonstiger und nicht näher bezeichneter infektiöser und parasitärer Krankheiten;2;2
+3;B95;Streptokokken und Staphylokokken als Ursache von Krankheiten, die in anderen Kapiteln klassifiziert sind;0;0
+3;B96;Sonstige näher bezeichnete Bakterien als Ursache von Krankheiten, die in anderen Kapiteln klassifiziert sind;0;0
+3;B97;Viren als Ursache von Krankheiten, die in anderen Kapiteln klassifiziert sind;0;0
+3;B98;Sonstige näher bezeichnete infektiöse Erreger als Ursache von Krankheiten, die in anderen Kapiteln klassifiziert sind;0;0
+3;B99;Sonstige und nicht näher bezeichnete Infektionskrankheiten;26;81
+3;C00;Bösartige Neubildung der Lippe;18;68
+3;C01;Bösartige Neubildung des Zungengrundes;30;256
+3;C02;Bösartige Neubildung sonstiger und nicht näher bezeichneter Teile der Zunge;32;253
+3;C03;Bösartige Neubildung des Zahnfleisches;14;44
+3;C04;Bösartige Neubildung des Mundbodens;35;348
+3;C05;Bösartige Neubildung des Gaumens;16;36
+3;C06;Bösartige Neubildung sonstiger und nicht näher bezeichneter Teile des Mundes;22;92
+3;C07;Bösartige Neubildung der Parotis;36;177
+3;C08;Bösartige Neubildung sonstiger und nicht näher bezeichneter großer Speicheldrüsen;17;66
+3;C09;Bösartige Neubildung der Tonsille;36;347
+3;C10;Bösartige Neubildung des Oropharynx;44;682
+3;C11;Bösartige Neubildung des Nasopharynx;35;213
+3;C12;Bösartige Neubildung des Recessus piriformis;8;26
+3;C13;Bösartige Neubildung des Hypopharynx;43;550
+3;C14;Bösartige Neubildung sonstiger und ungenau bezeichneter Lokalisationen der Lippe, der Mundhöhle und des Pharynx;13;20
+3;C15;Bösartige Neubildung des Ösophagus;91;1868
+3;C16;Bösartige Neubildung des Magens;97;3346
+3;C17;Bösartige Neubildung des Dünndarmes;49;520
+3;C18;Bösartige Neubildung des Kolons;122;5814
+3;C19;Bösartige Neubildung am Rektosigmoid, Übergang;53;418
+3;C20;Bösartige Neubildung des Rektums;108;4837
+3;C21;Bösartige Neubildung des Anus und des Analkanals;56;373
+3;C22;Bösartige Neubildung der Leber und der intrahepatischen Gallengänge;88;1853
+3;C23;Bösartige Neubildung der Gallenblase;53;246
+3;C24;Bösartige Neubildung sonstiger und nicht näher bezeichneter Teile der Gallenwege;71;551
+3;C25;Bösartige Neubildung des Pankreas;98;5081
+3;C26;Bösartige Neubildung sonstiger und ungenau bezeichneter Verdauungsorgane;18;34
+3;C30;Bösartige Neubildung der Nasenhöhle und des Mittelohres;15;61
+3;C31;Bösartige Neubildung der Nasennebenhöhlen;32;158
+3;C32;Bösartige Neubildung des Larynx;44;516
+3;C33;Bösartige Neubildung der Trachea;6;11
+3;C34;Bösartige Neubildung der Bronchien und der Lunge;123;14027
+3;C37;Bösartige Neubildung des Thymus;31;160
+3;C38;Bösartige Neubildung des Herzens, des Mediastinums und der Pleura;38;97
+3;C39;Bösartige Neubildung sonstiger und ungenau bezeichneter Lokalisationen des Atmungssystems und sonstiger intrathorakaler Organe;4;7
+3;C40;Bösartige Neubildung des Knochens und des Gelenkknorpels der Extremitäten;44;613
+3;C41;Bösartige Neubildung des Knochens und des Gelenkknorpels sonstiger und nicht näher bezeichneter Lokalisationen;51;635
+3;C43;Bösartiges Melanom der Haut;67;5723
+3;C44;Sonstige bösartige Neubildungen der Haut;64;3150
+3;C45;Mesotheliom;60;716
+3;C46;Kaposi-Sarkom [Sarcoma idiopathicum multiplex haemorrhagicum];18;68
+3;C47;Bösartige Neubildung der peripheren Nerven und des autonomen Nervensystems;37;709
+3;C48;Bösartige Neubildung des Retroperitoneums und des Peritoneums;49;221
+3;C49;Bösartige Neubildung sonstigen Bindegewebes und anderer Weichteilgewebe;87;1923
+3;C50;Bösartige Neubildung der Brustdrüse [Mamma];114;21477
+3;C51;Bösartige Neubildung der Vulva;44;209
+3;C52;Bösartige Neubildung der Vagina;22;60
+3;C53;Bösartige Neubildung der Cervix uteri;73;1141
+3;C54;Bösartige Neubildung des Corpus uteri;80;1086
+3;C55;Bösartige Neubildung des Uterus, Teil nicht näher bezeichnet;20;80
+3;C56;Bösartige Neubildung des Ovars;98;4127
+3;C57;Bösartige Neubildung sonstiger und nicht näher bezeichneter weiblicher Genitalorgane;44;380
+3;C58;Bösartige Neubildung der Plazenta;4;24
+3;C60;Bösartige Neubildung des Penis;17;29
+3;C61;Bösartige Neubildung der Prostata;96;4035
+3;C62;Bösartige Neubildung des Hodens;60;659
+3;C63;Bösartige Neubildung sonstiger und nicht näher bezeichneter männlicher Genitalorgane;12;45
+3;C64;Bösartige Neubildung der Niere, ausgenommen Nierenbecken;90;1297
+3;C65;Bösartige Neubildung des Nierenbeckens;33;116
+3;C66;Bösartige Neubildung des Ureters;16;56
+3;C67;Bösartige Neubildung der Harnblase;75;1070
+3;C68;Bösartige Neubildung sonstiger und nicht näher bezeichneter Harnorgane;33;211
+3;C69;Bösartige Neubildung des Auges und der Augenanhangsgebilde;41;252
+3;C70;Bösartige Neubildung der Meningen;7;17
+3;C71;Bösartige Neubildung des Gehirns;78;3708
+3;C72;Bösartige Neubildung des Rückenmarkes, der Hirnnerven und anderer Teile des Zentralnervensystems;25;187
+3;C73;Bösartige Neubildung der Schilddrüse;49;277
+3;C74;Bösartige Neubildung der Nebenniere;37;494
+3;C75;Bösartige Neubildung sonstiger endokriner Drüsen und verwandter Strukturen;32;368
+3;C76;Bösartige Neubildung sonstiger und ungenau bezeichneter Lokalisationen;33;136
+3;C77;Sekundäre und nicht näher bezeichnete bösartige Neubildung der Lymphknoten;49;471
+3;C78;Sekundäre bösartige Neubildung der Atmungs- und Verdauungsorgane;74;981
+3;C79;Sekundäre bösartige Neubildung an sonstigen und nicht näher bezeichneten Lokalisationen;94;1920
+3;C80;Bösartige Neubildung ohne Angabe der Lokalisation;99;1429
+3;C81;Hodgkin-Lymphom [Lymphogranulomatose];91;2534
+3;C82;Follikuläres Lymphom;89;2178
+3;C83;Nicht follikuläres Lymphom;105;4659
+3;C84;Reifzellige T/NK-Zell-Lymphome;74;1235
+3;C85;Sonstige und nicht näher bezeichnete Typen des Non-Hodgkin-Lymphoms;92;1951
+3;C86;Weitere spezifizierte T/NK-Zell-Lymphome;43;162
+3;C88;Bösartige immunproliferative Krankheiten;60;462
+3;C90;Plasmozytom und bösartige Plasmazellen-Neubildungen;94;8488
+3;C91;Lymphatische Leukämie;88;6672
+3;C92;Myeloische Leukämie;84;4171
+3;C93;Monozytenleukämie;53;649
+3;C94;Sonstige Leukämien näher bezeichneten Zelltyps;36;104
+3;C95;Leukämie nicht näher bezeichneten Zelltyps;30;88
+3;C96;Sonstige und nicht näher bezeichnete bösartige Neubildungen des lymphatischen, blutbildenden und verwandten Gewebes;43;493
+3;C97;Bösartige Neubildungen als Primärtumoren an mehreren Lokalisationen;0;0
+3;D00;Carcinoma in situ der Mundhöhle, des Ösophagus und des Magens;5;9
+3;D01;Carcinoma in situ sonstiger und nicht näher bezeichneter Verdauungsorgane;5;6
+3;D02;Carcinoma in situ des Mittelohres und des Atmungssystems;4;5
+3;D03;Melanoma in situ;24;208
+3;D04;Carcinoma in situ der Haut;26;313
+3;D05;Carcinoma in situ der Brustdrüse [Mamma];12;80
+3;D06;Carcinoma in situ der Cervix uteri;3;4
+3;D07;Carcinoma in situ sonstiger und nicht näher bezeichneter Genitalorgane;14;56
+3;D09;Carcinoma in situ sonstiger und nicht näher bezeichneter Lokalisationen;3;3
+3;D10;Gutartige Neubildung des Mundes und des Pharynx;11;40
+3;D11;Gutartige Neubildung der großen Speicheldrüsen;7;42
+3;D12;Gutartige Neubildung des Kolons, des Rektums, des Analkanals und des Anus;23;57
+3;D13;Gutartige Neubildung sonstiger und ungenau bezeichneter Teile des Verdauungssystems;28;101
+3;D14;Gutartige Neubildung des Mittelohres und des Atmungssystems;8;22
+3;D15;Gutartige Neubildung sonstiger und nicht näher bezeichneter intrathorakaler Organe;9;18
+3;D16;Gutartige Neubildung des Knochens und des Gelenkknorpels;23;32
+3;D17;Gutartige Neubildung des Fettgewebes;34;153
+3;D18;Hämangiom und Lymphangiom;58;479
+3;D19;Gutartige Neubildung des mesothelialen Gewebes;0;0
+3;D20;Gutartige Neubildung des Weichteilgewebes des Retroperitoneums und des Peritoneums;3;6
+3;D21;Sonstige gutartige Neubildungen des Bindegewebes und anderer Weichteilgewebe;28;77
+3;D22;Melanozytennävus;37;1114
+3;D23;Sonstige gutartige Neubildungen der Haut;35;307
+3;D24;Gutartige Neubildung der Brustdrüse [Mamma];6;29
+3;D25;Leiomyom des Uterus;5;6
+3;D26;Sonstige gutartige Neubildungen des Uterus;0;0
+3;D27;Gutartige Neubildung des Ovars;10;34
+3;D28;Gutartige Neubildung sonstiger und nicht näher bezeichneter weiblicher Genitalorgane;5;8
+3;D29;Gutartige Neubildung der männlichen Genitalorgane;7;35
+3;D30;Gutartige Neubildung der Harnorgane;4;7
+3;D31;Gutartige Neubildung des Auges und der Augenanhangsgebilde;11;22
+3;D32;Gutartige Neubildung der Meningen;33;706
+3;D33;Gutartige Neubildung des Gehirns und anderer Teile des Zentralnervensystems;43;895
+3;D34;Gutartige Neubildung der Schilddrüse;5;8
+3;D35;Gutartige Neubildung sonstiger und nicht näher bezeichneter endokriner Drüsen;30;461
+3;D36;Gutartige Neubildung an sonstigen und nicht näher bezeichneten Lokalisationen;45;191
+3;D37;Neubildung unsicheren oder unbekannten Verhaltens der Mundhöhle und der Verdauungsorgane;49;478
+3;D38;Neubildung unsicheren oder unbekannten Verhaltens des Mittelohres, der Atmungsorgane und der intrathorakalen Organe;37;220
+3;D39;Neubildung unsicheren oder unbekannten Verhaltens der weiblichen Genitalorgane;20;37
+3;D40;Neubildung unsicheren oder unbekannten Verhaltens der männlichen Genitalorgane;18;59
+3;D41;Neubildung unsicheren oder unbekannten Verhaltens der Harnorgane;21;48
+3;D42;Neubildung unsicheren oder unbekannten Verhaltens der Meningen;6;6
+3;D43;Neubildung unsicheren oder unbekannten Verhaltens des Gehirns und des Zentralnervensystems;39;263
+3;D44;Neubildung unsicheren oder unbekannten Verhaltens der endokrinen Drüsen;41;272
+3;D45;Polycythaemia vera;38;338
+3;D46;Myelodysplastische Syndrome;84;2607
+3;D47;Sonstige Neubildungen unsicheren oder unbekannten Verhaltens des lymphatischen, blutbildenden und verwandten Gewebes;78;1015
+3;D48;Neubildung unsicheren oder unbekannten Verhaltens an sonstigen und nicht näher bezeichneten Lokalisationen;79;1556
+3;D50;Eisenmangelanämie;83;395
+3;D51;Vitamin-B12-Mangelanämie;16;24
+3;D52;Folsäure-Mangelanämie;5;11
+3;D53;Sonstige alimentäre Anämien;6;18
+3;D55;Anämie durch Enzymdefekte;13;67
+3;D56;Thalassämie;46;1399
+3;D57;Sichelzellenkrankheiten;25;288
+3;D58;Sonstige hereditäre hämolytische Anämien;27;116
+3;D59;Erworbene hämolytische Anämien;54;260
+3;D60;Erworbene isolierte aplastische Anämie [Erythroblastopenie] [pure red cell aplasia];11;26
+3;D61;Sonstige aplastische Anämien;64;1183
+3;D62;Akute Blutungsanämie;16;32
+3;D63;Anämie bei chronischen, anderenorts klassifizierten Krankheiten;0;0
+3;D64;Sonstige Anämien;68;425
+3;D65;Disseminierte intravasale Gerinnung [Defibrinationssyndrom];2;2
+3;D66;Hereditärer Faktor-VIII-Mangel;20;55
+3;D67;Hereditärer Faktor-IX-Mangel;4;7
+3;D68;Sonstige Koagulopathien;37;258
+3;D69;Purpura und sonstige hämorrhagische Diathesen;87;968
+3;D70;Agranulozytose und Neutropenie;47;162
+3;D71;Funktionelle Störungen der neutrophilen Granulozyten;12;32
+3;D72;Sonstige Krankheiten der Leukozyten;24;45
+3;D73;Krankheiten der Milz;9;10
+3;D74;Methämoglobinämie;-999;-999
+3;D75;Sonstige Krankheiten des Blutes und der blutbildenden Organe;35;106
+3;D76;Sonstige näher bezeichnete Krankheiten mit Beteiligung des lymphoretikulären Gewebes und des retikulohistiozytären Systems;24;107
+3;D77;Sonstige Krankheiten des Blutes und der blutbildenden Organe bei anderenorts klassifizierten Krankheiten;0;0
+3;D80;Immundefekt mit vorherrschendem Antikörpermangel;46;794
+3;D81;Kombinierte Immundefekte;18;113
+3;D82;Immundefekt in Verbindung mit anderen schweren Defekten;16;37
+3;D83;Variabler Immundefekt [common variable immunodeficiency];14;78
+3;D84;Sonstige Immundefekte;26;142
+3;D86;Sarkoidose;56;236
+3;D89;Sonstige Störungen mit Beteiligung des Immunsystems, anderenorts nicht klassifiziert;14;45
+3;D90;Immunkompromittierung nach Bestrahlung, Chemotherapie und sonstigen immunsuppressiven Maßnahmen;3;6
+3;E00;Angeborenes Jodmangelsyndrom;0;0
+3;E01;Jodmangelbedingte Schilddrüsenkrankheiten und verwandte Zustände;4;8
+3;E02;Subklinische Jodmangel-Hypothyreose;-999;-999
+3;E03;Sonstige Hypothyreose;29;156
+3;E04;Sonstige nichttoxische Struma;17;166
+3;E05;Hyperthyreose [Thyreotoxikose];27;471
+3;E06;Thyreoiditis;22;254
+3;E07;Sonstige Krankheiten der Schilddrüse;6;9
+3;E10;Diabetes mellitus, Typ 1;61;1972
+3;E11;Diabetes mellitus, Typ 2;135;2767
+3;E12;Diabetes mellitus in Verbindung mit Fehl- oder Mangelernährung [Malnutrition];2;2
+3;E13;Sonstiger näher bezeichneter Diabetes mellitus;22;102
+3;E14;Nicht näher bezeichneter Diabetes mellitus;17;433
+3;E15;Hypoglykämisches Koma, nichtdiabetisch;0;0
+3;E16;Sonstige Störungen der inneren Sekretion des Pankreas;21;81
+3;E20;Hypoparathyreoidismus;8;11
+3;E21;Hyperparathyreoidismus und sonstige Krankheiten der Nebenschilddrüse;12;54
+3;E22;Überfunktion der Hypophyse;16;77
+3;E23;Unterfunktion und andere Störungen der Hypophyse;44;737
+3;E24;Cushing-Syndrom;10;37
+3;E25;Adrenogenitale Störungen;18;68
+3;E26;Hyperaldosteronismus;7;29
+3;E27;Sonstige Krankheiten der Nebenniere;19;84
+3;E28;Ovarielle Dysfunktion;20;81
+3;E29;Testikuläre Dysfunktion;9;18
+3;E30;Pubertätsstörungen, anderenorts nicht klassifiziert;31;281
+3;E31;Polyglanduläre Dysfunktion;5;13
+3;E32;Krankheiten des Thymus;2;2
+3;E34;Sonstige endokrine Störungen;41;974
+3;E35;Störungen der endokrinen Drüsen bei anderenorts klassifizierten Krankheiten;0;0
+3;E40;Kwashiorkor;0;0
+3;E41;Alimentärer Marasmus;6;15
+3;E42;Kwashiorkor-Marasmus;0;0
+3;E43;Nicht näher bezeichnete erhebliche Energie- und Eiweißmangelernährung;4;4
+3;E44;Energie- und Eiweißmangelernährung mäßigen und leichten Grades;2;3
+3;E45;Entwicklungsverzögerung durch Energie- und Eiweißmangelernährung;6;18
+3;E46;Nicht näher bezeichnete Energie- und Eiweißmangelernährung;5;13
+3;E50;Vitamin-A-Mangel;-999;-999
+3;E51;Thiaminmangel [Vitamin-B1-Mangel];-999;-999
+3;E52;Niazinmangel [Pellagra];0;0
+3;E53;Mangel an sonstigen Vitaminen des Vitamin-B-Komplexes;32;47
+3;E54;Ascorbinsäuremangel;0;0
+3;E55;Vitamin-D-Mangel;10;25
+3;E56;Sonstige Vitaminmangelzustände;5;5
+3;E58;Alimentärer Kalziummangel;2;2
+3;E59;Alimentärer Selenmangel;0;0
+3;E60;Alimentärer Zinkmangel;2;3
+3;E61;Mangel an sonstigen Spurenelementen;12;30
+3;E63;Sonstige alimentäre Mangelzustände;4;4
+3;E64;Folgen von Mangelernährung oder sonstigen alimentären Mangelzuständen;-999;-999
+3;E65;Lokalisierte Adipositas;0;0
+3;E66;Adipositas;63;1951
+3;E67;Sonstige Überernährung;0;0
+3;E68;Folgen der Überernährung;2;2
+3;E70;Störungen des Stoffwechsels aromatischer Aminosäuren;13;107
+3;E71;Störungen des Stoffwechsels verzweigter Aminosäuren und des Fettsäurestoffwechsels;10;84
+3;E72;Sonstige Störungen des Aminosäurestoffwechsels;14;97
+3;E73;Laktoseintoleranz;33;306
+3;E74;Sonstige Störungen des Kohlenhydratstoffwechsels;44;698
+3;E75;Störungen des Sphingolipidstoffwechsels und sonstige Störungen der Lipidspeicherung;23;143
+3;E76;Störungen des Glykosaminoglykan-Stoffwechsels;18;197
+3;E77;Störungen des Glykoproteinstoffwechsels;2;16
+3;E78;Störungen des Lipoproteinstoffwechsels und sonstige Lipidämien;24;877
+3;E79;Störungen des Purin- und Pyrimidinstoffwechsels;7;12
+3;E80;Störungen des Porphyrin- und Bilirubinstoffwechsels;17;51
+3;E83;Störungen des Mineralstoffwechsels;52;464
+3;E84;Zystische Fibrose;24;600
+3;E85;Amyloidose;37;115
+3;E86;Volumenmangel;36;177
+3;E87;Sonstige Störungen des Wasser- und Elektrolythaushaltes sowie des Säure-Basen-Gleichgewichts;48;100
+3;E88;Sonstige Stoffwechselstörungen;31;91
+3;E89;Endokrine und Stoffwechselstörungen nach medizinischen Maßnahmen, anderenorts nicht klassifiziert;14;63
+3;E90;Ernährungs- und Stoffwechselstörungen bei anderenorts klassifizierten Krankheiten;0;0
+3;F00;Demenz bei Alzheimer-Krankheit;0;0
+3;F01;Vaskuläre Demenz;74;341
+3;F02;Demenz bei anderenorts klassifizierten Krankheiten;0;0
+3;F03;Nicht näher bezeichnete Demenz;79;499
+3;F04;Organisches amnestisches Syndrom, nicht durch Alkohol oder andere psychotrope Substanzen bedingt;3;8
+3;F05;Delir, nicht durch Alkohol oder andere psychotrope Substanzen bedingt;18;32
+3;F06;Andere psychische Störungen aufgrund einer Schädigung oder Funktionsstörung des Gehirns oder einer körperlichen Krankheit;70;636
+3;F07;Persönlichkeits- und Verhaltensstörung aufgrund einer Krankheit, Schädigung oder Funktionsstörung des Gehirns;17;34
+3;F09;Nicht näher bezeichnete organische oder symptomatische psychische Störung;0;0
+3;F10;Psychische und Verhaltensstörungen durch Alkohol;13;46
+3;F11;Psychische und Verhaltensstörungen durch Opioide;5;21
+3;F12;Psychische und Verhaltensstörungen durch Cannabinoide;3;5
+3;F13;Psychische und Verhaltensstörungen durch Sedativa oder Hypnotika;2;2
+3;F14;Psychische und Verhaltensstörungen durch Kokain;0;0
+3;F15;Psychische und Verhaltensstörungen durch andere Stimulanzien, einschließlich Koffein;0;0
+3;F16;Psychische und Verhaltensstörungen durch Halluzinogene;-999;-999
+3;F17;Psychische und Verhaltensstörungen durch Tabak;5;5
+3;F18;Psychische und Verhaltensstörungen durch flüchtige Lösungsmittel;0;0
+3;F19;Psychische und Verhaltensstörungen durch multiplen Substanzgebrauch und Konsum anderer psychotroper Substanzen;4;6
+3;F20;Schizophrenie;8;8
+3;F21;Schizotype Störung;0;0
+3;F22;Anhaltende wahnhafte Störungen;4;5
+3;F23;Akute vorübergehende psychotische Störungen;3;3
+3;F24;Induzierte wahnhafte Störung;0;0
+3;F25;Schizoaffektive Störungen;2;2
+3;F28;Sonstige nichtorganische psychotische Störungen;0;0
+3;F29;Nicht näher bezeichnete nichtorganische Psychose;0;0
+3;F30;Manische Episode;0;0
+3;F31;Bipolare affektive Störung;11;16
+3;F32;Depressive Episode;100;457
+3;F33;Rezidivierende depressive Störung;48;186
+3;F34;Anhaltende affektive Störungen;3;5
+3;F38;Andere affektive Störungen;4;4
+3;F39;Nicht näher bezeichnete affektive Störung;0;0
+3;F40;Phobische Störungen;20;34
+3;F41;Andere Angststörungen;61;146
+3;F42;Zwangsstörung;8;15
+3;F43;Reaktionen auf schwere Belastungen und Anpassungsstörungen;49;350
+3;F44;Dissoziative Störungen [Konversionsstörungen];15;49
+3;F45;Somatoforme Störungen;118;10682
+3;F48;Andere neurotische Störungen;18;41
+3;F50;Essstörungen;14;345
+3;F51;Nichtorganische Schlafstörungen;21;171
+3;F52;Sexuelle Funktionsstörungen, nicht verursacht durch eine organische Störung oder Krankheit;2;3
+3;F53;Psychische oder Verhaltensstörungen im Wochenbett, anderenorts nicht klassifiziert;0;0
+3;F54;Psychologische Faktoren oder Verhaltensfaktoren bei anderenorts klassifizierten Krankheiten;5;40
+3;F55;Schädlicher Gebrauch von nichtabhängigkeitserzeugenden Substanzen;-999;-999
+3;F59;Nicht näher bezeichnete Verhaltensauffälligkeiten bei körperlichen Störungen und Faktoren;-999;-999
+3;F60;Spezifische Persönlichkeitsstörungen;6;14
+3;F61;Kombinierte und andere Persönlichkeitsstörungen;-999;-999
+3;F62;Andauernde Persönlichkeitsänderungen, nicht Folge einer Schädigung oder Krankheit des Gehirns;12;45
+3;F63;Abnorme Gewohnheiten und Störungen der Impulskontrolle;-999;-999
+3;F64;Störungen der Geschlechtsidentität;4;10
+3;F65;Störungen der Sexualpräferenz;0;0
+3;F66;Psychische und Verhaltensstörungen in Verbindung mit der sexuellen Entwicklung und Orientierung;0;0
+3;F68;Andere Persönlichkeits- und Verhaltensstörungen;3;3
+3;F69;Nicht näher bezeichnete Persönlichkeits- und Verhaltensstörung;-999;-999
+3;F70;Leichte Intelligenzminderung;12;22
+3;F71;Mittelgradige Intelligenzminderung;6;8
+3;F72;Schwere Intelligenzminderung;-999;-999
+3;F73;Schwerste Intelligenzminderung;0;0
+3;F74;Dissoziierte Intelligenz;2;2
+3;F78;Andere Intelligenzminderung;0;0
+3;F79;Nicht näher bezeichnete Intelligenzminderung;7;8
+3;F80;Umschriebene Entwicklungsstörungen des Sprechens und der Sprache;30;2116
+3;F81;Umschriebene Entwicklungsstörungen schulischer Fertigkeiten;10;32
+3;F82;Umschriebene Entwicklungsstörung der motorischen Funktionen;32;86
+3;F83;Kombinierte umschriebene Entwicklungsstörungen;39;915
+3;F84;Tief greifende Entwicklungsstörungen;24;112
+3;F88;Andere Entwicklungsstörungen;4;5
+3;F89;Nicht näher bezeichnete Entwicklungsstörung;22;86
+3;F90;Hyperkinetische Störungen;28;103
+3;F91;Störungen des Sozialverhaltens;11;37
+3;F92;Kombinierte Störung des Sozialverhaltens und der Emotionen;5;10
+3;F93;Emotionale Störungen des Kindesalters;17;73
+3;F94;Störungen sozialer Funktionen mit Beginn in der Kindheit und Jugend;8;9
+3;F95;Ticstörungen;20;54
+3;F98;Andere Verhaltens- und emotionale Störungen mit Beginn in der Kindheit und Jugend;38;1106
+3;F99;Psychische Störung ohne nähere Angabe;4;5
+3;G00;Bakterielle Meningitis, anderenorts nicht klassifiziert;9;10
+3;G01;Meningitis bei anderenorts klassifizierten bakteriellen Krankheiten;0;0
+3;G02;Meningitis bei sonstigen anderenorts klassifizierten infektiösen und parasitären Krankheiten;0;0
+3;G03;Meningitis durch sonstige und nicht näher bezeichnete Ursachen;7;16
+3;G04;Enzephalitis, Myelitis und Enzephalomyelitis;36;425
+3;G05;Enzephalitis, Myelitis und Enzephalomyelitis bei anderenorts klassifizierten Krankheiten;0;0
+3;G06;Intrakranielle und intraspinale Abszesse und Granulome;9;12
+3;G07;Intrakranielle und intraspinale Abszesse und Granulome bei anderenorts klassifizierten Krankheiten;0;0
+3;G08;Intrakranielle und intraspinale Phlebitis und Thrombophlebitis;9;20
+3;G09;Folgen entzündlicher Krankheiten des Zentralnervensystems;8;11
+3;G10;Chorea Huntington;8;10
+3;G11;Hereditäre Ataxie;26;90
+3;G12;Spinale Muskelatrophie und verwandte Syndrome;37;189
+3;G13;Systematrophien, vorwiegend das Zentralnervensystem betreffend, bei anderenorts klassifizierten Krankheiten;0;0
+3;G14;Postpolio-Syndrom;-999;-999
+3;G20;Primäres Parkinson-Syndrom;146;1314
+3;G21;Sekundäres Parkinson-Syndrom;52;79
+3;G22;Parkinson-Syndrom bei anderenorts klassifizierten Krankheiten;0;0
+3;G23;Sonstige degenerative Krankheiten der Basalganglien;33;82
+3;G24;Dystonie;32;345
+3;G25;Sonstige extrapyramidale Krankheiten und Bewegungsstörungen;70;265
+3;G26;Extrapyramidale Krankheiten und Bewegungsstörungen bei anderenorts klassifizierten Krankheiten;0;0
+3;G30;Alzheimer-Krankheit;93;828
+3;G31;Sonstige degenerative Krankheiten des Nervensystems, anderenorts nicht klassifiziert;60;198
+3;G32;Sonstige degenerative Krankheiten des Nervensystems bei anderenorts klassifizierten Krankheiten;0;0
+3;G35;Multiple Sklerose [Encephalomyelitis disseminata];70;3544
+3;G36;Sonstige akute disseminierte Demyelinisation;15;65
+3;G37;Sonstige demyelinisierende Krankheiten des Zentralnervensystems;27;92
+3;G40;Epilepsie;103;1863
+3;G41;Status epilepticus;11;14
+3;G43;Migräne;70;1295
+3;G44;Sonstige Kopfschmerzsyndrome;71;823
+3;G45;Zerebrale transitorische Ischämie und verwandte Syndrome;57;163
+3;G46;Zerebrale Gefäßsyndrome bei zerebrovaskulären Krankheiten;0;0
+3;G47;Schlafstörungen;64;20500
+3;G50;Krankheiten des N. trigeminus [V. Hirnnerv];39;203
+3;G51;Krankheiten des N. facialis [VII. Hirnnerv];45;353
+3;G52;Krankheiten sonstiger Hirnnerven;8;16
+3;G53;Krankheiten der Hirnnerven bei anderenorts klassifizierten Krankheiten;0;0
+3;G54;Krankheiten von Nervenwurzeln und Nervenplexus;48;177
+3;G55;Kompression von Nervenwurzeln und Nervenplexus bei anderenorts klassifizierten Krankheiten;0;0
+3;G56;Mononeuropathien der oberen Extremität;47;200
+3;G57;Mononeuropathien der unteren Extremität;49;220
+3;G58;Sonstige Mononeuropathien;24;71
+3;G59;Mononeuropathie bei anderenorts klassifizierten Krankheiten;0;0
+3;G60;Hereditäre und idiopathische Neuropathie;26;111
+3;G61;Polyneuritis;55;1415
+3;G62;Sonstige Polyneuropathien;114;1177
+3;G63;Polyneuropathie bei anderenorts klassifizierten Krankheiten;0;0
+3;G64;Sonstige Krankheiten des peripheren Nervensystems;2;2
+3;G70;Myasthenia gravis und sonstige neuromuskuläre Krankheiten;40;233
+3;G71;Primäre Myopathien;41;204
+3;G72;Sonstige Myopathien;32;158
+3;G73;Krankheiten im Bereich der neuromuskulären Synapse und des Muskels bei anderenorts klassifizierten Krankheiten;0;0
+3;G80;Infantile Zerebralparese;42;361
+3;G81;Hemiparese und Hemiplegie;95;516
+3;G82;Paraparese und Paraplegie, Tetraparese und Tetraplegie;58;224
+3;G83;Sonstige Lähmungssyndrome;47;81
+3;G90;Krankheiten des autonomen Nervensystems;10;26
+3;G91;Hydrozephalus;76;423
+3;G92;Toxische Enzephalopathie;0;0
+3;G93;Sonstige Krankheiten des Gehirns;71;524
+3;G94;Sonstige Krankheiten des Gehirns bei anderenorts klassifizierten Krankheiten;0;0
+3;G95;Sonstige Krankheiten des Rückenmarkes;35;99
+3;G96;Sonstige Krankheiten des Zentralnervensystems;11;17
+3;G97;Krankheiten des Nervensystems nach medizinischen Maßnahmen, anderenorts nicht klassifiziert;4;4
+3;G98;Sonstige Krankheiten des Nervensystems, anderenorts nicht klassifiziert;-999;-999
+3;G99;Sonstige Krankheiten des Nervensystems bei anderenorts klassifizierten Krankheiten;0;0
+3;H00;Hordeolum und Chalazion;5;219
+3;H01;Sonstige Entzündung des Augenlides;3;4
+3;H02;Sonstige Affektionen des Augenlides;25;302
+3;H03;Affektionen des Augenlides bei anderenorts klassifizierten Krankheiten;0;0
+3;H04;Affektionen des Tränenapparates;12;148
+3;H05;Affektionen der Orbita;4;7
+3;H06;Affektionen des Tränenapparates und der Orbita bei anderenorts klassifizierten Krankheiten;0;0
+3;H10;Konjunktivitis;8;9
+3;H11;Sonstige Affektionen der Konjunktiva;4;38
+3;H13;Affektionen der Konjunktiva bei anderenorts klassifizierten Krankheiten;0;0
+3;H15;Affektionen der Sklera;3;3
+3;H16;Keratitis;6;11
+3;H17;Hornhautnarben und -trübungen;5;15
+3;H18;Sonstige Affektionen der Hornhaut;8;29
+3;H19;Affektionen der Sklera und der Hornhaut bei anderenorts klassifizierten Krankheiten;0;0
+3;H20;Iridozyklitis;16;45
+3;H21;Sonstige Affektionen der Iris und des Ziliarkörpers;-999;-999
+3;H22;Affektionen der Iris und des Ziliarkörpers bei anderenorts klassifizierten Krankheiten;0;0
+3;H25;Cataracta senilis;5;3074
+3;H26;Sonstige Kataraktformen;6;400
+3;H27;Sonstige Affektionen der Linse;5;32
+3;H28;Katarakt und sonstige Affektionen der Linse bei anderenorts klassifizierten Krankheiten;0;0
+3;H30;Chorioretinitis;4;4
+3;H31;Sonstige Affektionen der Aderhaut;-999;-999
+3;H32;Chorioretinale Affektionen bei anderenorts klassifizierten Krankheiten;0;0
+3;H33;Netzhautablösung und Netzhautriss;5;31
+3;H34;Netzhautgefäßverschluss;2;60
+3;H35;Sonstige Affektionen der Netzhaut;12;2439
+3;H36;Affektionen der Netzhaut bei anderenorts klassifizierten Krankheiten;0;0
+3;H40;Glaukom;7;37
+3;H42;Glaukom bei anderenorts klassifizierten Krankheiten;0;0
+3;H43;Affektionen des Glaskörpers;3;7
+3;H44;Affektionen des Augapfels;7;13
+3;H45;Affektionen des Glaskörpers und des Augapfels bei anderenorts klassifizierten Krankheiten;0;0
+3;H46;Neuritis nervi optici;20;128
+3;H47;Sonstige Affektionen des N. opticus [II. Hirnnerv] und der Sehbahn;22;35
+3;H48;Affektionen des N. opticus [II. Hirnnerv] und der Sehbahn bei anderenorts klassifizierten Krankheiten;0;0
+3;H49;Strabismus paralyticus;28;65
+3;H50;Sonstiger Strabismus;22;82
+3;H51;Sonstige Störungen der Blickbewegungen;11;18
+3;H52;Akkommodationsstörungen und Refraktionsfehler;12;27
+3;H53;Sehstörungen;41;201
+3;H54;Blindheit und Sehbeeinträchtigung;11;15
+3;H55;Nystagmus und sonstige abnorme Augenbewegungen;16;47
+3;H57;Sonstige Affektionen des Auges und der Augenanhangsgebilde;25;37
+3;H58;Sonstige Affektionen des Auges und der Augenanhangsgebilde bei anderenorts klassifizierten Krankheiten;0;0
+3;H59;Affektionen des Auges und der Augenanhangsgebilde nach medizinischen Maßnahmen, anderenorts nicht klassifiziert;0;0
+3;H60;Otitis externa;3;8
+3;H61;Sonstige Krankheiten des äußeren Ohres;14;70
+3;H62;Krankheiten des äußeren Ohres bei anderenorts klassifizierten Krankheiten;0;0
+3;H65;Nichteitrige Otitis media;15;137
+3;H66;Eitrige und nicht näher bezeichnete Otitis media;12;72
+3;H67;Otitis media bei anderenorts klassifizierten Krankheiten;0;0
+3;H68;Entzündung und Verschluss der Tuba auditiva;2;4
+3;H69;Sonstige Krankheiten der Tuba auditiva;6;11
+3;H70;Mastoiditis und verwandte Zustände;5;6
+3;H71;Cholesteatom des Mittelohres;7;17
+3;H72;Trommelfellperforation;3;5
+3;H73;Sonstige Krankheiten des Trommelfells;2;2
+3;H74;Sonstige Krankheiten des Mittelohres und des Warzenfortsatzes;3;6
+3;H75;Sonstige Krankheiten des Mittelohres und des Warzenfortsatzes bei anderenorts klassifizierten Krankheiten;0;0
+3;H80;Otosklerose;2;4
+3;H81;Störungen der Vestibularfunktion;78;1087
+3;H82;Schwindelsyndrome bei anderenorts klassifizierten Krankheiten;0;0
+3;H83;Sonstige Krankheiten des Innenohres;9;61
+3;H90;Hörverlust durch Schallleitungs- oder Schallempfindungsstörung;28;3106
+3;H91;Sonstiger Hörverlust;29;1982
+3;H92;Otalgie und Ohrenfluss;3;3
+3;H93;Sonstige Krankheiten des Ohres, anderenorts nicht klassifiziert;20;1974
+3;H94;Sonstige Krankheiten des Ohres bei anderenorts klassifizierten Krankheiten;0;0
+3;H95;Krankheiten des Ohres und des Warzenfortsatzes nach medizinischen Maßnahmen, anderenorts nicht klassifiziert;2;2
+3;I00;Rheumatisches Fieber ohne Angabe einer Herzbeteiligung;0;0
+3;I01;Rheumatisches Fieber mit Herzbeteiligung;0;0
+3;I02;Rheumatische Chorea;0;0
+3;I05;Rheumatische Mitralklappenkrankheiten;2;4
+3;I06;Rheumatische Aortenklappenkrankheiten;0;0
+3;I07;Rheumatische Trikuspidalklappenkrankheiten;3;6
+3;I08;Krankheiten mehrerer Herzklappen;5;10
+3;I09;Sonstige rheumatische Herzkrankheiten;-999;-999
+3;I10;Essentielle (primäre) Hypertonie;99;613
+3;I11;Hypertensive Herzkrankheit;37;77
+3;I12;Hypertensive Nierenkrankheit;6;7
+3;I13;Hypertensive Herz- und Nierenkrankheit;5;9
+3;I15;Sekundäre Hypertonie;7;19
+3;I20;Angina pectoris;24;237
+3;I21;Akuter Myokardinfarkt;74;212
+3;I22;Rezidivierender Myokardinfarkt;-999;-999
+3;I23;Bestimmte akute Komplikationen nach akutem Myokardinfarkt;0;0
+3;I24;Sonstige akute ischämische Herzkrankheit;5;11
+3;I25;Chronische ischämische Herzkrankheit;79;829
+3;I26;Lungenembolie;52;104
+3;I27;Sonstige pulmonale Herzkrankheiten;11;20
+3;I28;Sonstige Krankheiten der Lungengefäße;3;5
+3;I30;Akute Perikarditis;5;7
+3;I31;Sonstige Krankheiten des Perikards;9;19
+3;I32;Perikarditis bei anderenorts klassifizierten Krankheiten;0;0
+3;I33;Akute und subakute Endokarditis;7;7
+3;I34;Nichtrheumatische Mitralklappenkrankheiten;23;189
+3;I35;Nichtrheumatische Aortenklappenkrankheiten;58;287
+3;I36;Nichtrheumatische Trikuspidalklappenkrankheiten;3;23
+3;I37;Pulmonalklappenkrankheiten;2;6
+3;I38;Endokarditis, Herzklappe nicht näher bezeichnet;6;6
+3;I39;Endokarditis und Herzklappenkrankheiten bei anderenorts klassifizierten Krankheiten;0;0
+3;I40;Akute Myokarditis;4;10
+3;I41;Myokarditis bei anderenorts klassifizierten Krankheiten;0;0
+3;I42;Kardiomyopathie;31;251
+3;I43;Kardiomyopathie bei anderenorts klassifizierten Krankheiten;0;0
+3;I44;Atrioventrikulärer Block und Linksschenkelblock;18;31
+3;I45;Sonstige kardiale Erregungsleitungsstörungen;11;19
+3;I46;Herzstillstand;4;4
+3;I47;Paroxysmale Tachykardie;21;87
+3;I48;Vorhofflimmern und Vorhofflattern;61;683
+3;I49;Sonstige kardiale Arrhythmien;52;158
+3;I50;Herzinsuffizienz;130;1672
+3;I51;Komplikationen einer Herzkrankheit und ungenau beschriebene Herzkrankheit;22;80
+3;I52;Sonstige Herzkrankheiten bei anderenorts klassifizierten Krankheiten;0;0
+3;I60;Subarachnoidalblutung;18;35
+3;I61;Intrazerebrale Blutung;64;158
+3;I62;Sonstige nichttraumatische intrakranielle Blutung;38;51
+3;I63;Hirninfarkt;142;1905
+3;I64;Schlaganfall, nicht als Blutung oder Infarkt bezeichnet;39;163
+3;I65;Verschluss und Stenose präzerebraler Arterien ohne resultierenden Hirninfarkt;35;390
+3;I66;Verschluss und Stenose zerebraler Arterien ohne resultierenden Hirninfarkt;11;37
+3;I67;Sonstige zerebrovaskuläre Krankheiten;84;418
+3;I68;Zerebrovaskuläre Störungen bei anderenorts klassifizierten Krankheiten;0;0
+3;I69;Folgen einer zerebrovaskulären Krankheit;30;202
+3;I70;Atherosklerose;102;634
+3;I71;Aortenaneurysma und -dissektion;24;103
+3;I72;Sonstiges Aneurysma und sonstige Dissektion;25;61
+3;I73;Sonstige periphere Gefäßkrankheiten;31;448
+3;I74;Arterielle Embolie und Thrombose;9;11
+3;I77;Sonstige Krankheiten der Arterien und Arteriolen;32;105
+3;I78;Krankheiten der Kapillaren;19;349
+3;I79;Krankheiten der Arterien, Arteriolen und Kapillaren bei anderenorts klassifizierten Krankheiten;0;0
+3;I80;Thrombose, Phlebitis und Thrombophlebitis;27;105
+3;I81;Pfortaderthrombose;8;15
+3;I82;Sonstige venöse Embolie und Thrombose;9;26
+3;I83;Varizen der unteren Extremitäten;40;540
+3;I85;Ösophagusvarizen;11;36
+3;I86;Varizen sonstiger Lokalisationen;3;5
+3;I87;Sonstige Venenkrankheiten;31;317
+3;I88;Unspezifische Lymphadenitis;20;39
+3;I89;Sonstige nichtinfektiöse Krankheiten der Lymphgefäße und Lymphknoten;27;45
+3;I95;Hypotonie;43;144
+3;I97;Kreislaufkomplikationen nach medizinischen Maßnahmen, anderenorts nicht klassifiziert;3;4
+3;I98;Sonstige Störungen des Kreislaufsystems bei anderenorts klassifizierten Krankheiten;0;0
+3;I99;Sonstige und nicht näher bezeichnete Krankheiten des Kreislaufsystems;6;6
+3;J00;Akute Rhinopharyngitis [Erkältungsschnupfen];3;6
+3;J01;Akute Sinusitis;8;15
+3;J02;Akute Pharyngitis;5;5
+3;J03;Akute Tonsillitis;7;9
+3;J04;Akute Laryngitis und Tracheitis;4;6
+3;J05;Akute obstruktive Laryngitis [Krupp] und Epiglottitis;3;5
+3;J06;Akute Infektionen an mehreren oder nicht näher bezeichneten Lokalisationen der oberen Atemwege;20;85
+3;J09;Grippe durch zoonotische oder pandemische nachgewiesene Influenzaviren;0;0
+3;J10;Grippe durch saisonale nachgewiesene Influenzaviren;4;5
+3;J11;Grippe, Viren nicht nachgewiesen;2;16
+3;J12;Viruspneumonie, anderenorts nicht klassifiziert;2;2
+3;J13;Pneumonie durch Streptococcus pneumoniae;2;2
+3;J14;Pneumonie durch Haemophilus influenzae;0;0
+3;J15;Pneumonie durch Bakterien, anderenorts nicht klassifiziert;18;28
+3;J16;Pneumonie durch sonstige Infektionserreger, anderenorts nicht klassifiziert;4;5
+3;J17;Pneumonie bei anderenorts klassifizierten Krankheiten;0;0
+3;J18;Pneumonie, Erreger nicht näher bezeichnet;73;259
+3;J20;Akute Bronchitis;37;135
+3;J21;Akute Bronchiolitis;4;5
+3;J22;Akute Infektion der unteren Atemwege, nicht näher bezeichnet;9;51
+3;J30;Vasomotorische und allergische Rhinopathie;16;193
+3;J31;Chronische Rhinitis, Rhinopharyngitis und Pharyngitis;7;11
+3;J32;Chronische Sinusitis;14;25
+3;J33;Nasenpolyp;7;13
+3;J34;Sonstige Krankheiten der Nase und der Nasennebenhöhlen;9;66
+3;J35;Chronische Krankheiten der Gaumenmandeln und der Rachenmandel;15;329
+3;J36;Peritonsillarabszess;2;5
+3;J37;Chronische Laryngitis und Laryngotracheitis;2;2
+3;J38;Krankheiten der Stimmlippen und des Kehlkopfes, anderenorts nicht klassifiziert;20;134
+3;J39;Sonstige Krankheiten der oberen Atemwege;9;12
+3;J40;Bronchitis, nicht als akut oder chronisch bezeichnet;22;39
+3;J41;Einfache und schleimig-eitrige chronische Bronchitis;12;14
+3;J42;Nicht näher bezeichnete chronische Bronchitis;9;27
+3;J43;Emphysem;4;4
+3;J44;Sonstige chronische obstruktive Lungenkrankheit;123;476
+3;J45;Asthma bronchiale;34;2413
+3;J46;Status asthmaticus;-999;-999
+3;J47;Bronchiektasen;7;12
+3;J60;Kohlenbergarbeiter-Pneumokoniose;0;0
+3;J61;Pneumokoniose durch Asbest und sonstige anorganische Fasern;-999;-999
+3;J62;Pneumokoniose durch Quarzstaub;0;0
+3;J63;Pneumokoniose durch sonstige anorganische Stäube;-999;-999
+3;J64;Nicht näher bezeichnete Pneumokoniose;0;0
+3;J65;Pneumokoniose in Verbindung mit Tuberkulose;0;0
+3;J66;Krankheit der Atemwege durch spezifischen organischen Staub;-999;-999
+3;J67;Allergische Alveolitis durch organischen Staub;7;15
+3;J68;Krankheiten der Atmungsorgane durch Einatmen von chemischen Substanzen, Gasen, Rauch und Dämpfen;-999;-999
+3;J69;Pneumonie durch feste und flüssige Substanzen;6;6
+3;J70;Krankheiten der Atmungsorgane durch sonstige exogene Substanzen;-999;-999
+3;J80;Atemnotsyndrom des Erwachsenen [ARDS];-999;-999
+3;J81;Lungenödem;0;0
+3;J82;Eosinophiles Lungeninfiltrat, anderenorts nicht klassifiziert;2;3
+3;J84;Sonstige interstitielle Lungenkrankheiten;25;137
+3;J85;Abszess der Lunge und des Mediastinums;2;4
+3;J86;Pyothorax;11;12
+3;J90;Pleuraerguss, anderenorts nicht klassifiziert;16;44
+3;J91;Pleuraerguss bei anderenorts klassifizierten Krankheiten;0;0
+3;J92;Pleuraplaques;-999;-999
+3;J93;Pneumothorax;5;5
+3;J94;Sonstige Krankheitszustände der Pleura;9;12
+3;J95;Krankheiten der Atemwege nach medizinischen Maßnahmen, anderenorts nicht klassifiziert;7;131
+3;J96;Respiratorische Insuffizienz, anderenorts nicht klassifiziert;40;664
+3;J98;Sonstige Krankheiten der Atemwege;22;60
+3;J99;Krankheiten der Atemwege bei anderenorts klassifizierten Krankheiten;0;0
+3;K00;Störungen der Zahnentwicklung und des Zahndurchbruchs;4;12
+3;K01;Retinierte und impaktierte Zähne;3;48
+3;K02;Zahnkaries;7;248
+3;K03;Sonstige Krankheiten der Zahnhartsubstanzen;-999;-999
+3;K04;Krankheiten der Pulpa und des periapikalen Gewebes;4;18
+3;K05;Gingivitis und Krankheiten des Parodonts;4;6
+3;K06;Sonstige Krankheiten der Gingiva und des zahnlosen Alveolarkammes;2;2
+3;K07;Dentofaziale Anomalien [einschließlich fehlerhafter Okklusion];14;125
+3;K08;Sonstige Krankheiten der Zähne und des Zahnhalteapparates;5;30
+3;K09;Zysten der Mundregion, anderenorts nicht klassifiziert;4;9
+3;K10;Sonstige Krankheiten der Kiefer;11;87
+3;K11;Krankheiten der Speicheldrüsen;15;467
+3;K12;Stomatitis und verwandte Krankheiten;13;26
+3;K13;Sonstige Krankheiten der Lippe und der Mundschleimhaut;18;58
+3;K14;Krankheiten der Zunge;8;11
+3;K20;Ösophagitis;32;208
+3;K21;Gastroösophageale Refluxkrankheit;60;721
+3;K22;Sonstige Krankheiten des Ösophagus;41;660
+3;K23;Krankheiten des Ösophagus bei anderenorts klassifizierten Krankheiten;0;0
+3;K25;Ulcus ventriculi;34;56
+3;K26;Ulcus duodeni;20;32
+3;K27;Ulcus pepticum, Lokalisation nicht näher bezeichnet;-999;-999
+3;K28;Ulcus pepticum jejuni;2;2
+3;K29;Gastritis und Duodenitis;76;855
+3;K30;Funktionelle Dyspepsie;11;33
+3;K31;Sonstige Krankheiten des Magens und des Duodenums;30;100
+3;K35;Akute Appendizitis;6;8
+3;K36;Sonstige Appendizitis;0;0
+3;K37;Nicht näher bezeichnete Appendizitis;-999;-999
+3;K38;Sonstige Krankheiten der Appendix;0;0
+3;K40;Hernia inguinalis;12;24
+3;K41;Hernia femoralis;3;4
+3;K42;Hernia umbilicalis;4;5
+3;K43;Hernia ventralis;10;13
+3;K44;Hernia diaphragmatica;21;51
+3;K45;Sonstige abdominale Hernien;0;0
+3;K46;Nicht näher bezeichnete abdominale Hernie;2;4
+3;K50;Crohn-Krankheit [Enteritis regionalis] [Morbus Crohn];73;3132
+3;K51;Colitis ulcerosa;59;1008
+3;K52;Sonstige nichtinfektiöse Gastroenteritis und Kolitis;58;415
+3;K55;Gefäßkrankheiten des Darmes;12;15
+3;K56;Paralytischer Ileus und intestinale Obstruktion ohne Hernie;41;86
+3;K57;Divertikulose des Darmes;46;79
+3;K58;Reizdarmsyndrom;24;368
+3;K59;Sonstige funktionelle Darmstörungen;55;1628
+3;K60;Fissur und Fistel in der Anal- und Rektalregion;21;32
+3;K61;Abszess in der Anal- und Rektalregion;7;11
+3;K62;Sonstige Krankheiten des Anus und des Rektums;50;160
+3;K63;Sonstige Krankheiten des Darmes;31;63
+3;K64;Hämorrhoiden und Perianalvenenthrombose;15;21
+3;K65;Peritonitis;3;4
+3;K66;Sonstige Krankheiten des Peritoneums;8;15
+3;K67;Krankheiten des Peritoneums bei anderenorts klassifizierten Infektionskrankheiten;0;0
+3;K70;Alkoholische Leberkrankheit;22;106
+3;K71;Toxische Leberkrankheit;17;30
+3;K72;Leberversagen, anderenorts nicht klassifiziert;5;5
+3;K73;Chronische Hepatitis, anderenorts nicht klassifiziert;5;7
+3;K74;Fibrose und Zirrhose der Leber;32;227
+3;K75;Sonstige entzündliche Leberkrankheiten;27;120
+3;K76;Sonstige Krankheiten der Leber;30;133
+3;K77;Leberkrankheiten bei anderenorts klassifizierten Krankheiten;0;0
+3;K80;Cholelithiasis;38;127
+3;K81;Cholezystitis;12;15
+3;K82;Sonstige Krankheiten der Gallenblase;7;8
+3;K83;Sonstige Krankheiten der Gallenwege;36;125
+3;K85;Akute Pankreatitis;24;50
+3;K86;Sonstige Krankheiten des Pankreas;30;261
+3;K87;Krankheiten der Gallenblase, der Gallenwege und des Pankreas bei anderenorts klassifizierten Krankheiten;0;0
+3;K90;Intestinale Malabsorption;47;1291
+3;K91;Krankheiten des Verdauungssystems nach medizinischen Maßnahmen, anderenorts nicht klassifiziert;25;176
+3;K92;Sonstige Krankheiten des Verdauungssystems;37;87
+3;K93;Krankheiten sonstiger Verdauungsorgane bei anderenorts klassifizierten Krankheiten;0;0
+3;L00;Staphylococcal scalded skin syndrome [SSS-Syndrom];0;0
+3;L01;Impetigo;11;20
+3;L02;Hautabszess, Furunkel und Karbunkel;25;73
+3;L03;Phlegmone;20;29
+3;L04;Akute Lymphadenitis;18;28
+3;L05;Pilonidalzyste;15;26
+3;L08;Sonstige lokale Infektionen der Haut und der Unterhaut;18;37
+3;L10;Pemphiguskrankheiten;20;65
+3;L11;Sonstige akantholytische Dermatosen;13;31
+3;L12;Pemphigoidkrankheiten;27;182
+3;L13;Sonstige bullöse Dermatosen;10;23
+3;L14;Bullöse Dermatosen bei anderenorts klassifizierten Krankheiten;0;0
+3;L20;Atopisches [endogenes] Ekzem;57;2389
+3;L21;Seborrhoisches Ekzem;21;105
+3;L22;Windeldermatitis;2;2
+3;L23;Allergische Kontaktdermatitis;25;114
+3;L24;Toxische Kontaktdermatitis;11;26
+3;L25;Nicht näher bezeichnete Kontaktdermatitis;9;25
+3;L26;Exfoliative Dermatitis;0;0
+3;L27;Dermatitis durch oral, enteral oder parenteral aufgenommene Substanzen;29;70
+3;L28;Lichen simplex chronicus und Prurigo;36;589
+3;L29;Pruritus;22;122
+3;L30;Sonstige Dermatitis;48;2789
+3;L40;Psoriasis;70;5062
+3;L41;Parapsoriasis;32;182
+3;L42;Pityriasis rosea;5;6
+3;L43;Lichen ruber planus;35;502
+3;L44;Sonstige papulosquamöse Hautkrankheiten;23;72
+3;L45;Papulosquamöse Hautkrankheiten bei anderenorts klassifizierten Krankheiten;0;0
+3;L50;Urtikaria;37;637
+3;L51;Erythema exsudativum multiforme;9;27
+3;L52;Erythema nodosum;17;31
+3;L53;Sonstige erythematöse Krankheiten;21;41
+3;L54;Erythem bei anderenorts klassifizierten Krankheiten;0;0
+3;L55;Dermatitis solaris acuta;3;3
+3;L56;Sonstige akute Hautveränderungen durch Ultraviolettstrahlen;20;107
+3;L57;Hautveränderungen durch chronische Exposition gegenüber nichtionisierender Strahlung;27;1752
+3;L58;Radiodermatitis;4;5
+3;L59;Sonstige Krankheiten der Haut und der Unterhaut durch Strahleneinwirkung;4;6
+3;L60;Krankheiten der Nägel;22;211
+3;L62;Krankheiten der Nägel bei anderenorts klassifizierten Krankheiten;0;0
+3;L63;Alopecia areata;15;86
+3;L64;Alopecia androgenetica;-999;-999
+3;L65;Sonstiger Haarausfall ohne Narbenbildung;10;17
+3;L66;Narbige Alopezie [Haarausfall mit Narbenbildung];25;67
+3;L67;Anomalien der Haarfarbe und des Haarschaftes;0;0
+3;L68;Hypertrichose;13;40
+3;L70;Akne;16;33
+3;L71;Rosazea;15;72
+3;L72;Follikuläre Zysten der Haut und der Unterhaut;26;372
+3;L73;Sonstige Krankheiten der Haarfollikel;27;222
+3;L74;Krankheiten der ekkrinen Schweißdrüsen;4;8
+3;L75;Krankheiten der apokrinen Schweißdrüsen;4;6
+3;L80;Vitiligo;4;13
+3;L81;Sonstige Störungen der Hautpigmentierung;24;61
+3;L82;Seborrhoische Keratose;16;45
+3;L83;Acanthosis nigricans;3;4
+3;L84;Hühneraugen und Horn- (Haut-) Schwielen;6;10
+3;L85;Sonstige Epidermisverdickung;22;62
+3;L86;Keratom bei anderenorts klassifizierten Krankheiten;0;0
+3;L87;Störungen der transepidermalen Elimination;11;25
+3;L88;Pyoderma gangraenosum;20;205
+3;L89;Dekubitalgeschwür und Druckzone;12;44
+3;L90;Atrophische Hautkrankheiten;40;166
+3;L91;Hypertrophe Hautkrankheiten;23;148
+3;L92;Granulomatöse Krankheiten der Haut und der Unterhaut;38;228
+3;L93;Lupus erythematodes;36;238
+3;L94;Sonstige lokalisierte Krankheiten des Bindegewebes;37;333
+3;L95;Anderenorts nicht klassifizierte Vaskulitis, die auf die Haut begrenzt ist;20;53
+3;L97;Ulcus cruris, anderenorts nicht klassifiziert;33;1127
+3;L98;Sonstige Krankheiten der Haut und der Unterhaut, anderenorts nicht klassifiziert;39;400
+3;L99;Sonstige Krankheiten der Haut und der Unterhaut bei anderenorts klassifizierten Krankheiten;0;0
+3;M00;Eitrige Arthritis;15;19
+3;M01;Direkte Gelenkinfektionen bei anderenorts klassifizierten infektiösen und parasitären Krankheiten;0;0
+3;M02;Reaktive Arthritiden;23;56
+3;M03;Postinfektiöse und reaktive Arthritiden bei anderenorts klassifizierten Krankheiten;0;0
+3;M05;Seropositive chronische Polyarthritis;46;1241
+3;M06;Sonstige chronische Polyarthritis;91;1442
+3;M07;Arthritis psoriatica und Arthritiden bei gastrointestinalen Grundkrankheiten;0;0
+3;M08;Juvenile Arthritis;45;793
+3;M09;Juvenile Arthritis bei anderenorts klassifizierten Krankheiten;0;0
+3;M10;Gicht;28;74
+3;M11;Sonstige Kristall-Arthropathien;8;14
+3;M12;Sonstige näher bezeichnete Arthropathien;14;16
+3;M13;Sonstige Arthritis;51;275
+3;M14;Arthropathien bei sonstigen anderenorts klassifizierten Krankheiten;0;0
+3;M15;Polyarthrose;89;706
+3;M16;Koxarthrose [Arthrose des Hüftgelenkes];130;549
+3;M17;Gonarthrose [Arthrose des Kniegelenkes];133;754
+3;M18;Rhizarthrose [Arthrose des Daumensattelgelenkes];11;65
+3;M19;Sonstige Arthrose;91;255
+3;M20;Erworbene Deformitäten der Finger und Zehen;4;4
+3;M21;Sonstige erworbene Deformitäten der Extremitäten;23;57
+3;M22;Krankheiten der Patella;7;7
+3;M23;Binnenschädigung des Kniegelenkes [internal derangement];11;12
+3;M24;Sonstige näher bezeichnete Gelenkschädigungen;22;32
+3;M25;Sonstige Gelenkkrankheiten, anderenorts nicht klassifiziert;128;1138
+3;M30;Panarteriitis nodosa und verwandte Zustände;26;108
+3;M31;Sonstige nekrotisierende Vaskulopathien;61;491
+3;M32;Systemischer Lupus erythematodes;49;502
+3;M33;Dermatomyositis-Polymyositis;46;180
+3;M34;Systemische Sklerose;48;864
+3;M35;Sonstige Krankheiten mit Systembeteiligung des Bindegewebes;84;1005
+3;M36;Systemkrankheiten des Bindegewebes bei anderenorts klassifizierten Krankheiten;0;0
+3;M40;Kyphose und Lordose;4;33
+3;M41;Skoliose;27;167
+3;M42;Osteochondrose der Wirbelsäule;61;228
+3;M43;Sonstige Deformitäten der Wirbelsäule und des Rückens;45;418
+3;M45;Spondylitis ankylosans;45;831
+3;M46;Sonstige entzündliche Spondylopathien;53;282
+3;M47;Spondylose;132;908
+3;M48;Sonstige Spondylopathien;160;1715
+3;M49;Spondylopathien bei anderenorts klassifizierten Krankheiten;0;0
+3;M50;Zervikale Bandscheibenschäden;35;192
+3;M51;Sonstige Bandscheibenschäden;117;722
+3;M53;Sonstige Krankheiten der Wirbelsäule und des Rückens, anderenorts nicht klassifiziert;90;1046
+3;M54;Rückenschmerzen;209;5589
+3;M60;Myositis;31;76
+3;M61;Kalzifikation und Ossifikation von Muskeln;5;5
+3;M62;Sonstige Muskelkrankheiten;71;367
+3;M63;Muskelkrankheiten bei anderenorts klassifizierten Krankheiten;0;0
+3;M65;Synovitis und Tenosynovitis;19;50
+3;M66;Spontanruptur der Synovialis und von Sehnen;5;5
+3;M67;Sonstige Krankheiten der Synovialis und der Sehnen;17;33
+3;M68;Krankheiten der Synovialis und der Sehnen bei anderenorts klassifizierten Krankheiten;0;0
+3;M70;Krankheiten des Weichteilgewebes im Zusammenhang mit Beanspruchung, Überbeanspruchung und Druck;12;17
+3;M71;Sonstige Bursopathien;7;7
+3;M72;Fibromatosen;25;73
+3;M73;Krankheiten des Weichteilgewebes bei anderenorts klassifizierten Krankheiten;0;0
+3;M75;Schulterläsionen;55;262
+3;M76;Enthesopathien der unteren Extremität mit Ausnahme des Fußes;17;30
+3;M77;Sonstige Enthesopathien;29;96
+3;M79;Sonstige Krankheiten des Weichteilgewebes, anderenorts nicht klassifiziert;133;2794
+3;M80;Osteoporose mit pathologischer Fraktur;100;387
+3;M81;Osteoporose ohne pathologische Fraktur;65;269
+3;M82;Osteoporose bei anderenorts klassifizierten Krankheiten;0;0
+3;M83;Osteomalazie im Erwachsenenalter;4;6
+3;M84;Veränderungen der Knochenkontinuität;28;62
+3;M85;Sonstige Veränderungen der Knochendichte und -struktur;20;35
+3;M86;Osteomyelitis;43;138
+3;M87;Knochennekrose;32;50
+3;M88;Osteodystrophia deformans [Paget-Krankheit];5;12
+3;M89;Sonstige Knochenkrankheiten;54;811
+3;M90;Osteopathien bei anderenorts klassifizierten Krankheiten;0;0
+3;M91;Juvenile Osteochondrose der Hüfte und des Beckens;5;8
+3;M92;Sonstige juvenile Osteochondrosen;4;4
+3;M93;Sonstige Osteochondropathien;10;22
+3;M94;Sonstige Knorpelkrankheiten;9;12
+3;M95;Sonstige erworbene Deformitäten des Muskel-Skelett-Systems und des Bindegewebes;7;9
+3;M96;Krankheiten des Muskel-Skelett-Systems nach medizinischen Maßnahmen, anderenorts nicht klassifiziert;53;517
+3;M99;Biomechanische Funktionsstörungen, anderenorts nicht klassifiziert;12;24
+3;N00;Akutes nephritisches Syndrom;2;2
+3;N01;Rapid-progressives nephritisches Syndrom;4;6
+3;N02;Rezidivierende und persistierende Hämaturie;8;13
+3;N03;Chronisches nephritisches Syndrom;7;8
+3;N04;Nephrotisches Syndrom;25;106
+3;N05;Nicht näher bezeichnetes nephritisches Syndrom;11;16
+3;N06;Isolierte Proteinurie mit Angabe morphologischer Veränderungen;2;2
+3;N07;Hereditäre Nephropathie, anderenorts nicht klassifiziert;-999;-999
+3;N08;Glomeruläre Krankheiten bei anderenorts klassifizierten Krankheiten;0;0
+3;N10;Akute tubulointerstitielle Nephritis;18;33
+3;N11;Chronische tubulointerstitielle Nephritis;2;2
+3;N12;Tubulointerstitielle Nephritis, nicht als akut oder chronisch bezeichnet;14;39
+3;N13;Obstruktive Uropathie und Refluxuropathie;51;1031
+3;N14;Arzneimittel- und schwermetallinduzierte tubulointerstitielle und tubuläre Krankheitszustände;2;2
+3;N15;Sonstige tubulointerstitielle Nierenkrankheiten;4;4
+3;N16;Tubulointerstitielle Nierenkrankheiten bei anderenorts klassifizierten Krankheiten;0;0
+3;N17;Akutes Nierenversagen;31;66
+3;N18;Chronische Nierenkrankheit;130;6335
+3;N19;Nicht näher bezeichnete Niereninsuffizienz;15;23
+3;N20;Nieren- und Ureterstein;17;259
+3;N21;Stein in den unteren Harnwegen;3;3
+3;N22;Harnstein bei anderenorts klassifizierten Krankheiten;0;0
+3;N23;Nicht näher bezeichnete Nierenkolik;-999;-999
+3;N25;Krankheiten infolge Schädigung der tubulären Nierenfunktion;6;15
+3;N26;Schrumpfniere, nicht näher bezeichnet;3;5
+3;N27;Kleine Niere unbekannter Ursache;5;8
+3;N28;Sonstige Krankheiten der Niere und des Ureters, anderenorts nicht klassifiziert;32;285
+3;N29;Sonstige Krankheiten der Niere und des Ureters bei anderenorts klassifizierten Krankheiten;0;0
+3;N30;Zystitis;16;307
+3;N31;Neuromuskuläre Dysfunktion der Harnblase, anderenorts nicht klassifiziert;26;2317
+3;N32;Sonstige Krankheiten der Harnblase;15;77
+3;N33;Krankheiten der Harnblase bei anderenorts klassifizierten Krankheiten;0;0
+3;N34;Urethritis und urethrales Syndrom;5;6
+3;N35;Harnröhrenstriktur;6;25
+3;N36;Sonstige Krankheiten der Harnröhre;2;4
+3;N37;Krankheiten der Harnröhre bei anderenorts klassifizierten Krankheiten;0;0
+3;N39;Sonstige Krankheiten des Harnsystems;66;1045
+3;N40;Prostatahyperplasie;10;62
+3;N41;Entzündliche Krankheiten der Prostata;6;13
+3;N42;Sonstige Krankheiten der Prostata;0;0
+3;N43;Hydrozele und Spermatozele;6;10
+3;N44;Hodentorsion und Hydatidentorsion;4;4
+3;N45;Orchitis und Epididymitis;5;7
+3;N46;Sterilität beim Mann;-999;-999
+3;N47;Vorhauthypertrophie, Phimose und Paraphimose;20;28
+3;N48;Sonstige Krankheiten des Penis;23;103
+3;N49;Entzündliche Krankheiten der männlichen Genitalorgane, anderenorts nicht klassifiziert;3;3
+3;N50;Sonstige Krankheiten der männlichen Genitalorgane;11;17
+3;N51;Krankheiten der männlichen Genitalorgane bei anderenorts klassifizierten Krankheiten;0;0
+3;N60;Gutartige Mammadysplasie [Brustdrüsendysplasie];6;24
+3;N61;Entzündliche Krankheiten der Mamma [Brustdrüse];-999;-999
+3;N62;Hypertrophie der Mamma [Brustdrüse];11;28
+3;N63;Nicht näher bezeichnete Knoten in der Mamma [Brustdrüse];-999;-999
+3;N64;Sonstige Krankheiten der Mamma [Brustdrüse];10;17
+3;N70;Salpingitis und Oophoritis;-999;-999
+3;N71;Entzündliche Krankheit des Uterus, ausgenommen der Zervix;0;0
+3;N72;Entzündliche Krankheit der Cervix uteri;0;0
+3;N73;Sonstige entzündliche Krankheiten im weiblichen Becken;0;0
+3;N74;Entzündung im weiblichen Becken bei anderenorts klassifizierten Krankheiten;0;0
+3;N75;Krankheiten der Bartholin-Drüsen;-999;-999
+3;N76;Sonstige entzündliche Krankheit der Vagina und Vulva;6;18
+3;N77;Vulvovaginale Ulzeration und Entzündung bei anderenorts klassifizierten Krankheiten;0;0
+3;N80;Endometriose;4;5
+3;N81;Genitalprolaps bei der Frau;10;118
+3;N82;Fisteln mit Beteiligung des weiblichen Genitaltraktes;4;9
+3;N83;Nichtentzündliche Krankheiten des Ovars, der Tuba uterina und des Lig. latum uteri;16;31
+3;N84;Polyp des weiblichen Genitaltraktes;2;18
+3;N85;Sonstige nichtentzündliche Krankheiten des Uterus, ausgenommen der Zervix;2;5
+3;N86;Erosion und Ektropium der Cervix uteri;2;6
+3;N87;Dysplasie der Cervix uteri;3;31
+3;N88;Sonstige nichtentzündliche Krankheiten der Cervix uteri;3;12
+3;N89;Sonstige nichtentzündliche Krankheiten der Vagina;5;46
+3;N90;Sonstige nichtentzündliche Krankheiten der Vulva und des Perineums;9;100
+3;N91;Ausgebliebene, zu schwache oder zu seltene Menstruation;12;21
+3;N92;Zu starke, zu häufige oder unregelmäßige Menstruation;4;21
+3;N93;Sonstige abnorme Uterus- oder Vaginalblutung;3;3
+3;N94;Schmerz und andere Zustände im Zusammenhang mit den weiblichen Genitalorganen und dem Menstruationszyklus;7;12
+3;N95;Klimakterische Störungen;3;10
+3;N96;Neigung zu habituellem Abort;0;0
+3;N97;Sterilität der Frau;-999;-999
+3;N98;Komplikationen im Zusammenhang mit künstlicher Befruchtung;0;0
+3;N99;Krankheiten des Urogenitalsystems nach medizinischen Maßnahmen, anderenorts nicht klassifiziert;8;19
+3;O00;Extrauteringravidität;6;10
+3;O01;Blasenmole;-999;-999
+3;O02;Sonstige abnorme Konzeptionsprodukte;-999;-999
+3;O03;Spontanabort;0;0
+3;O04;Ärztlich eingeleiteter Abort;0;0
+3;O05;Sonstiger Abort;0;0
+3;O06;Nicht näher bezeichneter Abort;-999;-999
+3;O07;Misslungene Aborteinleitung;0;0
+3;O08;Komplikationen nach Abort, Extrauteringravidität und Molenschwangerschaft;-999;-999
+3;O09;Schwangerschaftsdauer;0;0
+3;O10;Vorher bestehende Hypertonie, die Schwangerschaft, Geburt und Wochenbett kompliziert;0;0
+3;O11;Chronische Hypertonie mit aufgepfropfter Präeklampsie;0;0
+3;O12;Gestationsödeme und Gestationsproteinurie [schwangerschaftsinduziert] ohne Hypertonie;-999;-999
+3;O13;Gestationshypertonie [schwangerschaftsinduzierte Hypertonie];0;0
+3;O14;Präeklampsie;0;0
+3;O15;Eklampsie;0;0
+3;O16;Nicht näher bezeichnete Hypertonie der Mutter;0;0
+3;O20;Blutung in der Frühschwangerschaft;0;0
+3;O21;Übermäßiges Erbrechen während der Schwangerschaft;-999;-999
+3;O22;Venenkrankheiten und Hämorrhoiden als Komplikationen in der Schwangerschaft;-999;-999
+3;O23;Infektionen des Urogenitaltraktes in der Schwangerschaft;3;4
+3;O24;Diabetes mellitus in der Schwangerschaft;7;311
+3;O25;Fehl- und Mangelernährung in der Schwangerschaft;0;0
+3;O26;Betreuung der Mutter bei sonstigen Zuständen, die vorwiegend mit der Schwangerschaft verbunden sind;5;16
+3;O28;Abnorme Befunde bei der Screeninguntersuchung der Mutter zur pränatalen Diagnostik;2;10
+3;O29;Komplikationen bei Anästhesie in der Schwangerschaft;0;0
+3;O30;Mehrlingsschwangerschaft;0;0
+3;O31;Komplikationen, die für eine Mehrlingsschwangerschaft spezifisch sind;0;0
+3;O32;Betreuung der Mutter bei festgestellter oder vermuteter Lage- und Einstellungsanomalie des Fetus;3;300
+3;O33;Betreuung der Mutter bei festgestelltem oder vermutetem Missverhältnis zwischen Fetus und Becken;0;0
+3;O34;Betreuung der Mutter bei festgestellter oder vermuteter Anomalie der Beckenorgane;2;2
+3;O35;Betreuung der Mutter bei festgestellter oder vermuteter Anomalie oder Schädigung des Fetus;2;168
+3;O36;Betreuung der Mutter wegen sonstiger festgestellter oder vermuteter Komplikationen beim Fetus;2;9
+3;O40;Polyhydramnion;-999;-999
+3;O41;Sonstige Veränderungen des Fruchtwassers und der Eihäute;0;0
+3;O42;Vorzeitiger Blasensprung;-999;-999
+3;O43;Pathologische Zustände der Plazenta;-999;-999
+3;O44;Placenta praevia;-999;-999
+3;O45;Vorzeitige Plazentalösung [Abruptio placentae];0;0
+3;O46;Präpartale Blutung, anderenorts nicht klassifiziert;-999;-999
+3;O47;Frustrane Kontraktionen [Unnütze Wehen];2;6
+3;O48;Übertragene Schwangerschaft;-999;-999
+3;O60;Vorzeitige Wehen und Entbindung;-999;-999
+3;O61;Misslungene Geburtseinleitung;0;0
+3;O62;Abnorme Wehentätigkeit;0;0
+3;O63;Protrahierte Geburt;0;0
+3;O64;Geburtshindernis durch Lage-, Haltungs- und Einstellungsanomalien des Fetus;-999;-999
+3;O65;Geburtshindernis durch Anomalie des mütterlichen Beckens;-999;-999
+3;O66;Sonstiges Geburtshindernis;0;0
+3;O67;Komplikationen bei Wehen und Entbindung durch intrapartale Blutung, anderenorts nicht klassifiziert;0;0
+3;O68;Komplikationen bei Wehen und Entbindung durch fetalen Distress [fetal distress] [fetaler Gefahrenzustand];0;0
+3;O69;Komplikationen bei Wehen und Entbindung durch Nabelschnurkomplikationen;0;0
+3;O70;Dammriss unter der Geburt;-999;-999
+3;O71;Sonstige Verletzungen unter der Geburt;0;0
+3;O72;Postpartale Blutung;2;11
+3;O73;Retention der Plazenta und der Eihäute ohne Blutung;-999;-999
+3;O74;Komplikationen bei Anästhesie während der Wehentätigkeit und bei der Entbindung;0;0
+3;O75;Sonstige Komplikationen bei Wehentätigkeit und Entbindung, anderenorts nicht klassifiziert;0;0
+3;O80;Spontangeburt eines Einlings;0;0
+3;O81;Geburt eines Einlings durch Zangen- oder Vakuumextraktion;0;0
+3;O82;Geburt eines Einlings durch Schnittentbindung [Sectio caesarea];0;0
+3;O85;Puerperalfieber;0;0
+3;O86;Sonstige Wochenbettinfektionen;0;0
+3;O87;Venenkrankheiten und Hämorrhoiden als Komplikationen im Wochenbett;0;0
+3;O88;Embolie während der Gestationsperiode;0;0
+3;O89;Komplikationen bei Anästhesie im Wochenbett;0;0
+3;O90;Wochenbettkomplikationen, anderenorts nicht klassifiziert;3;11
+3;O91;Infektionen der Mamma [Brustdrüse] im Zusammenhang mit der Gestation;0;0
+3;O92;Sonstige Krankheiten der Mamma [Brustdrüse] im Zusammenhang mit der Gestation und Laktationsstörungen;0;0
+3;O94;Folgen von Komplikationen während Schwangerschaft, Geburt und Wochenbett;0;0
+3;O95;Sterbefall während der Gestationsperiode nicht näher bezeichneter Ursache;0;0
+3;O96;Tod infolge jeder gestationsbedingten Ursache nach mehr als 42 Tagen bis unter einem Jahr nach der Entbindung;0;0
+3;O97;Tod an den Folgen gestationsbedingter Ursachen;0;0
+3;O98;Infektiöse und parasitäre Krankheiten der Mutter, die anderenorts klassifizierbar sind, die jedoch Schwangerschaft, Geburt und Wochenbett komplizieren;2;3
+3;O99;Sonstige Krankheiten der Mutter, die anderenorts klassifizierbar sind, die jedoch Schwangerschaft, Geburt und Wochenbett komplizieren;5;24
+3;P00;Schädigung des Fetus und Neugeborenen durch Zustände der Mutter, die zur vorliegenden Schwangerschaft keine Beziehung haben müssen;0;0
+3;P01;Schädigung des Fetus und Neugeborenen durch mütterliche Schwangerschaftskomplikationen;0;0
+3;P02;Schädigung des Fetus und Neugeborenen durch Komplikationen von Plazenta, Nabelschnur und Eihäuten;-999;-999
+3;P03;Schädigung des Fetus und Neugeborenen durch sonstige Komplikationen bei Wehen und Entbindung;0;0
+3;P04;Schädigung des Fetus und Neugeborenen durch Noxen, die transplazentar oder mit der Muttermilch übertragen werden;0;0
+3;P05;Intrauterine Mangelentwicklung und fetale Mangelernährung;-999;-999
+3;P07;Störungen im Zusammenhang mit kurzer Schwangerschaftsdauer und niedrigem Geburtsgewicht, anderenorts nicht klassifiziert;5;10
+3;P08;Störungen im Zusammenhang mit langer Schwangerschaftsdauer und hohem Geburtsgewicht;0;0
+3;P10;Intrakranielle Verletzung und Blutung durch Geburtsverletzung;0;0
+3;P11;Sonstige Geburtsverletzungen des Zentralnervensystems;0;0
+3;P12;Geburtsverletzung der behaarten Kopfhaut;-999;-999
+3;P13;Geburtsverletzung des Skeletts;0;0
+3;P14;Geburtsverletzung des peripheren Nervensystems;0;0
+3;P15;Sonstige Geburtsverletzungen;2;2
+3;P20;Intrauterine Hypoxie;0;0
+3;P21;Asphyxie unter der Geburt;6;11
+3;P22;Atemnot [Respiratory distress] beim Neugeborenen;2;2
+3;P23;Angeborene Pneumonie;0;0
+3;P24;Aspirationssyndrome beim Neugeborenen;0;0
+3;P25;Interstitielles Emphysem und verwandte Zustände mit Ursprung in der Perinatalperiode;0;0
+3;P26;Lungenblutung mit Ursprung in der Perinatalperiode;0;0
+3;P27;Chronische Atemwegskrankheit mit Ursprung in der Perinatalperiode;-999;-999
+3;P28;Sonstige Störungen der Atmung mit Ursprung in der Perinatalperiode;6;41
+3;P29;Kardiovaskuläre Krankheiten mit Ursprung in der Perinatalperiode;3;7
+3;P35;Angeborene Viruskrankheiten;9;12
+3;P36;Bakterielle Sepsis beim Neugeborenen;0;0
+3;P37;Sonstige angeborene infektiöse und parasitäre Krankheiten;-999;-999
+3;P38;Omphalitis beim Neugeborenen mit oder ohne leichte Blutung;0;0
+3;P39;Sonstige Infektionen, die für die Perinatalperiode spezifisch sind;-999;-999
+3;P50;Fetaler Blutverlust;0;0
+3;P51;Nabelblutung beim Neugeborenen;0;0
+3;P52;Intrakranielle nichttraumatische Blutung beim Fetus und Neugeborenen;5;12
+3;P53;Hämorrhagische Krankheit beim Fetus und Neugeborenen;0;0
+3;P54;Sonstige Blutungen beim Neugeborenen;3;4
+3;P55;Hämolytische Krankheit beim Fetus und Neugeborenen;-999;-999
+3;P56;Hydrops fetalis durch hämolytische Krankheit;0;0
+3;P57;Kernikterus;0;0
+3;P58;Neugeborenenikterus durch sonstige gesteigerte Hämolyse;0;0
+3;P59;Neugeborenenikterus durch sonstige und nicht näher bezeichnete Ursachen;5;13
+3;P60;Disseminierte intravasale Gerinnung beim Fetus und Neugeborenen;0;0
+3;P61;Sonstige hämatologische Krankheiten in der Perinatalperiode;2;2
+3;P70;Transitorische Störungen des Kohlenhydratstoffwechsels, die für den Fetus und das Neugeborene spezifisch sind;2;2
+3;P71;Transitorische Störungen des Kalzium- und Magnesiumstoffwechsels beim Neugeborenen;0;0
+3;P72;Sonstige transitorische endokrine Krankheiten beim Neugeborenen;0;0
+3;P74;Sonstige transitorische Störungen des Elektrolythaushaltes und des Stoffwechsels beim Neugeborenen;-999;-999
+3;P75;Mekoniumileus bei zystischer Fibrose;0;0
+3;P76;Sonstiger Darmverschluss beim Neugeborenen;0;0
+3;P77;Enterocolitis necroticans beim Fetus und Neugeborenen;-999;-999
+3;P78;Sonstige Krankheiten des Verdauungssystems in der Perinatalperiode;0;0
+3;P80;Hypothermie beim Neugeborenen;0;0
+3;P81;Sonstige Störungen der Temperaturregulation beim Neugeborenen;0;0
+3;P83;Sonstige Krankheitszustände mit Beteiligung der Haut, die für den Fetus und das Neugeborene spezifisch sind;-999;-999
+3;P90;Krämpfe beim Neugeborenen;7;11
+3;P91;Sonstige zerebrale Störungen beim Neugeborenen;7;13
+3;P92;Ernährungsprobleme beim Neugeborenen;-999;-999
+3;P93;Reaktionen und Intoxikationen durch Arzneimittel oder Drogen, die dem Fetus und Neugeborenen verabreicht wurden;0;0
+3;P94;Störungen des Muskeltonus beim Neugeborenen;6;12
+3;P95;Fetaltod nicht näher bezeichneter Ursache;0;0
+3;P96;Sonstige Zustände, die ihren Ursprung in der Perinatalperiode haben;-999;-999
+3;Q00;Anenzephalie und ähnliche Fehlbildungen;-999;-999
+3;Q01;Enzephalozele;3;4
+3;Q02;Mikrozephalie;29;81
+3;Q03;Angeborener Hydrozephalus;16;59
+3;Q04;Sonstige angeborene Fehlbildungen des Gehirns;35;83
+3;Q05;Spina bifida;28;284
+3;Q06;Sonstige angeborene Fehlbildungen des Rückenmarks;22;60
+3;Q07;Sonstige angeborene Fehlbildungen des Nervensystems;14;30
+3;Q10;Angeborene Fehlbildungen des Augenlides, des Tränenapparates und der Orbita;8;43
+3;Q11;Anophthalmus, Mikrophthalmus und Makrophthalmus;2;2
+3;Q12;Angeborene Fehlbildungen der Linse;4;9
+3;Q13;Angeborene Fehlbildungen des vorderen Augenabschnittes;-999;-999
+3;Q14;Angeborene Fehlbildung des hinteren Augenabschnittes;4;6
+3;Q15;Sonstige angeborene Fehlbildungen des Auges;4;23
+3;Q16;Angeborene Fehlbildungen des Ohres, die eine Beeinträchtigung des Hörvermögens verursachen;4;5
+3;Q17;Sonstige angeborene Fehlbildungen des Ohres;10;29
+3;Q18;Sonstige angeborene Fehlbildungen des Gesichtes und des Halses;17;49
+3;Q20;Angeborene Fehlbildungen der Herzhöhlen und verbindender Strukturen;8;81
+3;Q21;Angeborene Fehlbildungen der Herzsepten;19;314
+3;Q22;Angeborene Fehlbildungen der Pulmonal- und der Trikuspidalklappe;11;58
+3;Q23;Angeborene Fehlbildungen der Aorten- und der Mitralklappe;12;82
+3;Q24;Sonstige angeborene Fehlbildungen des Herzens;7;23
+3;Q25;Angeborene Fehlbildungen der großen Arterien;13;111
+3;Q26;Angeborene Fehlbildungen der großen Venen;5;8
+3;Q27;Sonstige angeborene Fehlbildungen des peripheren Gefäßsystems;11;23
+3;Q28;Sonstige angeborene Fehlbildungen des Kreislaufsystems;16;60
+3;Q30;Angeborene Fehlbildungen der Nase;4;6
+3;Q31;Angeborene Fehlbildungen des Kehlkopfes;7;9
+3;Q32;Angeborene Fehlbildungen der Trachea und der Bronchien;5;6
+3;Q33;Angeborene Fehlbildungen der Lunge;12;20
+3;Q34;Sonstige angeborene Fehlbildungen des Atmungssystems;5;9
+3;Q35;Gaumenspalte;4;5
+3;Q36;Lippenspalte;-999;-999
+3;Q37;Gaumenspalte mit Lippenspalte;3;47
+3;Q38;Sonstige angeborene Fehlbildungen der Zunge, des Mundes und des Rachens;8;15
+3;Q39;Angeborene Fehlbildungen des Ösophagus;17;42
+3;Q40;Sonstige angeborene Fehlbildungen des oberen Verdauungstraktes;3;4
+3;Q41;Angeborene(s) Fehlen, Atresie und Stenose des Dünndarmes;-999;-999
+3;Q42;Angeborene(s) Fehlen, Atresie und Stenose des Dickdarmes;14;107
+3;Q43;Sonstige angeborene Fehlbildungen des Darmes;19;117
+3;Q44;Angeborene Fehlbildungen der Gallenblase, der Gallengänge und der Leber;10;17
+3;Q45;Sonstige angeborene Fehlbildungen des Verdauungssystems;4;4
+3;Q50;Angeborene Fehlbildungen der Ovarien, der Tubae uterinae und der Ligg. lata uteri;3;3
+3;Q51;Angeborene Fehlbildungen des Uterus und der Cervix uteri;2;4
+3;Q52;Sonstige angeborene Fehlbildungen der weiblichen Genitalorgane;15;32
+3;Q53;Nondescensus testis;14;27
+3;Q54;Hypospadie;7;14
+3;Q55;Sonstige angeborene Fehlbildungen der männlichen Genitalorgane;7;10
+3;Q56;Unbestimmtes Geschlecht und Pseudohermaphroditismus;0;0
+3;Q60;Nierenagenesie und sonstige Reduktionsdefekte der Niere;19;122
+3;Q61;Zystische Nierenkrankheit;28;240
+3;Q62;Angeborene obstruktive Defekte des Nierenbeckens und angeborene Fehlbildungen des Ureters;41;1121
+3;Q63;Sonstige angeborene Fehlbildungen der Niere;29;244
+3;Q64;Sonstige angeborene Fehlbildungen des Harnsystems;23;83
+3;Q65;Angeborene Deformitäten der Hüfte;11;22
+3;Q66;Angeborene Deformitäten der Füße;18;30
+3;Q67;Angeborene Muskel-Skelett-Deformitäten des Kopfes, des Gesichtes, der Wirbelsäule und des Thorax;19;31
+3;Q68;Sonstige angeborene Muskel-Skelett-Deformitäten;4;5
+3;Q69;Polydaktylie;6;7
+3;Q70;Syndaktylie;3;4
+3;Q71;Reduktionsdefekte der oberen Extremität;2;2
+3;Q72;Reduktionsdefekte der unteren Extremität;5;5
+3;Q73;Reduktionsdefekte nicht näher bezeichneter Extremität(en);0;0
+3;Q74;Sonstige angeborene Fehlbildungen der Extremität(en);10;16
+3;Q75;Sonstige angeborene Fehlbildungen der Schädel- und Gesichtsschädelknochen;33;150
+3;Q76;Angeborene Fehlbildungen der Wirbelsäule und des knöchernen Thorax;19;65
+3;Q77;Osteochondrodysplasie mit Wachstumsstörungen der Röhrenknochen und der Wirbelsäule;11;22
+3;Q78;Sonstige Osteochondrodysplasien;34;137
+3;Q79;Angeborene Fehlbildungen des Muskel-Skelett-Systems, anderenorts nicht klassifiziert;14;19
+3;Q80;Ichthyosis congenita;14;38
+3;Q81;Epidermolysis bullosa;9;131
+3;Q82;Sonstige angeborene Fehlbildungen der Haut;51;550
+3;Q83;Angeborene Fehlbildungen der Mamma [Brustdrüse];2;3
+3;Q84;Sonstige angeborene Fehlbildungen des Integumentes;5;6
+3;Q85;Phakomatosen, anderenorts nicht klassifiziert;52;378
+3;Q86;Angeborene Fehlbildungssyndrome durch bekannte äußere Ursachen, anderenorts nicht klassifiziert;3;5
+3;Q87;Sonstige näher bezeichnete angeborene Fehlbildungssyndrome mit Beteiligung mehrerer Systeme;27;101
+3;Q89;Sonstige angeborene Fehlbildungen, anderenorts nicht klassifiziert;15;24
+3;Q90;Down-Syndrom;15;29
+3;Q91;Edwards-Syndrom und Patau-Syndrom;-999;-999
+3;Q92;Sonstige Trisomien und partielle Trisomien der Autosomen, anderenorts nicht klassifiziert;5;5
+3;Q93;Monosomien und Deletionen der Autosomen, anderenorts nicht klassifiziert;13;24
+3;Q95;Balancierte Chromosomen-Rearrangements und Struktur-Marker, anderenorts nicht klassifiziert;-999;-999
+3;Q96;Turner-Syndrom;13;55
+3;Q97;Sonstige Anomalien der Gonosomen bei weiblichem Phänotyp, anderenorts nicht klassifiziert;0;0
+3;Q98;Sonstige Anomalien der Gonosomen bei männlichem Phänotyp, anderenorts nicht klassifiziert;3;5
+3;Q99;Sonstige Chromosomenanomalien, anderenorts nicht klassifiziert;13;22
+3;R00;Störungen des Herzschlages;21;75
+3;R01;Herzgeräusche und andere Herz-Schallphänomene;8;18
+3;R02;Gangrän, anderenorts nicht klassifiziert;2;2
+3;R03;Abnormer Blutdruckwert ohne Diagnose;2;4
+3;R04;Blutung aus den Atemwegen;12;35
+3;R05;Husten;19;46
+3;R06;Störungen der Atmung;76;866
+3;R07;Hals- und Brustschmerzen;33;648
+3;R09;Sonstige Symptome, die das Kreislaufsystem und das Atmungssystem betreffen;11;43
+3;R10;Bauch- und Beckenschmerzen;75;2869
+3;R11;Übelkeit und Erbrechen;51;216
+3;R12;Sodbrennen;14;27
+3;R13;Dysphagie;58;546
+3;R14;Flatulenz und verwandte Zustände;18;31
+3;R15;Stuhlinkontinenz;24;275
+3;R16;Hepatomegalie und Splenomegalie, anderenorts nicht klassifiziert;18;39
+3;R17;Gelbsucht, nicht näher bezeichnet;3;4
+3;R18;Aszites;24;184
+3;R19;Sonstige Symptome, die das Verdauungssystem und das Abdomen betreffen;25;43
+3;R20;Sensibilitätsstörungen der Haut;47;521
+3;R21;Hautausschlag und sonstige unspezifische Hauteruptionen;7;12
+3;R22;Lokalisierte Schwellung, Raumforderung und Knoten der Haut und der Unterhaut;26;63
+3;R23;Sonstige Hautveränderungen;24;34
+3;R25;Abnorme unwillkürliche Bewegungen;38;90
+3;R26;Störungen des Ganges und der Mobilität;182;12127
+3;R27;Sonstige Koordinationsstörungen;36;64
+3;R29;Sonstige Symptome, die das Nervensystem und das Muskel-Skelett-System betreffen;125;822
+3;R30;Schmerzen beim Wasserlassen;5;11
+3;R31;Nicht näher bezeichnete Hämaturie;13;31
+3;R32;Nicht näher bezeichnete Harninkontinenz;29;923
+3;R33;Harnverhaltung;11;27
+3;R34;Anurie und Oligurie;2;2
+3;R35;Polyurie;9;15
+3;R36;Ausfluss aus der Harnröhre;0;0
+3;R39;Sonstige Symptome, die das Harnsystem betreffen;30;186
+3;R40;Somnolenz, Sopor und Koma;8;9
+3;R41;Sonstige Symptome, die das Erkennungsvermögen und das Bewusstsein betreffen;36;67
+3;R42;Schwindel und Taumel;106;1913
+3;R43;Störungen des Geruchs- und Geschmackssinnes;10;11
+3;R44;Sonstige Symptome, die die Sinneswahrnehmungen und das Wahrnehmungsvermögen betreffen;5;5
+3;R45;Symptome, die die Stimmung betreffen;14;16
+3;R46;Symptome, die das äußere Erscheinungsbild und das Verhalten betreffen;5;11
+3;R47;Sprech- und Sprachstörungen, anderenorts nicht klassifiziert;36;98
+3;R48;Dyslexie und sonstige Werkzeugstörungen, anderenorts nicht klassifiziert;5;5
+3;R49;Störungen der Stimme;11;154
+3;R50;Fieber sonstiger und unbekannter Ursache;22;62
+3;R51;Kopfschmerz;73;618
+3;R52;Schmerz, anderenorts nicht klassifiziert;122;1800
+3;R53;Unwohlsein und Ermüdung;69;192
+3;R54;Senilität;10;41
+3;R55;Synkope und Kollaps;89;452
+3;R56;Krämpfe, anderenorts nicht klassifiziert;42;318
+3;R57;Schock, anderenorts nicht klassifiziert;2;4
+3;R58;Blutung, anderenorts nicht klassifiziert;3;3
+3;R59;Lymphknotenvergrößerung;52;210
+3;R60;Ödem, anderenorts nicht klassifiziert;11;15
+3;R61;Hyperhidrose;16;68
+3;R62;Ausbleiben der erwarteten normalen physiologischen Entwicklung;43;308
+3;R63;Symptome, die die Nahrungs- und Flüssigkeitsaufnahme betreffen;53;169
+3;R64;Kachexie;6;8
+3;R65;Systemisches inflammatorisches Response-Syndrom [SIRS];0;0
+3;R68;Sonstige Allgemeinsymptome;9;42
+3;R69;Unbekannte und nicht näher bezeichnete Krankheitsursachen;2;6
+3;R70;Beschleunigte Blutkörperchensenkungsreaktion und Veränderungen der Plasmaviskosität;2;4
+3;R71;Veränderung der Erythrozyten;0;0
+3;R72;Veränderung der Leukozyten, anderenorts nicht klassifiziert;3;8
+3;R73;Erhöhter Blutglukosewert;21;103
+3;R74;Abnorme Serumenzymwerte;33;61
+3;R75;Laborhinweis auf Humanes Immundefizienz-Virus [HIV];0;0
+3;R76;Sonstige abnorme immunologische Serumbefunde;10;16
+3;R77;Sonstige Veränderungen der Plasmaproteine;8;71
+3;R78;Nachweis von Drogen und anderen Substanzen, die normalerweise nicht im Blut vorhanden sind;0;0
+3;R79;Sonstige abnorme Befunde der Blutchemie;13;39
+3;R80;Isolierte Proteinurie;8;9
+3;R81;Glukosurie;4;5
+3;R82;Sonstige abnorme Urinbefunde;4;5
+3;R83;Abnorme Liquorbefunde;3;3
+3;R84;Abnorme Befunde in Untersuchungsmaterialien aus Atemwegen und Thorax;0;0
+3;R85;Abnorme Befunde in Untersuchungsmaterialien aus Verdauungsorganen und Bauchhöhle;-999;-999
+3;R86;Abnorme Befunde in Untersuchungsmaterialien aus den männlichen Genitalorganen;0;0
+3;R87;Abnorme Befunde in Untersuchungsmaterialien aus den weiblichen Genitalorganen;3;6
+3;R89;Abnorme Befunde in Untersuchungsmaterialien aus anderen Körperorganen, -systemen und -geweben;0;0
+3;R90;Abnorme Befunde bei der bildgebenden Diagnostik des Zentralnervensystems;22;72
+3;R91;Abnorme Befunde bei der bildgebenden Diagnostik der Lunge;14;71
+3;R92;Abnorme Befunde bei der bildgebenden Diagnostik der Mamma [Brustdrüse];3;29
+3;R93;Abnorme Befunde bei der bildgebenden Diagnostik sonstiger Körperstrukturen;18;41
+3;R94;Abnorme Ergebnisse von Funktionsprüfungen;33;91
+3;R95;Plötzlicher Kindstod;0;0
+3;R96;Sonstiger plötzlicher Tod unbekannter Ursache;0;0
+3;R98;Tod ohne Anwesenheit anderer Personen;0;0
+3;R99;Sonstige ungenau oder nicht näher bezeichnete Todesursachen;0;0
+3;S00;Oberflächliche Verletzung des Kopfes;15;42
+3;S01;Offene Wunde des Kopfes;15;83
+3;S02;Fraktur des Schädels und der Gesichtsschädelknochen;21;142
+3;S03;Luxation, Verstauchung und Zerrung von Gelenken und Bändern des Kopfes;4;9
+3;S04;Verletzung von Hirnnerven;3;3
+3;S05;Verletzung des Auges und der Orbita;5;20
+3;S06;Intrakranielle Verletzung;80;969
+3;S07;Zerquetschung des Kopfes;0;0
+3;S08;Traumatische Amputation von Teilen des Kopfes;-999;-999
+3;S09;Sonstige und nicht näher bezeichnete Verletzungen des Kopfes;8;29
+3;S10;Oberflächliche Verletzung des Halses;4;5
+3;S11;Offene Wunde des Halses;0;0
+3;S12;Fraktur im Bereich des Halses;20;50
+3;S13;Luxation, Verstauchung und Zerrung von Gelenken und Bändern in Halshöhe;10;20
+3;S14;Verletzung der Nerven und des Rückenmarkes in Halshöhe;7;8
+3;S15;Verletzung von Blutgefäßen in Halshöhe;0;0
+3;S16;Verletzung von Muskeln und Sehnen in Halshöhe;0;0
+3;S17;Zerquetschung des Halses;0;0
+3;S18;Traumatische Amputation in Halshöhe;0;0
+3;S19;Sonstige und nicht näher bezeichnete Verletzungen des Halses;0;0
+3;S20;Oberflächliche Verletzung des Thorax;15;32
+3;S21;Offene Wunde des Thorax;-999;-999
+3;S22;Fraktur der Rippe(n), des Sternums und der Brustwirbelsäule;85;278
+3;S23;Luxation, Verstauchung und Zerrung von Gelenken und Bändern im Bereich des Thorax;2;2
+3;S24;Verletzung der Nerven und des Rückenmarkes in Thoraxhöhe;-999;-999
+3;S25;Verletzung von Blutgefäßen des Thorax;0;0
+3;S26;Verletzung des Herzens;-999;-999
+3;S27;Verletzung sonstiger und nicht näher bezeichneter intrathorakaler Organe;3;3
+3;S28;Zerquetschung des Thorax und traumatische Amputation von Teilen des Thorax;0;0
+3;S29;Sonstige und nicht näher bezeichnete Verletzungen des Thorax;-999;-999
+3;S30;Oberflächliche Verletzung des Abdomens, der Lumbosakralgegend und des Beckens;31;50
+3;S31;Offene Wunde des Abdomens, der Lumbosakralgegend und des Beckens;3;4
+3;S32;Fraktur der Lendenwirbelsäule und des Beckens;113;801
+3;S33;Luxation, Verstauchung und Zerrung von Gelenken und Bändern der Lendenwirbelsäule und des Beckens;2;2
+3;S34;Verletzung der Nerven und des lumbalen Rückenmarkes in Höhe des Abdomens, der Lumbosakralgegend und des Beckens;6;8
+3;S35;Verletzung von Blutgefäßen in Höhe des Abdomens, der Lumbosakralgegend und des Beckens;0;0
+3;S36;Verletzung von intraabdominalen Organen;6;9
+3;S37;Verletzung der Harnorgane und der Beckenorgane;2;2
+3;S38;Zerquetschung und traumatische Amputation von Teilen des Abdomens, der Lumbosakralgegend und des Beckens;0;0
+3;S39;Sonstige und nicht näher bezeichnete Verletzungen des Abdomens, der Lumbosakralgegend und des Beckens;2;3
+3;S40;Oberflächliche Verletzung der Schulter und des Oberarmes;13;16
+3;S41;Offene Wunde der Schulter und des Oberarmes;-999;-999
+3;S42;Fraktur im Bereich der Schulter und des Oberarmes;120;776
+3;S43;Luxation, Verstauchung und Zerrung von Gelenken und Bändern des Schultergürtels;30;41
+3;S44;Verletzung von Nerven in Höhe der Schulter und des Oberarmes;-999;-999
+3;S45;Verletzung von Blutgefäßen in Höhe der Schulter und des Oberarmes;0;0
+3;S46;Verletzung von Muskeln und Sehnen in Höhe der Schulter und des Oberarmes;11;12
+3;S47;Zerquetschung der Schulter und des Oberarmes;0;0
+3;S48;Traumatische Amputation an Schulter und Oberarm;0;0
+3;S49;Sonstige und nicht näher bezeichnete Verletzungen der Schulter und des Oberarmes;0;0
+3;S50;Oberflächliche Verletzung des Unterarmes;0;0
+3;S51;Offene Wunde des Unterarmes;4;5
+3;S52;Fraktur des Unterarmes;68;186
+3;S53;Luxation, Verstauchung und Zerrung des Ellenbogengelenkes und von Bändern des Ellenbogens;6;6
+3;S54;Verletzung von Nerven in Höhe des Unterarmes;-999;-999
+3;S55;Verletzung von Blutgefäßen in Höhe des Unterarmes;-999;-999
+3;S56;Verletzung von Muskeln und Sehnen in Höhe des Unterarmes;0;0
+3;S57;Zerquetschung des Unterarmes;0;0
+3;S58;Traumatische Amputation am Unterarm;0;0
+3;S59;Sonstige und nicht näher bezeichnete Verletzungen des Unterarmes;0;0
+3;S60;Oberflächliche Verletzung des Handgelenkes und der Hand;4;8
+3;S61;Offene Wunde des Handgelenkes und der Hand;7;13
+3;S62;Fraktur im Bereich des Handgelenkes und der Hand;12;26
+3;S63;Luxation, Verstauchung und Zerrung von Gelenken und Bändern in Höhe des Handgelenkes und der Hand;4;5
+3;S64;Verletzung von Nerven in Höhe des Handgelenkes und der Hand;-999;-999
+3;S65;Verletzung von Blutgefäßen in Höhe des Handgelenkes und der Hand;0;0
+3;S66;Verletzung von Muskeln und Sehnen in Höhe des Handgelenkes und der Hand;-999;-999
+3;S67;Zerquetschung des Handgelenkes und der Hand;0;0
+3;S68;Traumatische Amputation an Handgelenk und Hand;3;4
+3;S69;Sonstige und nicht näher bezeichnete Verletzungen des Handgelenkes und der Hand;2;2
+3;S70;Oberflächliche Verletzung der Hüfte und des Oberschenkels;27;48
+3;S71;Offene Wunde der Hüfte und des Oberschenkels;-999;-999
+3;S72;Fraktur des Femurs;123;1694
+3;S73;Luxation, Verstauchung und Zerrung des Hüftgelenkes und von Bändern der Hüfte;8;11
+3;S74;Verletzung von Nerven in Höhe der Hüfte und des Oberschenkels;0;0
+3;S75;Verletzung von Blutgefäßen in Höhe der Hüfte und des Oberschenkels;0;0
+3;S76;Verletzung von Muskeln und Sehnen in Höhe der Hüfte und des Oberschenkels;19;22
+3;S77;Zerquetschung der Hüfte und des Oberschenkels;0;0
+3;S78;Traumatische Amputation an Hüfte und Oberschenkel;2;3
+3;S79;Sonstige und nicht näher bezeichnete Verletzungen der Hüfte und des Oberschenkels;0;0
+3;S80;Oberflächliche Verletzung des Unterschenkels;19;25
+3;S81;Offene Wunde des Unterschenkels;11;14
+3;S82;Fraktur des Unterschenkels, einschließlich des oberen Sprunggelenkes;89;318
+3;S83;Luxation, Verstauchung und Zerrung des Kniegelenkes und von Bändern des Kniegelenkes;18;23
+3;S84;Verletzung von Nerven in Höhe des Unterschenkels;0;0
+3;S85;Verletzung von Blutgefäßen in Höhe des Unterschenkels;0;0
+3;S86;Verletzung von Muskeln und Sehnen in Höhe des Unterschenkels;9;12
+3;S87;Zerquetschung des Unterschenkels;0;0
+3;S88;Traumatische Amputation am Unterschenkel;0;0
+3;S89;Sonstige und nicht näher bezeichnete Verletzungen des Unterschenkels;0;0
+3;S90;Oberflächliche Verletzung der Knöchelregion und des Fußes;7;15
+3;S91;Offene Wunde der Knöchelregion und des Fußes;3;11
+3;S92;Fraktur des Fußes [ausgenommen oberes Sprunggelenk];30;39
+3;S93;Luxation, Verstauchung und Zerrung der Gelenke und Bänder in Höhe des oberen Sprunggelenkes und des Fußes;11;20
+3;S94;Verletzung von Nerven in Höhe des Knöchels und des Fußes;0;0
+3;S95;Verletzung von Blutgefäßen in Höhe des Knöchels und des Fußes;-999;-999
+3;S96;Verletzung von Muskeln und Sehnen in Höhe des Knöchels und des Fußes;0;0
+3;S97;Zerquetschung des oberen Sprunggelenkes und des Fußes;0;0
+3;S98;Traumatische Amputation am oberen Sprunggelenk und Fuß;0;0
+3;S99;Sonstige und nicht näher bezeichnete Verletzungen der Knöchelregion und des Fußes;0;0
+3;T00;Oberflächliche Verletzungen mit Beteiligung mehrerer Körperregionen;-999;-999
+3;T01;Offene Wunden mit Beteiligung mehrerer Körperregionen;0;0
+3;T02;Frakturen mit Beteiligung mehrerer Körperregionen;2;3
+3;T03;Luxationen, Verstauchungen und Zerrungen mit Beteiligung mehrerer Körperregionen;0;0
+3;T04;Zerquetschungen mit Beteiligung mehrerer Körperregionen;0;0
+3;T05;Traumatische Amputationen mit Beteiligung mehrerer Körperregionen;0;0
+3;T06;Sonstige Verletzungen mit Beteiligung mehrerer Körperregionen, anderenorts nicht klassifiziert;0;0
+3;T07;Nicht näher bezeichnete multiple Verletzungen;4;5
+3;T08;Fraktur der Wirbelsäule, Höhe nicht näher bezeichnet;8;12
+3;T09;Sonstige Verletzungen der Wirbelsäule und des Rumpfes, Höhe nicht näher bezeichnet;0;0
+3;T10;Fraktur der oberen Extremität, Höhe nicht näher bezeichnet;-999;-999
+3;T11;Sonstige Verletzungen der oberen Extremität, Höhe nicht näher bezeichnet;-999;-999
+3;T12;Fraktur der unteren Extremität, Höhe nicht näher bezeichnet;0;0
+3;T13;Sonstige Verletzungen der unteren Extremität, Höhe nicht näher bezeichnet;-999;-999
+3;T14;Verletzung an einer nicht näher bezeichneten Körperregion;10;51
+3;T15;Fremdkörper im äußeren Auge;8;42
+3;T16;Fremdkörper im Ohr;9;31
+3;T17;Fremdkörper in den Atemwegen;6;22
+3;T18;Fremdkörper im Verdauungstrakt;23;66
+3;T19;Fremdkörper im Urogenitaltrakt;2;2
+3;T20;Verbrennung oder Verätzung des Kopfes und des Halses;3;3
+3;T21;Verbrennung oder Verätzung des Rumpfes;5;16
+3;T22;Verbrennung oder Verätzung der Schulter und des Armes, ausgenommen Handgelenk und Hand;7;21
+3;T23;Verbrennung oder Verätzung des Handgelenkes und der Hand;9;13
+3;T24;Verbrennung oder Verätzung der Hüfte und des Beines, ausgenommen Knöchelregion und Fuß;9;16
+3;T25;Verbrennung oder Verätzung der Knöchelregion und des Fußes;3;8
+3;T26;Verbrennung oder Verätzung, begrenzt auf das Auge und seine Anhangsgebilde;0;0
+3;T27;Verbrennung oder Verätzung der Atemwege;0;0
+3;T28;Verbrennung oder Verätzung sonstiger innerer Organe;3;4
+3;T29;Verbrennungen oder Verätzungen mehrerer Körperregionen;-999;-999
+3;T30;Verbrennung oder Verätzung, Körperregion nicht näher bezeichnet;3;3
+3;T31;Verbrennungen, klassifiziert nach dem Ausmaß der betroffenen Körperoberfläche;0;0
+3;T32;Verätzungen, klassifiziert nach dem Ausmaß der betroffenen Körperoberfläche;0;0
+3;T33;Oberflächliche Erfrierung;0;0
+3;T34;Erfrierung mit Gewebsnekrose;0;0
+3;T35;Erfrierung mit Beteiligung mehrerer Körperregionen und nicht näher bezeichnete Erfrierung;0;0
+3;T36;Vergiftung durch systemisch wirkende Antibiotika;0;0
+3;T37;Vergiftung durch sonstige systemisch wirkende Antiinfektiva und Antiparasitika;0;0
+3;T38;Vergiftung durch Hormone und deren synthetische Ersatzstoffe und Antagonisten, anderenorts nicht klassifiziert;0;0
+3;T39;Vergiftung durch nichtopioidhaltige Analgetika, Antipyretika und Antirheumatika;2;2
+3;T40;Vergiftung durch Betäubungsmittel und Psychodysleptika [Halluzinogene];-999;-999
+3;T41;Vergiftung durch Anästhetika und therapeutische Gase;0;0
+3;T42;Vergiftung durch Antiepileptika, Sedativa, Hypnotika und Antiparkinsonmittel;-999;-999
+3;T43;Vergiftung durch psychotrope Substanzen, anderenorts nicht klassifiziert;-999;-999
+3;T44;Vergiftung durch primär auf das autonome Nervensystem wirkende Arzneimittel;0;0
+3;T45;Vergiftung durch primär systemisch und auf das Blut wirkende Mittel, anderenorts nicht klassifiziert;2;2
+3;T46;Vergiftung durch primär auf das Herz-Kreislaufsystem wirkende Mittel;0;0
+3;T47;Vergiftung durch primär auf den Magen-Darm-Trakt wirkende Mittel;0;0
+3;T48;Vergiftung durch primär auf die glatte Muskulatur, die Skelettmuskulatur und das Atmungssystem wirkende Mittel;0;0
+3;T49;Vergiftung durch primär auf Haut und Schleimhäute wirkende und in der Augen-, der Hals-Nasen-Ohren- und der Zahnheilkunde angewendete Mittel zur topischen Anwendung;0;0
+3;T50;Vergiftung durch Diuretika und sonstige und nicht näher bezeichnete Arzneimittel, Drogen und biologisch aktive Substanzen;5;8
+3;T51;Toxische Wirkung von Alkohol;3;7
+3;T52;Toxische Wirkung von organischen Lösungsmitteln;0;0
+3;T53;Toxische Wirkung von halogenierten aliphatischen und aromatischen Kohlenwasserstoffen;-999;-999
+3;T54;Toxische Wirkung von ätzenden Substanzen;-999;-999
+3;T55;Toxische Wirkung von Seifen und Detergenzien;2;2
+3;T56;Toxische Wirkung von Metallen;0;0
+3;T57;Toxische Wirkung von sonstigen anorganischen Substanzen;0;0
+3;T58;Toxische Wirkung von Kohlenmonoxid;2;2
+3;T59;Toxische Wirkung sonstiger Gase, Dämpfe oder sonstigen Rauches;2;2
+3;T60;Toxische Wirkung von Schädlingsbekämpfungsmitteln [Pestiziden];-999;-999
+3;T61;Toxische Wirkung schädlicher Substanzen, die mit essbaren Meerestieren aufgenommen wurden;2;3
+3;T62;Toxische Wirkung sonstiger schädlicher Substanzen, die mit der Nahrung aufgenommen wurden;2;2
+3;T63;Toxische Wirkung durch Kontakt mit giftigen Tieren;20;189
+3;T64;Toxische Wirkung von Aflatoxin und sonstigem Mykotoxin in kontaminierten Lebensmitteln;0;0
+3;T65;Toxische Wirkung sonstiger und nicht näher bezeichneter Substanzen;3;4
+3;T66;Nicht näher bezeichnete Schäden durch Strahlung;-999;-999
+3;T67;Schäden durch Hitze und Sonnenlicht;-999;-999
+3;T68;Hypothermie;0;0
+3;T69;Sonstige Schäden durch niedrige Temperatur;3;3
+3;T70;Schäden durch Luft- und Wasserdruck;-999;-999
+3;T71;Erstickung;0;0
+3;T73;Schäden durch sonstigen Mangel;0;0
+3;T74;Missbrauch von Personen;2;2
+3;T75;Schäden durch sonstige äußere Ursachen;4;12
+3;T78;Unerwünschte Nebenwirkungen, anderenorts nicht klassifiziert;41;1159
+3;T79;Bestimmte Frühkomplikationen eines Traumas, anderenorts nicht klassifiziert;7;8
+3;T80;Komplikationen nach Infusion, Transfusion oder Injektion zu therapeutischen Zwecken;-999;-999
+3;T81;Komplikationen bei Eingriffen, anderenorts nicht klassifiziert;50;186
+3;T82;Komplikationen durch Prothesen, Implantate oder Transplantate im Herzen und in den Gefäßen;21;140
+3;T83;Komplikationen durch Prothesen, Implantate oder Transplantate im Urogenitaltrakt;7;22
+3;T84;Komplikationen durch orthopädische Endoprothesen, Implantate oder Transplantate;69;214
+3;T85;Komplikationen durch sonstige interne Prothesen, Implantate oder Transplantate;26;79
+3;T86;Versagen und Abstoßung von transplantierten Organen und Geweben;37;983
+3;T87;Komplikationen, die für Replantation und Amputation bezeichnend sind;7;14
+3;T88;Sonstige Komplikationen bei chirurgischen Eingriffen und medizinischer Behandlung, anderenorts nicht klassifiziert;24;285
+3;T89;Sonstige näher bezeichnete Komplikationen eines Traumas;14;52
+3;T90;Folgen von Verletzungen des Kopfes;5;13
+3;T91;Folgen von Verletzungen des Halses und des Rumpfes;0;0
+3;T92;Folgen von Verletzungen der oberen Extremität;-999;-999
+3;T93;Folgen von Verletzungen der unteren Extremität;2;2
+3;T94;Folgen von Verletzungen mehrerer oder nicht näher bezeichneter Körperregionen;0;0
+3;T95;Folgen von Verbrennungen, Verätzungen oder Erfrierungen;-999;-999
+3;T96;Folgen einer Vergiftung durch Arzneimittel, Drogen und biologisch aktive Substanzen;0;0
+3;T97;Folgen toxischer Wirkungen von vorwiegend nicht medizinisch verwendeten Substanzen;0;0
+3;T98;Folgen sonstiger und nicht näher bezeichneter Wirkungen äußerer Ursachen;0;0
+3;U04;Schweres akutes respiratorisches Syndrom [SARS];0;0
+3;U06;Nicht belegte Schlüsselnummer U06;0;0
+3;U07;Nicht belegte Schlüsselnummer U07;0;0
+3;U50;Motorische Funktionseinschränkung;-999;-999
+3;U51;Kognitive Funktionseinschränkung;3;5
+3;U52;Frührehabilitations-Barthel-Index [FRB];0;0
+3;U55;Erfolgte Registrierung zur Organtransplantation;-999;-999
+3;U60;Klinische Kategorien der HIV-Krankheit;0;0
+3;U61;Anzahl der T-Helferzellen bei HIV-Krankheit;0;0
+3;U69;Sonstige sekundäre Schlüsselnummern für besondere Zwecke;0;0
+3;U80;Erreger mit bestimmten Antibiotikaresistenzen, die besondere therapeutische oder hygienische Maßnahmen erfordern;0;0
+3;U81;Bakterien mit Multiresistenz gegen Antibiotika;0;0
+3;U82;Mykobakterien mit Resistenz gegen Antituberkulotika (Erstrangmedikamente);0;0
+3;U83;Candida mit Resistenz gegen Fluconazol oder Voriconazol;0;0
+3;U84;Herpesviren mit Resistenz gegen Virustatika;0;0
+3;U85;Humanes Immundefizienz-Virus mit Resistenz gegen Virustatika oder Proteinaseinhibitoren;0;0
+3;U99;Nicht belegte Schlüsselnummer U99;0;0
+3;V99;Transportmittelunfall;0;0
+3;W49;Exposition gegenüber mechanischen Kräften unbelebter Objekte;0;0
+3;W64;Exposition gegenüber mechanischen Kräften belebter Objekte;0;0
+3;W87;Exposition gegenüber elektrischem Strom;0;0
+3;W91;Exposition gegenüber Strahlung;0;0
+3;W92;Exposition gegenüber übermäßiger, künstlich erzeugter Hitze;0;0
+3;W93;Exposition gegenüber übermäßiger, künstlich erzeugter Kälte;0;0
+3;W94;Exposition gegenüber hohem oder niedrigem Luftdruck oder Luftdruckwechsel;0;0
+3;X19;Verbrennung oder Verbrühung durch Hitze oder heiße Substanzen;0;0
+3;X29;Kontakt mit giftigen Tieren und Pflanzen;0;0
+3;X49;Akzidentelle Vergiftung durch und Exposition gegenüber schädliche(n) Substanzen;0;0
+3;X59;Akzidentelle Exposition gegenüber sonstigen und nicht näher bezeichneten Faktoren;0;0
+3;X84;Absichtliche Selbstbeschädigung;0;0
+3;Y09;Tätlicher Angriff;0;0
+3;Y34;Nicht näher bezeichnetes Ereignis, Umstände unbestimmt;0;0
+3;Y35;Verletzungen bei gesetzlichen Maßnahmen;0;0
+3;Y36;Verletzungen durch Kriegshandlungen;0;0
+3;Y57;Unerwünschte Nebenwirkungen bei therapeutischer Anwendung von Arzneimitteln und Drogen;0;0
+3;Y59;Unerwünschte Nebenwirkungen bei therapeutischer Anwendung von Impfstoffen oder biologisch aktiven Substanzen;0;0
+3;Y69;Zwischenfälle bei chirurgischem Eingriff und medizinischer Behandlung;0;0
+3;Y82;Medizintechnische Geräte und Produkte im Zusammenhang mit Zwischenfällen bei diagnostischer und therapeutischer Anwendung;0;0
+3;Y84;Chirurgische und sonstige medizinische Maßnahmen als Ursache einer abnormen Reaktion eines Patienten oder einer späteren Komplikation, ohne Angabe eines Zwischenfalls zum Zeitpunkt der Durchführung der Maßnahme;0;0
+3;Z00;Allgemeinuntersuchung und Abklärung bei Personen ohne Beschwerden oder angegebene Diagnose;11;327
+3;Z01;Sonstige spezielle Untersuchungen und Abklärungen bei Personen ohne Beschwerden oder angegebene Diagnose;42;2851
+3;Z02;Untersuchung und Konsultation aus administrativen Gründen;-999;-999
+3;Z03;Ärztliche Beobachtung und Beurteilung von Verdachtsfällen;62;1187
+3;Z04;Untersuchung und Beobachtung aus sonstigen Gründen;15;256
+3;Z08;Nachuntersuchung nach Behandlung wegen bösartiger Neubildung;37;2066
+3;Z09;Nachuntersuchung nach Behandlung wegen anderer Krankheitszustände außer bösartigen Neubildungen;30;1459
+3;Z10;Allgemeine Reihenuntersuchung bestimmter Bevölkerungsgruppen;2;11
+3;Z11;Spezielle Verfahren zur Untersuchung auf infektiöse und parasitäre Krankheiten;-999;-999
+3;Z12;Spezielle Verfahren zur Untersuchung auf Neubildungen;6;13
+3;Z13;Spezielle Verfahren zur Untersuchung auf sonstige Krankheiten oder Störungen;23;503
+3;Z20;Kontakt mit und Exposition gegenüber übertragbaren Krankheiten;4;304
+3;Z21;Asymptomatische HIV-Infektion [Humane Immundefizienz-Virusinfektion];5;9
+3;Z22;Keimträger von Infektionskrankheiten;2;7
+3;Z23;Notwendigkeit der Impfung [Immunisierung] gegen einzelne bakterielle Krankheiten;-999;-999
+3;Z24;Notwendigkeit der Impfung [Immunisierung] gegen bestimmte einzelne Viruskrankheiten;2;2
+3;Z25;Notwendigkeit der Impfung [Immunisierung] gegen andere einzelne Viruskrankheiten;3;37
+3;Z26;Notwendigkeit der Impfung [Immunisierung] gegen andere einzelne Infektionskrankheiten;7;11
+3;Z27;Notwendigkeit der Impfung [Immunisierung] gegen Kombinationen von Infektionskrankheiten;15;37
+3;Z28;Nicht durchgeführte Impfung [Immunisierung];0;0
+3;Z29;Notwendigkeit von anderen prophylaktischen Maßnahmen;10;34
+3;Z30;Kontrazeptive Maßnahmen;4;5
+3;Z31;Fertilisationsfördernde Maßnahmen;-999;-999
+3;Z32;Untersuchung und Test zur Feststellung einer Schwangerschaft;0;0
+3;Z33;Schwangerschaftsfeststellung als Nebenbefund;0;0
+3;Z34;Überwachung einer normalen Schwangerschaft;-999;-999
+3;Z35;Überwachung einer Risikoschwangerschaft;2;2
+3;Z36;Pränatales Screening;0;0
+3;Z37;Resultat der Entbindung;0;0
+3;Z38;Lebendgeborene nach dem Geburtsort;-999;-999
+3;Z39;Postpartale Betreuung und Untersuchung der Mutter;-999;-999
+3;Z40;Prophylaktische Operation;0;0
+3;Z41;Maßnahmen aus anderen Gründen als der Wiederherstellung des Gesundheitszustandes;0;0
+3;Z42;Nachbehandlung unter Anwendung plastischer Chirurgie;-999;-999
+3;Z43;Versorgung künstlicher Körperöffnungen;16;64
+3;Z44;Versorgen mit und Anpassen einer Ektoprothese;0;0
+3;Z45;Anpassung und Handhabung eines implantierten medizinischen Gerätes;17;2321
+3;Z46;Versorgen mit und Anpassen von anderen medizinischen Geräten oder Hilfsmitteln;3;3
+3;Z47;Andere orthopädische Nachbehandlung;-999;-999
+3;Z48;Andere Nachbehandlung nach chirurgischem Eingriff;5;127
+3;Z49;Dialysebehandlung;129;25949
+3;Z50;Rehabilitationsmaßnahmen;0;0
+3;Z51;Sonstige medizinische Behandlung;28;364
+3;Z52;Spender von Organen oder Geweben;12;77
+3;Z53;Personen, die Einrichtungen des Gesundheitswesens wegen spezifischer Maßnahmen aufgesucht haben, die aber nicht durchgeführt wurden;5;5
+3;Z54;Rekonvaleszenz;0;0
+3;Z55;Kontaktanlässe mit Bezug auf die Ausbildung;-999;-999
+3;Z56;Kontaktanlässe mit Bezug auf das Berufsleben;0;0
+3;Z57;Berufliche Exposition gegenüber Risikofaktoren;0;0
+3;Z58;Kontaktanlässe mit Bezug auf die physikalische Umwelt;0;0
+3;Z59;Kontaktanlässe mit Bezug auf das Wohnumfeld oder die wirtschaftliche Lage;0;0
+3;Z60;Kontaktanlässe mit Bezug auf die soziale Umgebung;0;0
+3;Z61;Kontaktanlässe mit Bezug auf Kindheitserlebnisse;-999;-999
+3;Z62;Andere Kontaktanlässe mit Bezug auf die Erziehung;-999;-999
+3;Z63;Andere Kontaktanlässe mit Bezug auf den engeren Familienkreis;3;7
+3;Z64;Kontaktanlässe mit Bezug auf bestimmte psychosoziale Umstände;0;0
+3;Z65;Kontaktanlässe mit Bezug auf andere psychosoziale Umstände;0;0
+3;Z70;Beratung in Bezug auf Sexualeinstellung, -verhalten oder -orientierung;0;0
+3;Z71;Personen, die das Gesundheitswesen zum Zwecke anderer Beratung oder ärztlicher Konsultation in Anspruch nehmen, anderenorts nicht klassifiziert;7;20
+3;Z72;Probleme mit Bezug auf die Lebensführung;0;0
+3;Z73;Probleme mit Bezug auf Schwierigkeiten bei der Lebensbewältigung;2;16
+3;Z74;Probleme mit Bezug auf Pflegebedürftigkeit;5;51
+3;Z75;Probleme mit Bezug auf medizinische Betreuungsmöglichkeiten oder andere Gesundheitsversorgung;0;0
+3;Z76;Personen, die das Gesundheitswesen aus sonstigen Gründen in Anspruch nehmen;3;5
+3;Z80;Bösartige Neubildung in der Familienanamnese;5;35
+3;Z81;Psychische Krankheiten oder Verhaltensstörungen in der Familienanamnese;0;0
+3;Z82;Bestimmte Behinderungen oder chronische Krankheiten in der Familienanamnese, die zu Schädigung oder Behinderung führen;-999;-999
+3;Z83;Andere spezifische Krankheiten in der Familienanamnese;-999;-999
+3;Z84;Andere Krankheiten oder Zustände in der Familienanamnese;3;11
+3;Z85;Bösartige Neubildung in der Eigenanamnese;21;131
+3;Z86;Bestimmte andere Krankheiten in der Eigenanamnese;6;6
+3;Z87;Andere Krankheiten oder Zustände in der Eigenanamnese;6;9
+3;Z88;Allergie gegenüber Arzneimitteln, Drogen oder biologisch aktiven Substanzen in der Eigenanamnese;14;198
+3;Z89;Extremitätenverlust;3;5
+3;Z90;Verlust von Organen, anderenorts nicht klassifiziert;9;11
+3;Z91;Risikofaktoren in der Eigenanamnese, anderenorts nicht klassifiziert;4;12
+3;Z92;Medizinische Behandlung in der Eigenanamnese;4;7
+3;Z93;Vorhandensein einer künstlichen Körperöffnung;8;14
+3;Z94;Zustand nach Organ- oder Gewebetransplantation;15;480
+3;Z95;Vorhandensein von kardialen oder vaskulären Implantaten oder Transplantaten;9;16
+3;Z96;Vorhandensein von anderen funktionellen Implantaten;14;39
+3;Z97;Vorhandensein anderer medizinischer Geräte oder Hilfsmittel;0;0
+3;Z98;Sonstige Zustände nach chirurgischem Eingriff;12;16
+3;Z99;Langzeitige Abhängigkeit von unterstützenden Apparaten, medizinischen Geräten oder Hilfsmitteln, anderenorts nicht klassifiziert;7;19
+4;1;DIAGNOSTISCHE MASSNAHMEN;338;136357
+4;3;BILDGEBENDE DIAGNOSTIK;332;167769
+4;5;OPERATIONEN;175;46602
+4;6;MEDIKAMENTE;153;32731
+4;8;NICHTOPERATIVE THERAPEUTISCHE MASSNAHMEN;425;319807
+4;9;ERGÄNZENDE MASSNAHMEN;238;29410
+5;1-10 ... 1-10;Klinische Untersuchung;27;2040
+5;1-20 ... 1-33;Untersuchung einzelner Körpersysteme;231;41504
+5;1-40 ... 1-49;Biopsie ohne Inzision;221;13795
+5;1-50 ... 1-58;Biopsie durch Inzision;45;314
+5;1-61 ... 1-69;Diagnostische Endoskopie;244;15923
+5;1-70 ... 1-79;Funktionstests;217;48134
+5;1-84 ... 1-85;Explorative diagnostische Maßnahmen;79;2131
+5;1-90 ... 1-99;Andere diagnostische Maßnahmen;110;12516
+5;3-03 ... 3-05;Ultraschalluntersuchungen;140;5540
+5;3-10 ... 3-13;Projektionsradiographie;110;3015
+5;3-20 ... 3-26;Computertomographie (CT);303;73953
+5;3-30 ... 3-31;Optische Verfahren;8;53
+5;3-60 ... 3-69;Darstellung des Gefäßsystems;79;513
+5;3-70 ... 3-76;Nuklearmedizinische diagnostische Verfahren;120;10430
+5;3-80 ... 3-84;Magnetresonanztomographie (MRT);225;39060
+5;3-90 ... 3-90;Andere bildgebende Verfahren;73;2169
+5;3-99 ... 3-99;Zusatzinformationen zu bildgebenden Verfahren;157;33036
+5;5-01 ... 5-05;Operationen am Nervensystem;13;737
+5;5-06 ... 5-07;Operationen an endokrinen Drüsen;0;0
+5;5-08 ... 5-16;Operationen an den Augen;25;11040
+5;5-18 ... 5-20;Operationen an den Ohren;29;1219
+5;5-21 ... 5-22;Operationen an Nase und Nasennebenhöhlen;26;700
+5;5-23 ... 5-28;Operationen an Mundhöhle und Gesicht;31;1741
+5;5-29 ... 5-31;Operationen an Pharynx, Larynx und Trachea;9;288
+5;5-32 ... 5-34;Operationen an Lunge und Bronchus;8;14
+5;5-35 ... 5-37;Operationen am Herzen;7;49
+5;5-38 ... 5-39;Operationen an den Blutgefäßen;60;695
+5;5-40 ... 5-41;Operationen am hämatopoetischen und Lymphgefäßsystem;23;147
+5;5-42 ... 5-54;Operationen am Verdauungstrakt;90;1215
+5;5-55 ... 5-59;Operationen an den Harnorganen;24;194
+5;5-60 ... 5-64;Operationen an den männlichen Geschlechtsorganen;26;131
+5;5-65 ... 5-71;Operationen an den weiblichen Geschlechtsorganen;19;392
+5;5-72 ... 5-75;Geburtshilfliche Operationen;-999;-999
+5;5-76 ... 5-77;Operationen an Kiefer- und Gesichtsschädelknochen;7;126
+5;5-78 ... 5-86;Operationen an den Bewegungsorganen;33;427
+5;5-87 ... 5-88;Operationen an der Mamma;12;217
+5;5-89 ... 5-92;Operationen an Haut und Unterhaut;89;14537
+5;5-93 ... 5-99;Zusatzinformationen zu Operationen;52;12716
+5;6-00 ... 6-00;Applikation von Medikamenten;153;32731
+5;8-01 ... 8-02;Applikation von Medikamenten und Nahrung und therapeutische Injektion;90;3863
+5;8-03 ... 8-03;Immuntherapie;16;317
+5;8-10 ... 8-11;Entfernung von Fremdmaterial und Konkrementen;33;404
+5;8-12 ... 8-13;Manipulationen an Verdauungstrakt und Harntrakt;105;2428
+5;8-14 ... 8-17;Therapeutische Katheterisierung, Aspiration, Punktion und Spülung;131;4173
+5;8-19 ... 8-19;Verbände;72;3956
+5;8-20 ... 8-22;Geschlossene Reposition und Korrektur von Deformitäten;11;26
+5;8-31 ... 8-39;Immobilisation und spezielle Lagerung;17;279
+5;8-40 ... 8-41;Knochenextension und andere Extensionsverfahren;2;4
+5;8-50 ... 8-51;Tamponade von Blutungen und Manipulation an Fetus oder Uterus;9;307
+5;8-52 ... 8-54;Strahlentherapie, nuklearmedizinische Therapie und Chemotherapie;150;115805
+5;8-55 ... 8-60;Frührehabilitative und physikalische Therapie;81;13872
+5;8-63 ... 8-66;Elektrostimulation, Elektrotherapie und Dauer der Behandlung durch fokussierten Ultraschall;42;2381
+5;8-70 ... 8-72;Maßnahmen für das Atmungssystem;48;17314
+5;8-77 ... 8-77;Maßnahmen im Rahmen der Reanimation;3;3
+5;8-80 ... 8-85;Maßnahmen für den Blutkreislauf;262;60381
+5;8-86 ... 8-86;Therapie mit besonderen Zellen und Blutbestandteilen;2;9
+5;8-90 ... 8-91;Anästhesie und Schmerztherapie;157;32202
+5;8-92 ... 8-93;Patientenmonitoring;70;5650
+5;8-97 ... 8-98;Komplexbehandlung;198;56432
+5;8-99 ... 8-99;Zusatzinformationen zu nicht operativen therapeutischen Maßnahmen;-999;-999
+5;9-20 ... 9-20;Pflege und Versorgung von Patienten;0;0
+5;9-26 ... 9-28;Geburtsbegleitende Maßnahmen und Behandlung wegen Infertilität;3;4
+5;9-31 ... 9-32;Phoniatrische und pädaudiologische Therapie;51;7844
+5;9-40 ... 9-41;Psychosoziale, psychosomatische, neuropsychologische und psychotherapeutische Therapie;115;9047
+5;9-50 ... 9-51;Präventive und ergänzende kommunikative Maßnahmen;68;4653
+5;9-60 ... 9-64;Behandlung bei psychischen und psychosomatischen Störungen und Verhaltensstörungen bei Erwachsenen;4;1276
+5;9-65 ... 9-69;Behandlung bei psychischen und psychosomatischen Störungen und Verhaltensstörungen bei Kindern und Jugendlichen;-999;-999
+5;9-98 ... 9-99;Andere ergänzende Maßnahmen und Informationen;160;6584

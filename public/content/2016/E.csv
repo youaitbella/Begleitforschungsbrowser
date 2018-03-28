@@ -1,0 +1,121 @@
+﻿Type;DRG;name;Relativgewicht;AnzahlHA;AntAnGesFallzahl
+1;P60C;Neugeborenes, verlegt < 5 Tage nach Aufnahme ohne signifikante OR-Prozedur, nicht zuverlegt, ohne Beatmung > 24 Stunden (Mindestverweildauer 24 Stunden für das Krankenhaus, in dem die Geburt stattfindet);0.18;13487;0.0007
+1;P67D;Neugeborener Einling, Aufnahmegewicht > 2499 g ohne OR-Prozedur, ohne Beatmung > 95 Stunden, ohne schweres Problem, ohne anderes Problem oder ein Belegungstag;0.249;602293;0.0327
+1;C64Z;Glaukom, Katarakt und Erkrankungen des Augenlides;0.263;36425;0.002
+1;E78Z;Kontrolle oder Optimierung einer bestehenden häuslichen Beatmung, bis 2 Belegungstage;0.283;27264;0.0015
+1;E63B;Schlafapnoesyndrom oder kardiorespiratorische Polysomnographie oder Polygraphie bis 2 Belegungstage, Alter > 15 Jahre;0.296;110354;0.006
+1;N62B;Menstruationsstörungen und andere Erkrankungen der weiblichen Geschlechtsorgane ohne komplexe Diagnose;0.316;16026;0.0009
+1;O63Z;Abort ohne Dilatation und Kürettage, Aspirationskürettage oder Hysterotomie;0.34;6874;0.0004
+1;B80Z;Andere Kopfverletzungen;0.342;230501;0.0125
+1;E63A;Schlafapnoesyndrom oder kardiorespiratorische Polysomnographie oder Polygraphie bis 2 Belegungstage, Alter < 16 Jahre;0.343;4341;0.0002
+1;P66D;Neugeborenes, Aufnahmegewicht 2000 - 2499 g ohne signifikante OR-Prozedur, ohne Beatmung > 95 Stunden, ohne Problem oder neugeborener Mehrling, Aufnahmegewicht > 2499 g ohne OR-Prozedur, ohne Beatmung > 95 Stunden, ohne Problem oder ein Belegungstag;0.345;23638;0.0013
+1;L64C;Harnsteine und Harnwegsobstruktion ohne äußerst schwere oder schwere CC oder Urethrastriktur, andere leichte bis moderate Erkrankung der Harnorgane, bestimmte Beschwerden und Symptome der Harnorgane, ein Belegungstag, Alter > 13 Jahre;0.348;75028;0.0041
+1;D64Z;Laryngotracheitis, Laryngospasmus und Epiglottitis;0.367;8777;0.0005
+1;G72B;Andere leichte bis moderate Erkrankungen der Verdauungsorgane, Alter > 2 Jahre oder Abdominalschmerz oder mesenteriale Lymphadenitis, Alter > 2 Jahre und Alter < 56 Jahre oder ohne CC;0.378;135204;0.0073
+1;G72A;Andere leichte bis moderate Erkrankungen der Verdauungsorgane oder Abdominalschmerz oder mesenteriale Lymphadenitis, Alter < 3 Jahre;0.379;1350;0.0001
+1;X64Z;Andere Krankheit verursacht durch Verletzung, Vergiftung oder toxische Wirkung;0.379;20149;0.0011
+1;O61Z;Stationäre Aufnahme nach Entbindung oder Abort ohne OR-Prozedur, ohne bestimmten Eingriff an der Mamma;0.381;17817;0.001
+1;C62Z;Hyphäma und konservativ behandelte Augenverletzungen;0.383;5671;0.0003
+1;O05C;Intrauterine Therapie des Feten;0.384;314;0.00
+1;Z64D;Andere Faktoren, die den Gesundheitszustand beeinflussen und Nachbehandlung nach abgeschlossener Behandlung ohne Radiojoddiagnostik, ohne bestimmten Kontaktanlass;0.399;46127;0.0025
+1;J65Z;Verletzung der Haut, Unterhaut und Mamma;0.401;162127;0.0088
+2;P60C;Neugeborenes, verlegt < 5 Tage nach Aufnahme ohne signifikante OR-Prozedur, nicht zuverlegt, ohne Beatmung > 24 Stunden (Mindestverweildauer 24 Stunden für das Krankenhaus, in dem die Geburt stattfindet);0.103;1060;0.002
+2;C64Z;Glaukom, Katarakt und Erkrankungen des Augenlides;0.197;1570;0.0029
+2;P67D;Neugeborener Einling, Aufnahmegewicht > 2499 g ohne OR-Prozedur, ohne Beatmung > 95 Stunden, ohne schweres Problem, ohne anderes Problem oder ein Belegungstag;0.225;37515;0.0701
+2;D62Z;Blutung aus Nase und Rachen oder Otitis media oder Infektionen der oberen Atemwege, Alter > 2 Jahre;0.239;2407;0.0045
+2;E63B;Schlafapnoesyndrom oder kardiorespiratorische Polysomnographie oder Polygraphie bis 2 Belegungstage, Alter > 15 Jahre;0.239;2328;0.0044
+2;E78Z;Kontrolle oder Optimierung einer bestehenden häuslichen Beatmung, bis 2 Belegungstage;0.243;78;0.0001
+2;L64C;Harnsteine und Harnwegsobstruktion ohne äußerst schwere oder schwere CC oder Urethrastriktur, andere leichte bis moderate Erkrankung der Harnorgane, bestimmte Beschwerden und Symptome der Harnorgane, ein Belegungstag, Alter > 13 Jahre;0.245;4167;0.0078
+2;G67C;Ösophagitis, Gastroenteritis, gastrointestinale Blutung, Ulkuserkrankung und verschiedene Erkrankungen der Verdauungsorgane ohne bestimmte oder andere komplizierende Faktoren, ohne äußerst schwere CC;0.271;4183;0.0078
+2;N62B;Menstruationsstörungen und andere Erkrankungen der weiblichen Geschlechtsorgane ohne komplexe Diagnose;0.275;286;0.0005
+2;O65B;Andere vorgeburtliche stationäre Aufnahme ohne äußerst schwere oder schwere CC, ohne komplexe Diagnose, ohne komplizierenden Eingriff, mehr als ein Belegungstag;0.277;5312;0.0099
+2;O63Z;Abort ohne Dilatation und Kürettage, Aspirationskürettage oder Hysterotomie;0.281;171;0.0003
+2;B80Z;Andere Kopfverletzungen;0.294;396;0.0007
+2;C07B;Andere Eingriffe bei Glaukom ohne extrakapsuläre Extraktion der Linse (ECCE);0.298;1078;0.002
+2;P66D;Neugeborenes, Aufnahmegewicht 2000 - 2499 g ohne signifikante OR-Prozedur, ohne Beatmung > 95 Stunden, ohne Problem oder neugeborener Mehrling, Aufnahmegewicht > 2499 g ohne OR-Prozedur, ohne Beatmung > 95 Stunden, ohne Problem oder ein Belegungstag;0.302;700;0.0013
+2;O61Z;Stationäre Aufnahme nach Entbindung oder Abort ohne OR-Prozedur, ohne bestimmten Eingriff an der Mamma;0.31;399;0.0007
+2;Z64D;Andere Faktoren, die den Gesundheitszustand beeinflussen und Nachbehandlung nach abgeschlossener Behandlung ohne Radiojoddiagnostik, ohne bestimmten Kontaktanlass;0.314;773;0.0014
+2;G72B;Andere leichte bis moderate Erkrankungen der Verdauungsorgane, Alter > 2 Jahre oder Abdominalschmerz oder mesenteriale Lymphadenitis, Alter > 2 Jahre und Alter < 56 Jahre oder ohne CC;0.315;1837;0.0034
+2;X64Z;Andere Krankheit verursacht durch Verletzung, Vergiftung oder toxische Wirkung;0.321;156;0.0003
+2;P67C;Neugeborenes, Aufnahmegewicht > 2499 g ohne signifikante OR-Prozedur, ohne Beatmung > 95 Stunden, mit anderem Problem, mehr als ein Belegungstag oder mit nicht signifikanter OR-Prozedur, ohne komplizierende Diagnose;0.325;1340;0.0025
+2;D66Z;Andere Krankheiten an Ohr, Nase, Mund und Hals;0.326;713;0.0013
+3;A18Z;Beatmung > 999 Stunden und Transplantation von Leber, Lunge, Herz und Knochenmark oder Stammzelltransfusion;68.208;152;0.00
+3;A06A;Beatmung > 1799 Stunden mit intensivmedizinischer Komplexbehandlung > 2940 / 3680 / 5520 Aufwandspunkte oder mit hochkomplexem Eingriff;60.835;594;0.00
+3;P61A;Neugeborenes, Aufnahmegewicht < 600 g mit signifikanter OR-Prozedur;53.827;225;0.00
+3;A05A;Herztransplantation mit Beatmung > 179 Stunden oder intensivmedizinischer Komplexbehandlung > 2646 / 2484 / - Aufwandspunkte;52.806;96;0.00
+3;A06B;Beatmung > 1799 Stunden mit komplexer OR-Prozedur oder Polytrauma, ohne hochkomplexen Eingriff, ohne intensivmedizinische Komplexbehandlung > 2940 / 3680 / 5520 Aufwandspunkte;50.482;151;0.00
+3;A07A;Beatmung > 999 Stunden oder > 499 Stunden mit intensivmedizinischer Komplexbehandlung > 4900 / 4600 / 4600 Aufwandspunkte, mit komplexer OR-Prozedur oder Polytrauma und int. Komplexbeh. > 3920 / 3680 / 3680 P. oder mit hochkompl. oder dreizeitigem Eingr.;45.793;848;0.00
+3;P61C;Neugeborenes, Aufnahmegewicht 600 - 749 g mit signifikanter OR-Prozedur;44.421;221;0.00
+3;A06C;Beatmung > 1799 Stunden, ohne komplexe OR-Prozedur, ohne Polytrauma, ohne intensivmedizinische Komplexbehandlung > 2940 / 5520 / - Aufwandspunkte;43.318;920;0.00
+3;A07B;Beatmung > 999 Stunden oder > 499 Stunden mit intensivmedizinischer Komplexbehandlung > 4900 / 4600 / 4600 Aufwandspunkte, mit kompl. OR-Proz. und kompliz. Konst. od. mit Polytrauma oder Alter < 16 J. oder intensivmed. Komplexbeh. > - / 3220 / - Punkte;36.035;1571;0.0001
+3;A09A;Beatmung > 499 Stunden oder > 249 Stunden mit int. Komplexbeh. > 2352/1932/2208 P., mit hochkomplexem Eingriff oder kompl. OR-Proz. und Alter < 16 Jahre, mit int. Komplexbeh. > 1764/1932/- P. oder mit sehr kompl. Eingr. und int. Komplexbeh. > -/2208/- P.;33.711;1414;0.0001
+3;P02A;Kardiothorakale oder Gefäßeingriffe bei Neugeborenen, Beatmung > 480 Stunden;33.52;146;0.00
+3;P61B;Neugeborenes, Aufnahmegewicht < 600 g ohne signifikante OR-Prozedur;32.892;369;0.00
+3;A04B;Knochenmarktransplantation / Stammzelltransfusion, allogen, außer bei Plasmozytom oder mit Graft-versus-host-Krankheit Grad III und IV, mit Gabe bestimmter Stammzellen oder Alter < 16 Jahre, mit bestimmter Entnahme oder Stammzellboost;31.415;59;0.00
+3;A03A;Lungentransplantation mit Beatmung > 179 Stunden;30.449;55;0.00
+3;A07C;Beatmung > 999 Stunden oder > 499 Stunden mit intensivmedizinischer Komplexbehandlung > 4900 / 4600 / 4600 Punkte, mit komplexer OR-Prozedur, ohne Polytrauma, Alter > 15 Jahre oder mit intensivmedizinischer Komplexbehandlung > 2352 / 1932 / 2484 Punkte;29.861;2602;0.0001
+3;P62A;Neugeborenes, Aufnahmegewicht 750 - 999 g mit signifikanter OR-Prozedur;29.454;247;0.00
+3;P61D;Neugeborenes, Aufnahmegewicht 600 - 749 g ohne signifikante OR-Prozedur;29.22;680;0.00
+3;A01A;Lebertransplantation mit Beatmung > 179 Stunden oder kombinierter Dünndarmtransplantation;28.525;80;0.00
+3;A04C;Knochenmarktransplantation / Stammzelltransfusion, allogen, < 16 J., od. GVHD Grad III/IV od. auß. b. Plasmozytom, mit Gabe best. Stammz. od. GVHD III/IV od. HLA-versch., mit best. Entn. od. SZ-Boost, od. m. intensivm. Komplexbeh. > 1764 / 1932 / 2760 P.;28.096;374;0.00
+3;A07D;Beatmung > 999 Stunden ohne komplexe OR-Prozedur, ohne Polytrauma, Alter > 15 Jahre, mit intensivmedizinischer Komplexbehandlung > 1176 / 1104 / 2208 und < 2353 / 1933 / 2209 Aufwandspunkte, mit komplexer Diagnose oder komplizierender Konstellation;27.113;574;0.00
+4;A09C;Beatmung > 499 Stunden oder > 249 Stunden mit int. Komplexbeh. > 2352 / 1932 / 2208 P., mit komplexer OR-Prozedur oder Polytrauma oder int. Komplexbeh. > 1754 / 1656 / 2208 P. oder mit komplizierender Konstellation oder Alter < 16 Jahre;18.015;1;0.00
+4;A09D;Beatmung > 499 Stunden, ohne komplexe OR-Prozedur, ohne Polytrauma, Alter > 15 Jahre, ohne komplizierende Konstellation, mit intensivmedizinischer Komplexbehandlung > 1470 / 1380 / 1656 und < 1765 / 1657 / 2209 Aufwandspunkte;17.333;3;0.00
+4;A09E;Beatmung > 499 Stunden, ohne komplexe OR-Prozedur, ohne Polytrauma, Alter > 15 Jahre, ohne komplizierende Konstellation, mit intensivmedizinischer Komplexbehandlung > 1176 / 1104 / 1380 u. < 1471 / 1381 / 1657 Punkte, mit komplexer Diagnose oder Prozedur;15.127;2;0.00
+4;A09F;Beatmung > 499 Stunden, ohne komplexe OR-Prozedur, ohne Polytrauma, Alter > 15 Jahre, ohne komplizierende Konstellation, ohne intensivmedizinische Komplexbehandlung > 1176 / 1104 / 1380 Aufwandspunkte, ohne komplexe Diagnose oder Prozedur;13.258;6;0.00
+4;A11E;Beatmung > 249 Stunden, mit komplexer OR-Prozedur, ohne hochkomplexen Eingriff, ohne int. Komplexbeh. > 1764 / 1656 / 1656 P., ohne kompliz. Konstellation, Alter > 15 Jahre oder mit intensivmedizinischer Komplexbehandlung > 588 / 828 / - Aufwandspunkte;11.304;4;0.00
+4;A11F;Beatmung > 249 Stunden oder > 95 Stunden mit intensivmedizinischer Komplexbehandlung > 1764 / 1656 / 1656 Aufwandspunkte, mit bestimmter OR-Prozedur oder kompliz. Konstellation oder intensivmed. Komplexbehandlung > - / - / 1104 P. oder Alter < 6 Jahre;9.991;4;0.00
+4;D01B;Kochleaimplantation, unilateral;8.778;14;0.00
+4;A11H;Beatmung > 249 Stunden, ohne komplexe oder bestimmte OR-Prozedur, ohne IntK > 588 / 828 / 1104 Punkte, ohne komplizierende Konstellation, Alter > 15 Jahre, ohne komplexe Diagnose oder Prozedur, ohne schwerste CC, mit äußerst schweren CC;8.48;2;0.00
+4;A13D;Beatmung > 95 Stunden mit komplexer OR-Prozedur, ohne hochkompl. od. sehr kompl. Eingriff, ohne intensivmed. Komplexbeh. > 1176 / 1104 / 1104 Punkte, ohne kompliz. Konst., ohne Eingr. bei angeb. Fehlbild. od. mit intensivmed. Komplexbeh. > - / 828 / - P.;7.903;13;0.00
+4;A15C;Knochenmarktransplantation / Stammzelltransfusion, autogen, außer bei Plasmozytom, Alter > 15 Jahre, ohne bestimmte Entnahme, ohne Stammzellboost oder bei Plasmozytom, mit bestimmter Entnahme oder Stammzellboost oder IntK > 392 / 368 / 368 Punkte;7.287;5;0.00
+4;A13E;Beatmung > 95 Stunden, ohne komplexe OR-Prozedur, mit bestimmter OR-Prozedur oder komplizierender Konstellation oder mit intensivmedizinischer Komplexbehandlung > 588 / 552 / 552 Aufwandspunkte und < 1177 / 829 / 1105 Aufwandspunkte od. Alter < 16 Jahre;6.785;8;0.00
+4;A11I;Beatmung > 249 Stunden, ohne komplexe oder bestimmte OR-Prozedur, ohne IntK > 588 / 828 / 1104 Punkte, ohne komplizierende Konstellation, Alter > 15 Jahre, ohne komplexe Diagnose oder Prozedur, ohne schwerste CC, ohne äußerst schwere CC;6.65;5;0.00
+4;D02A;Komplexe Resektionen mit Rekonstruktionen an Kopf und Hals mit komplexem Eingriff oder mit Kombinationseingriff mit äußerst schweren CC;6.023;10;0.00
+4;I06C;Komplexe Eingriffe an der Wirbelsäule mit bestimmtem Eingriff an Wirbelsäule ohne schwere entzündliche Erkrankung oder ohne bestimmten Eingriff an Wirbelsäule;5.743;10;0.00
+4;I98Z;Komplexe Vakuumbehandlung bei Krankheiten und Störungen an Muskel-Skelett-System und Bindegewebe;5.294;12;0.00
+4;F01D;Implantation Kardioverter / Defibrillator (AICD), Ein-Kammer-Stimulation, mit zusätzlichem Herz- oder Gefäßeingriff oder intensmed. Kompl. > 392 / 368 / - Aufwandspunkte;5.288;7;0.00
+4;R05Z;Strahlentherapie bei hämatologischen und soliden Neubildungen, mehr als 9 Bestrahlungen oder bei akuter myeloischer Leukämie, Alter < 19 Jahre oder mit äußerst schweren CC;5.229;17;0.00
+4;A13F;Beatmung > 95 Stunden, ohne bestimmte OR-Prozedur, ohne komplizierende Konstellation, ohne intensivmed. Komplexbeh. > 588 / 552 / 552 Aufwandspunkte, Alter > 15 Jahre, mit komplexer Diagnose oder Prozedur od. intensivmed. Komplexbeh. > - / 368 / - Punkte;5.228;4;0.00
+4;I09A;Bestimmte Eingriffe an der Wirbelsäule, mit sehr komplexer Osteosynthese und äußerst schweren CC oder mehrzeitiger komplexer Eingriff oder komplexer Eingriff mit Wirbelkörperersatz oder verschiedene komplexe Eingriffe an mehreren Segmenten;5.197;35;0.0001
+4;I01Z;Beidseitige Eingriffe oder mehrere große Eingriffe an Gelenken der unteren Extremität mit komplexer Diagnose;5.047;64;0.0001
+5;P67D;Neugeborener Einling, Aufnahmegewicht > 2499 g ohne OR-Prozedur, ohne Beatmung > 95 Stunden, ohne schweres Problem, ohne anderes Problem oder ein Belegungstag;0.249;602293;0.0327
+5;G67C;Ösophagitis, Gastroenteritis, gastrointestinale Blutung, Ulkuserkrankung und verschiedene Erkrankungen der Verdauungsorgane ohne bestimmte oder andere komplizierende Faktoren, ohne äußerst schwere CC;0.459;490674;0.0267
+5;O60D;Vaginale Entbindung ohne komplizierende Diagnose, Schwangerschaftsdauer mehr als 33 vollendete Wochen;0.545;361390;0.0196
+5;F62B;Herzinsuffizienz und Schock ohne äußerst schwere CC oder ohne Dialyse, ohne komplizierende Diagnose, ohne komplizierende Konstellation, mehr als ein Belegungstag;0.885;328437;0.0178
+5;I68D;Nicht operativ behandelte Erkrankungen und Verletzungen im Wirbelsäulenbereich, mehr als ein Belegungstag, oder andere Femurfraktur, außer bei Diszitis oder infektiöser Spondylopathie, ohne Kreuzbeinfraktur;0.595;322328;0.0175
+5;F71B;Nicht schwere kardiale Arrhythmie und Erregungsleitungsstörungen ohne äußerst schweren CC bei mehr als ein Belegungstag, ohne kathetergestützte elektrophysiologische Untersuchung des Herzens;0.503;276968;0.015
+5;G67B;Ösophagitis, Gastroenteritis, gastrointestinale Blutung, Ulkuserkrankung und verschiedene Erkrankungen der Verdauungsorgane mit anderen komplizierenden Faktoren oder mit äußerst schweren CC;0.573;254122;0.0138
+5;E77I;Infektionen und Entzündungen der Atmungsorgane ohne komplexe Diagnose, ohne äußerst schwere CC oder ein Belegungstag, Alter > 0 Jahre, außer bei Para- / Tetraplegie, ohne Komplexbehandlung bei multiresistenten Erregern;0.763;241376;0.0131
+5;B80Z;Andere Kopfverletzungen;0.342;230501;0.0125
+5;F67D;Hypertonie ohne komplizierende Diagnose, ohne äußerst schwere oder schwere CC, Alter > 15 Jahre;0.474;222581;0.0121
+5;F49G;Invasive kardiologische Diagnostik außer bei akutem Myokardinfarkt, ohne äußerst schwere CC, Alter > 14 Jahre, ohne kardiales Mapping, ohne schwere CC bei mehr als einem Belegungstag, ohne komplexe Diagnose, ohne bestimmten Eingriff;0.649;209202;0.0114
+5;F73Z;Synkope und Kollaps;0.52;183689;0.01
+5;I47B;Revision oder Ersatz des Hüftgelenkes ohne komplizierende Diagnose, ohne Arthrodese, ohne äußerst schwere CC, Alter > 15 Jahre, ohne komplizierenden Eingriff;2.217;176026;0.0096
+5;G24B;Eingriffe bei Hernien, ohne plastische Rekonstruktion der Bauchwand;0.816;175066;0.0095
+5;J65Z;Verletzung der Haut, Unterhaut und Mamma;0.401;162127;0.0088
+5;H08B;Laparoskopische Cholezystektomie ohne komplexe Diagnose, ohne komplizierende Konstellation;0.914;150817;0.0082
+5;K62B;Verschiedene Stoffwechselerkrankungen außer bei Para- / Tetraplegie, ohne komplizierende Diagnose, ohne endoskopische Einlage eines Magenballons, ohne äußerst schwere CC, ein Belegungstag;0.631;149839;0.0081
+5;E65C;Chronisch-obstruktive Atemwegserkrankung ohne äußerst schwere CC, ohne starre Bronchoskopie, ohne komplizierende Diagnose, ohne FEV1 < 35% oder ein Belegungstag, Alter > 0 Jahre;0.721;140360;0.0076
+5;E71C;Neubildungen der Atmungsorgane, ohne äußerst schwere CC oder ein Belegungstag, ohne Bronchoskopie, ohne bestimmte Lungenbiopsie;0.647;138507;0.0075
+5;J64B;Infektion / Entzündung der Haut und Unterhaut oder Hautulkus ohne äußerst schwere CC;0.598;135976;0.0074
+6;P67D;Neugeborener Einling, Aufnahmegewicht > 2499 g ohne OR-Prozedur, ohne Beatmung > 95 Stunden, ohne schweres Problem, ohne anderes Problem oder ein Belegungstag;0.225;37515;0.0701
+6;D30B;Tonsillektomie außer bei bösartiger Neubildung oder verschiedene Eingriffe an Ohr, Nase, Mund und Hals ohne äußerst schwere CC, ohne aufwendigen Eingriff, ohne komplexe Diagnose;0.474;28008;0.0523
+6;D06C;Eingriffe an Nasennebenhöhlen, Mastoid, komplexe Eingriffe am Mittelohr und andere Eingriffe an den Speicheldrüsen, Alter > 15 Jahre, ohne komplexe Prozedur, ohne komplexe Diagnose;0.527;27204;0.0508
+6;D38Z;Mäßig komplexe Eingriffe an der Nase oder an den Nasennebenhöhlen;0.467;25105;0.0469
+6;O60D;Vaginale Entbindung ohne komplizierende Diagnose, Schwangerschaftsdauer mehr als 33 vollendete Wochen;0.425;21598;0.0404
+6;C08B;Extrakapsuläre Extraktion der Linse (ECCE) ohne angeborene Fehlbildung der Linse;0.38;18321;0.0342
+6;L20C;Transurethrale Eingriffe außer Prostataresektion und kompl. Ureterorenoskopien ohne ESWL, ohne kompl. Eingr., ohne fluoreszenzgestützte TUR der Harnbl. od. and. Eingr. an der Urethra außer bei Para- / Tetraplegie, ohne äußerst schw. CC, Alter < 90 Jahre;0.503;10948;0.0205
+6;G24B;Eingriffe bei Hernien, ohne plastische Rekonstruktion der Bauchwand;0.65;8466;0.0158
+6;I44B;Implantation einer bikondylären Endoprothese oder andere Endoprothesenimplantation / -revision am Kniegelenk, ohne äußerst schweren CC oder ohne Korrektur einer Brustkorbdeformität;1.813;8455;0.0158
+6;I47B;Revision oder Ersatz des Hüftgelenkes ohne komplizierende Diagnose, ohne Arthrodese, ohne äußerst schwere CC, Alter > 15 Jahre, ohne komplizierenden Eingriff;1.821;7616;0.0142
+6;I68D;Nicht operativ behandelte Erkrankungen und Verletzungen im Wirbelsäulenbereich, mehr als ein Belegungstag, oder andere Femurfraktur, außer bei Diszitis oder infektiöser Spondylopathie, ohne Kreuzbeinfraktur;0.446;7600;0.0142
+6;O01H;Primäre Sectio caesarea ohne komplizierende Diagnose, Schwangerschaftsdauer mehr als 33 vollendete Wochen (SSW), ohne komplexe Diagnose;0.656;6671;0.0125
+6;G26B;Andere Eingriffe am Anus, Alter > 13 Jahre oder außer bei bestimmter bösartiger Neubildung;0.459;6549;0.0122
+6;L64A;Harnsteine und Harnwegsobstruktion mit äußerst schweren oder schweren CC oder Urethrastriktur, andere leichte bis moderate Erkrankung der Harnorgane, bestimmte Beschwerden und Symptome der Harnorgane, mehr als ein Belegungstag oder Urethrozystoskopie;0.40;6501;0.0122
+6;I30Z;Komplexe Eingriffe am Kniegelenk oder arthroskopische Eingriffe am Hüftgelenk;0.728;5633;0.0105
+6;I29B;Komplexe Eingriffe am Schultergelenk oder bestimmte Osteosynthesen an der Klavikula, ohne komplizierende Diagnose oder ohne Eingriff an mehreren Lokalisationen;0.735;5631;0.0105
+6;O65B;Andere vorgeburtliche stationäre Aufnahme ohne äußerst schwere oder schwere CC, ohne komplexe Diagnose, ohne komplizierenden Eingriff, mehr als ein Belegungstag;0.277;5312;0.0099
+6;M02B;Transurethrale Prostataresektion ohne äußerst schwere CC;0.694;5284;0.0099
+6;F49G;Invasive kardiologische Diagnostik außer bei akutem Myokardinfarkt, ohne äußerst schwere CC, Alter > 14 Jahre, ohne kardiales Mapping, ohne schwere CC bei mehr als einem Belegungstag, ohne komplexe Diagnose, ohne bestimmten Eingriff;0.498;5284;0.0099
+6;I18B;Wenig komplexe Eingriffe an Kniegelenk, Ellenbogengelenk und Unterarm, Alter > 15 Jahre, ohne mäßig komplexen Eingriff, ohne beidseitigen Eingriff am Kniegelenk;0.465;4886;0.0091

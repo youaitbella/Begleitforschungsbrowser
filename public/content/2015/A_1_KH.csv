@@ -1,0 +1,17 @@
+﻿Bundesland_A;AnzahlKH;AnzahlFall;BLCode
+01_Schleswig-Holstein;60;652191;01
+02_Hamburg;32;634036;02
+03_Niedersachsen;159;1867809;03
+04_Bremen;12;274337;04
+05_Nordrhein-Westfalen;307;5328671;05
+06_Hessen;115;1567179;06
+07_Rheinland-Pfalz;79;1034538;07
+08_Baden-Württemberg;168;2434622;08
+09_Bayern;267;3312855;09
+10_Saarland;21;303466;10
+11_Berlin;47;962500;11
+12_Brandenburg;53;637273;12
+13_Mecklenburg-Vorpommern;32;490075;13
+14_Sachsen;78;1179427;14
+15_Sachsen-Anhalt;44;683367;15
+16_Thüringen;43;718113;16

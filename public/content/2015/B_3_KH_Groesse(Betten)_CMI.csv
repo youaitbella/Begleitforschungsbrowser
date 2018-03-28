@@ -1,0 +1,79 @@
+﻿BettenStufe;BereichName;Anzahl KH;Anteil KH;StufeSort;BereichSortName
+0;CMI < 0,9;511;0,342;alle;CMI09
+0;CMI 0,9 bis unter 1,0;330;0,2209;alle;CMI0910
+0;CMI 1,0 bis unter 1,1;234;0,1566;alle;CMI1011
+0;CMI 1,1 bis unter 1,2;118;0,079;alle;CMI1112
+0;CMI 1,2 bis unter 1,3;60;0,0402;alle;CMI1213
+0;CMI >= 1,3;241;0,1613;alle;CMI13
+1;CMI < 0.9;112;0.6914;001 bis 049 Betten;CMI09
+1;CMI 0.9 bis unter 1.0;7;0.0432;001 bis 049 Betten;CMI0910
+1;CMI 1.0 bis unter 1.1;9;0.0556;001 bis 049 Betten;CMI1011
+1;CMI 1.1 bis unter 1.2;2;0.0123;001 bis 049 Betten;CMI1112
+1;CMI 1.2 bis unter 1.3;7;0.0432;001 bis 049 Betten;CMI1213
+1;CMI >= 1.3;25;0.1543;001 bis 049 Betten;CMI13
+2;CMI < 0.9;87;0.4372;050 bis 099 Betten;CMI09
+2;CMI 0.9 bis unter 1.0;27;0.1357;050 bis 099 Betten;CMI0910
+2;CMI 1.0 bis unter 1.1;16;0.0804;050 bis 099 Betten;CMI1011
+2;CMI 1.1 bis unter 1.2;13;0.0653;050 bis 099 Betten;CMI1112
+2;CMI 1.2 bis unter 1.3;4;0.0201;050 bis 099 Betten;CMI1213
+2;CMI >= 1.3;52;0.2613;050 bis 099 Betten;CMI13
+3;CMI < 0.9;79;0.3835;100 bis 149 Betten;CMI09
+3;CMI 0.9 bis unter 1.0;45;0.2184;100 bis 149 Betten;CMI0910
+3;CMI 1.0 bis unter 1.1;21;0.1019;100 bis 149 Betten;CMI1011
+3;CMI 1.1 bis unter 1.2;7;0.034;100 bis 149 Betten;CMI1112
+3;CMI 1.2 bis unter 1.3;7;0.034;100 bis 149 Betten;CMI1213
+3;CMI >= 1.3;47;0.2282;100 bis 149 Betten;CMI13
+4;CMI < 0.9;66;0.3952;150 bis 199 Betten;CMI09
+4;CMI 0.9 bis unter 1.0;47;0.2814;150 bis 199 Betten;CMI0910
+4;CMI 1.0 bis unter 1.1;18;0.1078;150 bis 199 Betten;CMI1011
+4;CMI 1.1 bis unter 1.2;11;0.0659;150 bis 199 Betten;CMI1112
+4;CMI 1.2 bis unter 1.3;5;0.0299;150 bis 199 Betten;CMI1213
+4;CMI >= 1.3;20;0.1198;150 bis 199 Betten;CMI13
+5;CMI < 0.9;48;0.3721;200 bis 249 Betten;CMI09
+5;CMI 0.9 bis unter 1.0;37;0.2868;200 bis 249 Betten;CMI0910
+5;CMI 1.0 bis unter 1.1;16;0.124;200 bis 249 Betten;CMI1011
+5;CMI 1.1 bis unter 1.2;4;0.031;200 bis 249 Betten;CMI1112
+5;CMI 1.2 bis unter 1.3;7;0.0543;200 bis 249 Betten;CMI1213
+5;CMI >= 1.3;17;0.1318;200 bis 249 Betten;CMI13
+6;CMI < 0.9;38;0.38;250 bis 299 Betten;CMI09
+6;CMI 0.9 bis unter 1.0;24;0.24;250 bis 299 Betten;CMI0910
+6;CMI 1.0 bis unter 1.1;21;0.21;250 bis 299 Betten;CMI1011
+6;CMI 1.1 bis unter 1.2;9;0.09;250 bis 299 Betten;CMI1112
+6;CMI 1.2 bis unter 1.3;3;0.03;250 bis 299 Betten;CMI1213
+6;CMI >= 1.3;5;0.05;250 bis 299 Betten;CMI13
+7;CMI < 0.9;48;0.2743;300 bis 399 Betten;CMI09
+7;CMI 0.9 bis unter 1.0;50;0.2857;300 bis 399 Betten;CMI0910
+7;CMI 1.0 bis unter 1.1;41;0.2343;300 bis 399 Betten;CMI1011
+7;CMI 1.1 bis unter 1.2;10;0.0571;300 bis 399 Betten;CMI1112
+7;CMI 1.2 bis unter 1.3;7;0.04;300 bis 399 Betten;CMI1213
+7;CMI >= 1.3;19;0.1086;300 bis 399 Betten;CMI13
+8;CMI < 0.9;24;0.1983;400 bis 499 Betten;CMI09
+8;CMI 0.9 bis unter 1.0;51;0.4215;400 bis 499 Betten;CMI0910
+8;CMI 1.0 bis unter 1.1;27;0.2231;400 bis 499 Betten;CMI1011
+8;CMI 1.1 bis unter 1.2;13;0.1074;400 bis 499 Betten;CMI1112
+8;CMI 1.2 bis unter 1.3;2;0.0165;400 bis 499 Betten;CMI1213
+8;CMI >= 1.3;4;0.0331;400 bis 499 Betten;CMI13
+9;CMI < 0.9;5;0.0617;500 bis 599 Betten;CMI09
+9;CMI 0.9 bis unter 1.0;23;0.284;500 bis 599 Betten;CMI0910
+9;CMI 1.0 bis unter 1.1;21;0.2593;500 bis 599 Betten;CMI1011
+9;CMI 1.1 bis unter 1.2;17;0.2099;500 bis 599 Betten;CMI1112
+9;CMI 1.2 bis unter 1.3;6;0.0741;500 bis 599 Betten;CMI1213
+9;CMI >= 1.3;9;0.1111;500 bis 599 Betten;CMI13
+10;CMI < 0.9;3;0.0423;600 bis 799 Betten;CMI09
+10;CMI 0.9 bis unter 1.0;15;0.2113;600 bis 799 Betten;CMI0910
+10;CMI 1.0 bis unter 1.1;35;0.493;600 bis 799 Betten;CMI1011
+10;CMI 1.1 bis unter 1.2;10;0.1408;600 bis 799 Betten;CMI1112
+10;CMI 1.2 bis unter 1.3;2;0.0282;600 bis 799 Betten;CMI1213
+10;CMI >= 1.3;6;0.0845;600 bis 799 Betten;CMI13
+11;CMI < 0.9;1;0.0313;800 bis 999 Betten;CMI09
+11;CMI 0.9 bis unter 1.0;3;0.0938;800 bis 999 Betten;CMI0910
+11;CMI 1.0 bis unter 1.1;6;0.1875;800 bis 999 Betten;CMI1011
+11;CMI 1.1 bis unter 1.2;11;0.3438;800 bis 999 Betten;CMI1112
+11;CMI 1.2 bis unter 1.3;1;0.0313;800 bis 999 Betten;CMI1213
+11;CMI >= 1.3;10;0.3125;800 bis 999 Betten;CMI13
+12;CMI < 0.9;0;0.00;ab 1000 Betten;CMI09
+12;CMI 0.9 bis unter 1.0;1;0.0196;ab 1000 Betten;CMI0910
+12;CMI 1.0 bis unter 1.1;3;0.0588;ab 1000 Betten;CMI1011
+12;CMI 1.1 bis unter 1.2;11;0.2157;ab 1000 Betten;CMI1112
+12;CMI 1.2 bis unter 1.3;9;0.1765;ab 1000 Betten;CMI1213
+12;CMI >= 1.3;27;0.5294;ab 1000 Betten;CMI13

@@ -1,0 +1,55 @@
+﻿Type;mdc;Name;SummeA;SummeAw;SummeAm;SummeAu;Anteilw;Anteilm;Anteilu
+1;00;Prä-MDC;146007;55561;90446;0;0.3805;0.6195;0.00
+1;01;MDC 01 Krankheiten und Störungen des Nervensystems;1617916;818688;799226;2;0.506;0.494;0.00
+1;02;MDC 02 Krankheiten und Störungen des Auges;337792;176632;161158;2;0.5229;0.4771;0.00
+1;03;MDC 03 Krankheiten und Störungen des Ohres, der Nase, des Mundes und des Halses;721137;330921;390214;2;0.4589;0.5411;0.00
+1;04;MDC 04 Krankheiten und Störungen der Atmungsorgane;1421883;607015;814860;8;0.4269;0.5731;0.00
+1;05;MDC 05 Krankheiten und Störungen des Kreislaufsystems;2906446;1329255;1577181;10;0.4573;0.5426;0.00
+1;06;MDC 06 Krankheiten und Störungen der Verdauungsorgane;2145625;1047775;1097847;3;0.4883;0.5117;0.00
+1;07;MDC 07 Krankheiten und Störungen an hepatobiliärem System und Pankreas;584974;296305;288666;3;0.5065;0.4935;0.00
+1;08;MDC 08 Krankheiten und Störungen an Muskel-Skelett-System und Bindegewebe;2701543;1531218;1170320;5;0.5668;0.4332;0.00
+1;09;MDC 09 Krankheiten und Störungen an Haut, Unterhaut und Mamma;853874;498174;355696;4;0.5834;0.4166;0.00
+1;10;MDC 10 Endokrine, Ernährungs- und Stoffwechselkrankheiten;482151;289825;192325;1;0.6011;0.3989;0.00
+1;11;MDC 11 Krankheiten und Störungen der Harnorgane;858118;364365;493753;0;0.4246;0.5754;0.00
+1;12;MDC 12 Krankheiten und Störungen der männlichen Geschlechtsorgane;214480;9;214471;0;0.00;1.00;0.00
+1;13;MDC 13 Krankheiten und Störungen der weiblichen Geschlechtsorgane;370611;370570;41;0;0.9999;0.0001;0.00
+1;14;MDC 14 Schwangerschaft, Geburt und Wochenbett;1020666;1020666;0;0;1.00;0.00;0.00
+1;15;MDC 15 Neugeborene;771690;374219;397465;6;0.4849;0.5151;0.00
+1;16;MDC 16 Krankheiten des Blutes, der blutbildenden Organe und des Immunsystems;146239;80204;66035;0;0.5484;0.4516;0.00
+1;17;MDC 17 Hämatologische und solide Neubildungen;194648;87630;107018;0;0.4502;0.5498;0.00
+1;18A;MDC 18A HIV;3930;740;3188;2;0.1883;0.8112;0.0005
+1;18B;MDC 18B Infektiöse und parasitäre Krankheiten;263575;121174;142400;1;0.4597;0.5403;0.00
+1;19;MDC 19 Psychische Krankheiten und Störungen;98281;60133;38148;0;0.6118;0.3882;0.00
+1;20;MDC 20 Alkohol- und Drogengebrauch und alkohol- und drogeninduzierte psychische Störungen;164390;48349;116038;3;0.2941;0.7059;0.00
+1;21A;MDC 21A Polytrauma;11825;4340;7485;0;0.367;0.633;0.00
+1;21B;MDC 21B Verletzungen, Vergiftungen und toxische Wirkungen von Drogen und Medikamenten;208209;97981;110228;0;0.4706;0.5294;0.00
+1;22;MDC 22 Verbrennungen;15744;6525;9219;0;0.4144;0.5856;0.00
+1;23;MDC 23 Faktoren, die den Gesundheitszustand beeinflussen, und andere Inanspruchnahme des Gesundheitswesens;101079;53601;47478;0;0.5303;0.4697;0.00
+1;FE;Fehler-DRGs und sonstige DRGs;43718;20523;23081;114;0.4694;0.528;0.0026
+2;00;Prä-MDC;147;50;97;0;0.3401;0.6599;0.00
+2;01;MDC 01 Krankheiten und Störungen des Nervensystems;4469;2390;2079;0;0.5348;0.4652;0.00
+2;02;MDC 02 Krankheiten und Störungen des Auges;42858;24720;18138;0;0.5768;0.4232;0.00
+2;03;MDC 03 Krankheiten und Störungen des Ohres, der Nase, des Mundes und des Halses;109001;50857;58144;0;0.4666;0.5334;0.00
+2;04;MDC 04 Krankheiten und Störungen der Atmungsorgane;10975;4419;6556;0;0.4026;0.5974;0.00
+2;05;MDC 05 Krankheiten und Störungen des Kreislaufsystems;41166;18810;22356;0;0.4569;0.5431;0.00
+2;06;MDC 06 Krankheiten und Störungen der Verdauungsorgane;33398;13840;19558;0;0.4144;0.5856;0.00
+2;07;MDC 07 Krankheiten und Störungen an hepatobiliärem System und Pankreas;4047;2486;1561;0;0.6143;0.3857;0.00
+2;08;MDC 08 Krankheiten und Störungen an Muskel-Skelett-System und Bindegewebe;82255;45848;36406;1;0.5574;0.4426;0.00
+2;09;MDC 09 Krankheiten und Störungen an Haut, Unterhaut und Mamma;16732;10945;5787;0;0.6541;0.3459;0.00
+2;10;MDC 10 Endokrine, Ernährungs- und Stoffwechselkrankheiten;6501;4116;2385;0;0.6331;0.3669;0.00
+2;11;MDC 11 Krankheiten und Störungen der Harnorgane;40567;14532;26035;0;0.3582;0.6418;0.00
+2;12;MDC 12 Krankheiten und Störungen der männlichen Geschlechtsorgane;17218;0;17218;0;0.00;1.00;0.00
+2;13;MDC 13 Krankheiten und Störungen der weiblichen Geschlechtsorgane;20171;20171;0;0;1.00;0.00;0.00
+2;14;MDC 14 Schwangerschaft, Geburt und Wochenbett;52840;52840;0;0;1.00;0.00;0.00
+2;15;MDC 15 Neugeborene;40745;20123;20622;0;0.4939;0.5061;0.00
+2;16;MDC 16 Krankheiten des Blutes, der blutbildenden Organe und des Immunsystems;1899;1078;821;0;0.5677;0.4323;0.00
+2;17;MDC 17 Hämatologische und solide Neubildungen;2060;1038;1022;0;0.5039;0.4961;0.00
+2;18A;MDC 18A HIV;15;5;10;0;0.3333;0.6667;0.00
+2;18B;MDC 18B Infektiöse und parasitäre Krankheiten;1960;912;1048;0;0.4653;0.5347;0.00
+2;19;MDC 19 Psychische Krankheiten und Störungen;312;230;82;0;0.7372;0.2628;0.00
+2;20;MDC 20 Alkohol- und Drogengebrauch und alkohol- und drogeninduzierte psychische Störungen;782;289;493;0;0.3696;0.6304;0.00
+2;21A;MDC 21A Polytrauma;2;1;1;0;0.50;0.50;0.00
+2;21B;MDC 21B Verletzungen, Vergiftungen und toxische Wirkungen von Drogen und Medikamenten;2878;1354;1524;0;0.4705;0.5295;0.00
+2;22;MDC 22 Verbrennungen;26;9;17;0;0.3462;0.6538;0.00
+2;23;MDC 23 Faktoren, die den Gesundheitszustand beeinflussen, und andere Inanspruchnahme des Gesundheitswesens;1666;992;674;0;0.5954;0.4046;0.00
+2;FE;Fehler-DRGs und sonstige DRGs;365;182;176;7;0.4986;0.4822;0.0192

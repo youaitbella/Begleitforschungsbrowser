@@ -1,0 +1,443 @@
+﻿Type;Bundesland_A;Stufe;Anzahl KH;mwFallzahlA;mwVWD;cmi;antSTF;BLCODE;BettenstufeSort
+1;00_Deutschland;bis 49 Betten;126;982.0952;12.571;1.1769;0.0203;00;b0049
+1;00_Deutschland;50 bis 99 Betten;184;2383.4348;10.7724;1.2608;0.0232;00;b0099
+1;00_Deutschland;100 bis 149 Betten;201;4458.6418;12.6913;1.3703;0.0379;00;b0149
+1;00_Deutschland;150 bis 199 Betten;164;7059.1159;7.3922;1.1415;0.0284;00;b0199
+1;00_Deutschland;200 bis 249 Betten;123;9588.8618;7.0924;1.125;0.0278;00;b0249
+1;00_Deutschland;250 bis 299 Betten;104;11485.4135;6.3686;1.1636;0.027;00;b0299
+1;00_Deutschland;300 bis 399 Betten;175;14810.6171;6.6433;1.0761;0.0278;00;b0399
+1;00_Deutschland;400 bis 499 Betten;120;20539.1167;6.0476;1.0432;0.0293;00;b0499
+1;00_Deutschland;500 bis 599 Betten;78;24111.6923;6.2716;1.1293;0.028;00;b0599
+1;00_Deutschland;600 bis 799 Betten;73;29016.6575;6.4324;1.125;0.033;00;b0799
+1;00_Deutschland;800 bis 999 Betten;31;38240.3548;6.4546;1.2191;0.0258;00;b0999
+1;00_Deutschland;1000 Betten und mehr;52;58839.3269;6.4379;1.3801;0.0315;00;b1000+
+1;00_Deutschland;Ohne Angabe;13;8914.1538;6.1271;0.9164;0.0294;00;oA
+2;00_Deutschland;bis 49 Betten;46;1141.9348;3.3912;0.6721;0.015;00;b0049
+2;00_Deutschland;50 bis 99 Betten;44;1518.50;4.3695;0.6417;0.0117;00;b0099
+2;00_Deutschland;100 bis 149 Betten;76;939.50;3.5311;0.5812;0.0188;00;b0149
+2;00_Deutschland;150 bis 199 Betten;86;553.0116;3.1208;0.5162;0.0173;00;b0199
+2;00_Deutschland;200 bis 249 Betten;65;707.3077;3.4888;0.6006;0.0122;00;b0249
+2;00_Deutschland;250 bis 299 Betten;67;786.2537;3.1324;0.5187;0.0161;00;b0299
+2;00_Deutschland;300 bis 399 Betten;98;703.9592;3.7692;0.8088;0.0185;00;b0399
+2;00_Deutschland;400 bis 499 Betten;75;558.4133;3.5277;0.5558;0.0128;00;b0499
+2;00_Deutschland;500 bis 599 Betten;36;695.00;4.6951;0.7964;0.0068;00;b0599
+2;00_Deutschland;600 bis 799 Betten;42;934.9524;3.1125;0.5348;0.0157;00;b0799
+2;00_Deutschland;800 bis 999 Betten;15;704.7333;3.0778;0.5595;0.0108;00;b0999
+2;00_Deutschland;1000 Betten und mehr;11;924.9091;4.1914;0.6261;0.0104;00;b1000+
+2;00_Deutschland;Ohne Angabe;2;1097.50;2.70;0.497;0.0046;00;oA
+1;01_Schleswig-Holstein;bis 49 Betten;12;632.0833;10.4833;0.8574;0.0539;01;b0049 
+1;01_Schleswig-Holstein;50 bis 99 Betten;5;1255.40;17.60;1.6214;0.003;01;b0099 
+1;01_Schleswig-Holstein;100 bis 149 Betten;5;6420.80;9.44;1.1344;0.2346;01;b0149 
+1;01_Schleswig-Holstein;150 bis 199 Betten;6;7013.6667;7.8333;1.0582;0.0408;01;b0199 
+1;01_Schleswig-Holstein;200 bis 249 Betten;4;8238.75;6.725;1.1893;0.0303;01;b0249 
+1;01_Schleswig-Holstein;250 bis 299 Betten;-999;-999.00;-999.00;-999.00;-9.99;01;b0299 
+1;01_Schleswig-Holstein;300 bis 399 Betten;5;12848.40;6.50;1.187;0.0226;01;b0399 
+1;01_Schleswig-Holstein;400 bis 499 Betten;3;18766.00;6.50;1.2083;0.0336;01;b0499 
+1;01_Schleswig-Holstein;500 bis 599 Betten;3;24670.6667;6.0333;1.0357;0.0629;01;b0599 
+1;01_Schleswig-Holstein;600 bis 799 Betten;4;29500.50;6.15;1.0095;0.0516;01;b0799 
+1;01_Schleswig-Holstein;800 bis 999 Betten;0;0.00;0.00;0.00;0.00;01;b0999 
+1;01_Schleswig-Holstein;1000 Betten und mehr;2;51227.50;6.25;1.449;0.0467;01;b1000+
+1;01_Schleswig-Holstein;Ohne Angabe;0;0.00;0.00;0.00;0.00;01;oA    
+1;02_Hamburg;bis 49 Betten;-999;-999.00;-999.00;-999.00;-9.99;02;b0049 
+1;02_Hamburg;50 bis 99 Betten;-999;-999.00;-999.00;-999.00;-9.99;02;b0099 
+1;02_Hamburg;100 bis 149 Betten;2;5032.00;4.50;1.0665;0.0016;02;b0149 
+1;02_Hamburg;150 bis 199 Betten;5;8226.80;6.50;1.0204;0.0183;02;b0199 
+1;02_Hamburg;200 bis 249 Betten;3;8885.6667;7.5667;1.3913;0.0179;02;b0249 
+1;02_Hamburg;250 bis 299 Betten;-999;-999.00;-999.00;-999.00;-9.99;02;b0299 
+1;02_Hamburg;300 bis 399 Betten;3;13747.3333;6.7667;1.065;0.0282;02;b0399 
+1;02_Hamburg;400 bis 499 Betten;2;19437.00;7.20;1.1275;0.0286;02;b0499 
+1;02_Hamburg;500 bis 599 Betten;2;27190.50;7.20;1.4375;0.0377;02;b0599 
+1;02_Hamburg;600 bis 799 Betten;7;28053.4286;8.1143;1.3523;0.0263;02;b0799 
+1;02_Hamburg;800 bis 999 Betten;0;0.00;0.00;0.00;0.00;02;b0999 
+1;02_Hamburg;1000 Betten und mehr;-999;-999.00;-999.00;-999.00;-9.99;02;b1000+
+1;02_Hamburg;Ohne Angabe;-999;-999.00;-999.00;-999.00;-9.99;02;oA    
+1;03_Niedersachsen;bis 49 Betten;13;1191.3077;8.5846;0.91;0.0373;03;b0049 
+1;03_Niedersachsen;50 bis 99 Betten;21;2679.8095;11.5286;1.1507;0.0375;03;b0099 
+1;03_Niedersachsen;100 bis 149 Betten;26;5373.6154;6.9231;1.0064;0.0392;03;b0149 
+1;03_Niedersachsen;150 bis 199 Betten;20;7963.55;5.735;1.0413;0.0319;03;b0199 
+1;03_Niedersachsen;200 bis 249 Betten;10;11260.30;7.43;0.9749;0.0335;03;b0249 
+1;03_Niedersachsen;250 bis 299 Betten;15;13672.20;5.8933;0.9581;0.035;03;b0299 
+1;03_Niedersachsen;300 bis 399 Betten;14;16389.7143;5.9214;1.1469;0.0323;03;b0399 
+1;03_Niedersachsen;400 bis 499 Betten;9;21037.5556;6.0556;1.0773;0.032;03;b0499 
+1;03_Niedersachsen;500 bis 599 Betten;7;27684.7143;5.6714;1.05;0.0408;03;b0599 
+1;03_Niedersachsen;600 bis 799 Betten;3;30490.3333;6.3333;1.1337;0.0358;03;b0799 
+1;03_Niedersachsen;800 bis 999 Betten;2;29086.50;5.80;1.1375;0.063;03;b0999 
+1;03_Niedersachsen;1000 Betten und mehr;3;58008.3333;6.6333;1.4787;0.044;03;b1000+
+1;03_Niedersachsen;Ohne Angabe;2;1446.50;8.60;0.7965;0.0021;03;oA    
+1;04_Bremen;bis 49 Betten;0;0.00;0.00;0.00;0.00;04;b0049 
+1;04_Bremen;50 bis 99 Betten;-999;-999.00;-999.00;-999.00;-9.99;04;b0099 
+1;04_Bremen;100 bis 149 Betten;0;0.00;0.00;0.00;0.00;04;b0149 
+1;04_Bremen;150 bis 199 Betten;-999;-999.00;-999.00;-999.00;-9.99;04;b0199 
+1;04_Bremen;200 bis 249 Betten;0;0.00;0.00;0.00;0.00;04;b0249 
+1;04_Bremen;250 bis 299 Betten;3;9987.3333;6.10;1.055;0.0229;04;b0299 
+1;04_Bremen;300 bis 399 Betten;-999;-999.00;-999.00;-999.00;-9.99;04;b0399 
+1;04_Bremen;400 bis 499 Betten;2;20239.00;5.85;0.939;0.031;04;b0499 
+1;04_Bremen;500 bis 599 Betten;2;26032.00;6.10;1.21;0.0405;04;b0599 
+1;04_Bremen;600 bis 799 Betten;-999;-999.00;-999.00;-999.00;-9.99;04;b0799 
+1;04_Bremen;800 bis 999 Betten;0;0.00;0.00;0.00;0.00;04;b0999 
+1;04_Bremen;1000 Betten und mehr;0;0.00;0.00;0.00;0.00;04;b1000+
+1;04_Bremen;Ohne Angabe;-999;-999.00;-999.00;-999.00;-9.99;04;oA    
+1;05_Nordrhein-Westfalen;bis 49 Betten;12;1029.5833;11.425;1.1592;0.0168;05;b0049 
+1;05_Nordrhein-Westfalen;50 bis 99 Betten;25;2514.76;9.008;1.1523;0.0222;05;b0099 
+1;05_Nordrhein-Westfalen;100 bis 149 Betten;32;4704.50;7.55;1.0623;0.0267;05;b0149 
+1;05_Nordrhein-Westfalen;150 bis 199 Betten;20;6755.80;7.365;0.982;0.0275;05;b0199 
+1;05_Nordrhein-Westfalen;200 bis 249 Betten;31;9198.4839;6.40;1.0033;0.0281;05;b0249 
+1;05_Nordrhein-Westfalen;250 bis 299 Betten;26;11433.3462;6.1346;1.0023;0.0235;05;b0299 
+1;05_Nordrhein-Westfalen;300 bis 399 Betten;56;14780.6786;6.3018;1.0152;0.0251;05;b0399 
+1;05_Nordrhein-Westfalen;400 bis 499 Betten;28;18962.5357;6.0929;1.0203;0.0233;05;b0499 
+1;05_Nordrhein-Westfalen;500 bis 599 Betten;23;23823.1739;6.2261;1.1501;0.0194;05;b0599 
+1;05_Nordrhein-Westfalen;600 bis 799 Betten;24;28034.9583;6.4083;1.0851;0.0238;05;b0799 
+1;05_Nordrhein-Westfalen;800 bis 999 Betten;4;36562.25;6.375;1.0513;0.0204;05;b0999 
+1;05_Nordrhein-Westfalen;1000 Betten und mehr;15;48902.4667;6.8133;1.4131;0.0214;05;b1000+
+1;05_Nordrhein-Westfalen;Ohne Angabe;3;11841.3333;8.6667;0.6543;0.0322;05;oA    
+1;06_Hessen;bis 49 Betten;15;756.1333;14.84;1.0999;0.016;06;b0049 
+1;06_Hessen;50 bis 99 Betten;11;2069.6364;12.7909;1.3087;0.0166;06;b0099 
+1;06_Hessen;100 bis 149 Betten;20;3412.50;13.17;1.9077;0.023;06;b0149 
+1;06_Hessen;150 bis 199 Betten;13;7003.1538;6.7154;1.0448;0.0254;06;b0199 
+1;06_Hessen;200 bis 249 Betten;10;10033.50;5.83;1.0079;0.0341;06;b0249 
+1;06_Hessen;250 bis 299 Betten;8;11075.875;6.2375;0.96;0.0241;06;b0299 
+1;06_Hessen;300 bis 399 Betten;13;11887.00;7.3231;1.1328;0.0285;06;b0399 
+1;06_Hessen;400 bis 499 Betten;8;21811.875;6.1625;1.1659;0.033;06;b0499 
+1;06_Hessen;500 bis 599 Betten;4;26029.50;5.725;0.9898;0.0245;06;b0599 
+1;06_Hessen;600 bis 799 Betten;3;28378.6667;6.30;1.1387;0.0281;06;b0799 
+1;06_Hessen;800 bis 999 Betten;6;41764.3333;6.0667;1.2102;0.0228;06;b0999 
+1;06_Hessen;1000 Betten und mehr;2;49165.50;6.50;1.4345;0.0311;06;b1000+
+1;06_Hessen;Ohne Angabe;0;0.00;0.00;0.00;0.00;06;oA    
+1;07_Rheinland-Pfalz;bis 49 Betten;3;1102.3333;8.6333;1.306;0.0018;07;b0049 
+1;07_Rheinland-Pfalz;50 bis 99 Betten;7;1998.2857;11.4571;1.1889;0.0204;07;b0099 
+1;07_Rheinland-Pfalz;100 bis 149 Betten;12;3751.25;8.45;0.8703;0.0317;07;b0149 
+1;07_Rheinland-Pfalz;150 bis 199 Betten;11;6366.6364;6.3636;0.8377;0.0375;07;b0199 
+1;07_Rheinland-Pfalz;200 bis 249 Betten;7;8139.2857;6.30;0.9373;0.0273;07;b0249 
+1;07_Rheinland-Pfalz;250 bis 299 Betten;5;9672.20;5.74;0.8592;0.0373;07;b0299 
+1;07_Rheinland-Pfalz;300 bis 399 Betten;8;13868.25;5.60;0.8658;0.0326;07;b0399 
+1;07_Rheinland-Pfalz;400 bis 499 Betten;8;19082.75;6.025;0.952;0.0336;07;b0499 
+1;07_Rheinland-Pfalz;500 bis 599 Betten;7;20022.8571;6.3571;1.1201;0.0236;07;b0599 
+1;07_Rheinland-Pfalz;600 bis 799 Betten;4;27929.50;6.45;1.1395;0.0326;07;b0799 
+1;07_Rheinland-Pfalz;800 bis 999 Betten;-999;-999.00;-999.00;-999.00;-9.99;07;b0999 
+1;07_Rheinland-Pfalz;1000 Betten und mehr;2;54903.50;6.55;1.3575;0.0343;07;b1000+
+1;07_Rheinland-Pfalz;Ohne Angabe;-999;-999.00;-999.00;-999.00;-9.99;07;oA    
+1;08_Baden-Württemberg;bis 49 Betten;12;1166.5833;14.6667;1.1732;0.0137;08;b0049 
+1;08_Baden-Württemberg;50 bis 99 Betten;32;2419.125;13.3438;1.7212;0.0293;08;b0099 
+1;08_Baden-Württemberg;100 bis 149 Betten;17;4500.7647;9.0176;1.0011;0.0237;08;b0149 
+1;08_Baden-Württemberg;150 bis 199 Betten;17;7376.2353;6.3588;0.9463;0.0297;08;b0199 
+1;08_Baden-Württemberg;200 bis 249 Betten;12;9877.9167;6.2417;1.057;0.0263;08;b0249 
+1;08_Baden-Württemberg;250 bis 299 Betten;7;12271.1429;5.4429;0.8864;0.0392;08;b0299 
+1;08_Baden-Württemberg;300 bis 399 Betten;17;15407.2353;6.1118;1.1568;0.0325;08;b0399 
+1;08_Baden-Württemberg;400 bis 499 Betten;14;21493.6429;5.7214;0.9773;0.0403;08;b0499 
+1;08_Baden-Württemberg;500 bis 599 Betten;4;25284.75;5.90;1.0713;0.0244;08;b0599 
+1;08_Baden-Württemberg;600 bis 799 Betten;9;30196.7778;5.9889;1.0482;0.0436;08;b0799 
+1;08_Baden-Württemberg;800 bis 999 Betten;3;36915.3333;6.40;1.2107;0.0272;08;b0999 
+1;08_Baden-Württemberg;1000 Betten und mehr;9;58383.00;6.0667;1.335;0.0294;08;b1000+
+1;08_Baden-Württemberg;Ohne Angabe;0;0.00;0.00;0.00;0.00;08;oA    
+1;09_Bayern;bis 49 Betten;34;1018.9412;10.0706;1.099;0.0181;09;b0049 
+1;09_Bayern;50 bis 99 Betten;41;2506.7805;8.9707;1.204;0.0191;09;b0099 
+1;09_Bayern;100 bis 149 Betten;49;4678.9796;8.0837;1.1142;0.0393;09;b0149 
+1;09_Bayern;150 bis 199 Betten;27;7023.8519;6.8667;1.069;0.0374;09;b0199 
+1;09_Bayern;200 bis 249 Betten;19;8707.1579;5.7842;1.1775;0.0337;09;b0249 
+1;09_Bayern;250 bis 299 Betten;16;11650.00;5.9188;1.0248;0.0283;09;b0299 
+1;09_Bayern;300 bis 399 Betten;22;15546.7727;5.7318;1.0326;0.0393;09;b0399 
+1;09_Bayern;400 bis 499 Betten;13;21508.8462;5.8769;1.011;0.036;09;b0499 
+1;09_Bayern;500 bis 599 Betten;10;24332.00;6.42;1.1069;0.043;09;b0599 
+1;09_Bayern;600 bis 799 Betten;9;31101.2222;5.8444;1.0531;0.0531;09;b0799 
+1;09_Bayern;800 bis 999 Betten;7;39198.2857;6.3714;1.2834;0.0274;09;b0999 
+1;09_Bayern;1000 Betten und mehr;6;66959.6667;6.5833;1.3445;0.0334;09;b1000+
+1;09_Bayern;Ohne Angabe;2;695.50;7.40;1.025;0.00;09;oA    
+1;10_Saarland;bis 49 Betten;2;513.50;17.45;1.474;0.0058;10;b0049 
+1;10_Saarland;50 bis 99 Betten;-999;-999.00;-999.00;-999.00;-9.99;10;b0099 
+1;10_Saarland;100 bis 149 Betten;2;6215.50;6.55;0.983;0.0426;10;b0149 
+1;10_Saarland;150 bis 199 Betten;6;7233.00;8.70;0.9665;0.0285;10;b0199 
+1;10_Saarland;200 bis 249 Betten;2;11628.00;5.75;0.8535;0.029;10;b0249 
+1;10_Saarland;250 bis 299 Betten;-999;-999.00;-999.00;-999.00;-9.99;10;b0299 
+1;10_Saarland;300 bis 399 Betten;3;13968.00;6.70;1.1713;0.0304;10;b0399 
+1;10_Saarland;400 bis 499 Betten;2;27145.00;5.70;0.935;0.0325;10;b0499 
+1;10_Saarland;500 bis 599 Betten;-999;-999.00;-999.00;-999.00;-9.99;10;b0599 
+1;10_Saarland;600 bis 799 Betten;0;0.00;0.00;0.00;0.00;10;b0799 
+1;10_Saarland;800 bis 999 Betten;0;0.00;0.00;0.00;0.00;10;b0999 
+1;10_Saarland;1000 Betten und mehr;-999;-999.00;-999.00;-999.00;-9.99;10;b1000+
+1;10_Saarland;Ohne Angabe;0;0.00;0.00;0.00;0.00;10;oA    
+1;11_Berlin;bis 49 Betten;4;1134.75;6.70;0.8565;0.0059;11;b0049 
+1;11_Berlin;50 bis 99 Betten;4;3886.75;6.225;1.0585;0.0019;11;b0099 
+1;11_Berlin;100 bis 149 Betten;4;3245.50;15.425;1.5713;0.0143;11;b0149 
+1;11_Berlin;150 bis 199 Betten;6;6365.8333;9.2167;1.818;0.0138;11;b0199 
+1;11_Berlin;200 bis 249 Betten;4;9770.00;18.425;2.0225;0.0236;11;b0249 
+1;11_Berlin;250 bis 299 Betten;6;8671.8333;8.7333;1.171;0.0153;11;b0299 
+1;11_Berlin;300 bis 399 Betten;5;13107.00;9.52;1.4322;0.0165;11;b0399 
+1;11_Berlin;400 bis 499 Betten;5;22717.40;6.16;1.0648;0.0206;11;b0499 
+1;11_Berlin;500 bis 599 Betten;3;24802.00;6.6667;1.2693;0.0158;11;b0599 
+1;11_Berlin;600 bis 799 Betten;0;0.00;0.00;0.00;0.00;11;b0799 
+1;11_Berlin;800 bis 999 Betten;0;0.00;0.00;0.00;0.00;11;b0999 
+1;11_Berlin;1000 Betten und mehr;3;132257.6667;6.0667;1.308;0.0548;11;b1000+
+1;11_Berlin;Ohne Angabe;-999;-999.00;-999.00;-999.00;-9.99;11;oA    
+1;12_Brandenburg;bis 49 Betten;2;1351.50;24.75;0.855;0.0326;12;b0049 
+1;12_Brandenburg;50 bis 99 Betten;8;2154.75;10.8625;1.1855;0.0372;12;b0099 
+1;12_Brandenburg;100 bis 149 Betten;13;3515.1538;16.5308;1.6287;0.0244;12;b0149 
+1;12_Brandenburg;150 bis 199 Betten;5;4696.40;9.96;1.253;0.0141;12;b0199 
+1;12_Brandenburg;200 bis 249 Betten;2;11931.00;5.70;0.919;0.0232;12;b0249 
+1;12_Brandenburg;250 bis 299 Betten;5;11109.00;6.72;1.1416;0.0218;12;b0299 
+1;12_Brandenburg;300 bis 399 Betten;4;12627.50;7.925;1.0543;0.0195;12;b0399 
+1;12_Brandenburg;400 bis 499 Betten;6;20564.1667;5.9667;0.9863;0.0177;12;b0499 
+1;12_Brandenburg;500 bis 599 Betten;4;23153.00;6.475;1.1045;0.0175;12;b0599 
+1;12_Brandenburg;600 bis 799 Betten;-999;-999.00;-999.00;-999.00;-9.99;12;b0799 
+1;12_Brandenburg;800 bis 999 Betten;-999;-999.00;-999.00;-999.00;-9.99;12;b0999 
+1;12_Brandenburg;1000 Betten und mehr;0;0.00;0.00;0.00;0.00;12;b1000+
+1;12_Brandenburg;Ohne Angabe;2;22217.00;7.15;1.136;0.0351;12;oA    
+1;13_Mecklenburg-Vorpommern;bis 49 Betten;2;1528.50;5.35;1.252;0.0294;13;b0049 
+1;13_Mecklenburg-Vorpommern;50 bis 99 Betten;6;2564.00;12.8833;2.1312;0.0235;13;b0099 
+1;13_Mecklenburg-Vorpommern;100 bis 149 Betten;3;6284.3333;5.4667;0.8807;0.0319;13;b0149 
+1;13_Mecklenburg-Vorpommern;150 bis 199 Betten;6;5946.1667;12.2333;1.8682;0.0274;13;b0199 
+1;13_Mecklenburg-Vorpommern;200 bis 249 Betten;6;10385.00;5.6333;1.0153;0.0242;13;b0249 
+1;13_Mecklenburg-Vorpommern;250 bis 299 Betten;0;0.00;0.00;0.00;0.00;13;b0299 
+1;13_Mecklenburg-Vorpommern;300 bis 399 Betten;3;17199.3333;5.4333;0.919;0.0205;13;b0399 
+1;13_Mecklenburg-Vorpommern;400 bis 499 Betten;2;23353.50;5.70;1.007;0.03;13;b0499 
+1;13_Mecklenburg-Vorpommern;500 bis 599 Betten;0;0.00;0.00;0.00;0.00;13;b0599 
+1;13_Mecklenburg-Vorpommern;600 bis 799 Betten;0;0.00;0.00;0.00;0.00;13;b0799 
+1;13_Mecklenburg-Vorpommern;800 bis 999 Betten;3;37519.3333;6.40;1.32;0.0224;13;b0999 
+1;13_Mecklenburg-Vorpommern;1000 Betten und mehr;-999;-999.00;-999.00;-999.00;-9.99;13;b1000+
+1;13_Mecklenburg-Vorpommern;Ohne Angabe;0;0.00;0.00;0.00;0.00;13;oA    
+1;14_Sachsen;bis 49 Betten;9;750.6667;19.7444;3.0152;0.009;14;b0049 
+1;14_Sachsen;50 bis 99 Betten;9;1868.2222;15.1889;1.354;0.0171;14;b0099 
+1;14_Sachsen;100 bis 149 Betten;5;3930.40;11.84;2.8724;0.0097;14;b0149 
+1;14_Sachsen;150 bis 199 Betten;12;7526.00;6.1667;1.1386;0.0163;14;b0199 
+1;14_Sachsen;200 bis 249 Betten;10;10862.10;6.00;0.9421;0.0167;14;b0249 
+1;14_Sachsen;250 bis 299 Betten;5;10808.80;6.72;1.0256;0.017;14;b0299 
+1;14_Sachsen;300 bis 399 Betten;12;15492.5833;6.125;0.9961;0.0171;14;b0399 
+1;14_Sachsen;400 bis 499 Betten;6;21374.8333;6.00;1.3282;0.0265;14;b0499 
+1;14_Sachsen;500 bis 599 Betten;3;24705.3333;5.80;0.9493;0.0139;14;b0599 
+1;14_Sachsen;600 bis 799 Betten;0;0.00;0.00;0.00;0.00;14;b0799 
+1;14_Sachsen;800 bis 999 Betten;3;37581.00;6.8333;1.1847;0.0121;14;b0999 
+1;14_Sachsen;1000 Betten und mehr;3;56435.00;7.00;1.411;0.0225;14;b1000+
+1;14_Sachsen;Ohne Angabe;0;0.00;0.00;0.00;0.00;14;oA    
+1;15_Sachsen-Anhalt;bis 49 Betten;3;1024.6667;10.3667;0.7593;0.0078;15;b0049 
+1;15_Sachsen-Anhalt;50 bis 99 Betten;4;1982.50;9.05;0.7205;0.0158;15;b0099 
+1;15_Sachsen-Anhalt;100 bis 149 Betten;5;4178.00;15.74;2.1336;0.0142;15;b0149 
+1;15_Sachsen-Anhalt;150 bis 199 Betten;4;6501.50;6.20;1.043;0.0112;15;b0199 
+1;15_Sachsen-Anhalt;200 bis 249 Betten;2;7152.00;6.10;1.0165;0.0169;15;b0249 
+1;15_Sachsen-Anhalt;250 bis 299 Betten;5;11690.20;5.52;0.9636;0.0199;15;b0299 
+1;15_Sachsen-Anhalt;300 bis 399 Betten;3;15523.3333;5.8333;0.9427;0.0306;15;b0399 
+1;15_Sachsen-Anhalt;400 bis 499 Betten;6;19480.1667;5.70;0.9273;0.0247;15;b0499 
+1;15_Sachsen-Anhalt;500 bis 599 Betten;4;20700.75;7.20;1.2658;0.0139;15;b0599 
+1;15_Sachsen-Anhalt;600 bis 799 Betten;4;29450.25;6.00;0.9455;0.0198;15;b0799 
+1;15_Sachsen-Anhalt;800 bis 999 Betten;-999;-999.00;-999.00;-999.00;-9.99;15;b0999 
+1;15_Sachsen-Anhalt;1000 Betten und mehr;-999;-999.00;-999.00;-999.00;-9.99;15;b1000+
+1;15_Sachsen-Anhalt;Ohne Angabe;0;0.00;0.00;0.00;0.00;15;oA    
+1;16_Thüringen;bis 49 Betten;2;897.00;22.70;0.7565;0.005;16;b0049 
+1;16_Thüringen;50 bis 99 Betten;8;1595.625;18.55;1.2238;0.0099;16;b0099 
+1;16_Thüringen;100 bis 149 Betten;6;2368.00;51.6833;1.3223;0.0116;16;b0149 
+1;16_Thüringen;150 bis 199 Betten;5;8305.00;5.66;0.9334;0.0226;16;b0199 
+1;16_Thüringen;200 bis 249 Betten;-999;-999.00;-999.00;-999.00;-9.99;16;b0249 
+1;16_Thüringen;250 bis 299 Betten;0;0.00;0.00;0.00;0.00;16;b0299 
+1;16_Thüringen;300 bis 399 Betten;6;17495.3333;5.70;0.9297;0.0186;16;b0399 
+1;16_Thüringen;400 bis 499 Betten;6;19662.1667;6.05;0.9643;0.0207;16;b0499 
+1;16_Thüringen;500 bis 599 Betten;-999;-999.00;-999.00;-999.00;-9.99;16;b0599 
+1;16_Thüringen;600 bis 799 Betten;4;25982.50;7.20;1.2798;0.0117;16;b0799 
+1;16_Thüringen;800 bis 999 Betten;0;0.00;0.00;0.00;0.00;16;b0999 
+1;16_Thüringen;1000 Betten und mehr;3;47722.3333;6.5667;1.2777;0.0148;16;b1000+
+1;16_Thüringen;Ohne Angabe;0;0.00;0.00;0.00;0.00;16;oA    
+2;01_Schleswig-Holstein;bis 49 Betten;8;1411.25;2.525;0.571;0.0434;01;b0049 
+2;01_Schleswig-Holstein;50 bis 99 Betten;2;4185.00;3.25;0.6065;0.0185;01;b0099 
+2;01_Schleswig-Holstein;100 bis 149 Betten;2;360.50;4.15;0.843;0.0166;01;b0149 
+2;01_Schleswig-Holstein;150 bis 199 Betten;4;341.75;2.325;0.43;0.0241;01;b0199 
+2;01_Schleswig-Holstein;200 bis 249 Betten;2;351.00;2.30;0.581;0.0114;01;b0249 
+2;01_Schleswig-Holstein;250 bis 299 Betten;0;0.00;0.00;0.00;0.00;01;b0299 
+2;01_Schleswig-Holstein;300 bis 399 Betten;4;255.00;2.15;0.476;0.0039;01;b0399 
+2;01_Schleswig-Holstein;400 bis 499 Betten;3;726.6667;4.1667;0.6517;0.0367;01;b0499 
+2;01_Schleswig-Holstein;500 bis 599 Betten;3;166.00;4.9667;0.596;0.002;01;b0599 
+2;01_Schleswig-Holstein;600 bis 799 Betten;3;1521.3333;2.3667;0.4717;0.0316;01;b0799 
+2;01_Schleswig-Holstein;800 bis 999 Betten;0;0.00;0.00;0.00;0.00;01;b0999 
+2;01_Schleswig-Holstein;1000 Betten und mehr;0;0.00;0.00;0.00;0.00;01;b1000+
+2;01_Schleswig-Holstein;Ohne Angabe;-999;-999.00;-999.00;-999.00;-9.99;01;oA    
+2;02_Hamburg;bis 49 Betten;3;947.6667;3.50;0.9777;0.007;02;b0049 
+2;02_Hamburg;50 bis 99 Betten;-999;-999.00;-999.00;-999.00;-9.99;02;b0099 
+2;02_Hamburg;100 bis 149 Betten;0;0.00;0.00;0.00;0.00;02;b0149 
+2;02_Hamburg;150 bis 199 Betten;0;0.00;0.00;0.00;0.00;02;b0199 
+2;02_Hamburg;200 bis 249 Betten;0;0.00;0.00;0.00;0.00;02;b0249 
+2;02_Hamburg;250 bis 299 Betten;0;0.00;0.00;0.00;0.00;02;b0299 
+2;02_Hamburg;300 bis 399 Betten;-999;-999.00;-999.00;-999.00;-9.99;02;b0399 
+2;02_Hamburg;400 bis 499 Betten;0;0.00;0.00;0.00;0.00;02;b0499 
+2;02_Hamburg;500 bis 599 Betten;0;0.00;0.00;0.00;0.00;02;b0599 
+2;02_Hamburg;600 bis 799 Betten;0;0.00;0.00;0.00;0.00;02;b0799 
+2;02_Hamburg;800 bis 999 Betten;0;0.00;0.00;0.00;0.00;02;b0999 
+2;02_Hamburg;1000 Betten und mehr;0;0.00;0.00;0.00;0.00;02;b1000+
+2;02_Hamburg;Ohne Angabe;0;0.00;0.00;0.00;0.00;02;oA    
+2;03_Niedersachsen;bis 49 Betten;10;801.20;3.77;0.5912;0.0025;03;b0049 
+2;03_Niedersachsen;50 bis 99 Betten;5;1189.00;5.34;0.921;0.003;03;b0099 
+2;03_Niedersachsen;100 bis 149 Betten;16;725.125;3.4563;0.5293;0.0142;03;b0149 
+2;03_Niedersachsen;150 bis 199 Betten;15;816.80;3.6733;0.5374;0.017;03;b0199 
+2;03_Niedersachsen;200 bis 249 Betten;6;119.50;2.4667;0.3928;0.0181;03;b0249 
+2;03_Niedersachsen;250 bis 299 Betten;11;429.8182;3.0455;0.4748;0.0127;03;b0299 
+2;03_Niedersachsen;300 bis 399 Betten;8;253.125;2.60;0.4388;0.0059;03;b0399 
+2;03_Niedersachsen;400 bis 499 Betten;6;475.50;3.4333;0.5415;0.0098;03;b0499 
+2;03_Niedersachsen;500 bis 599 Betten;6;379.50;4.4833;0.9602;0.0048;03;b0599 
+2;03_Niedersachsen;600 bis 799 Betten;-999;-999.00;-999.00;-999.00;-9.99;03;b0799 
+2;03_Niedersachsen;800 bis 999 Betten;0;0.00;0.00;0.00;0.00;03;b0999 
+2;03_Niedersachsen;1000 Betten und mehr;0;0.00;0.00;0.00;0.00;03;b1000+
+2;03_Niedersachsen;Ohne Angabe;0;0.00;0.00;0.00;0.00;03;oA    
+2;04_Bremen;bis 49 Betten;0;0.00;0.00;0.00;0.00;04;b0049 
+2;04_Bremen;50 bis 99 Betten;0;0.00;0.00;0.00;0.00;04;b0099 
+2;04_Bremen;100 bis 149 Betten;0;0.00;0.00;0.00;0.00;04;b0149 
+2;04_Bremen;150 bis 199 Betten;0;0.00;0.00;0.00;0.00;04;b0199 
+2;04_Bremen;200 bis 249 Betten;0;0.00;0.00;0.00;0.00;04;b0249 
+2;04_Bremen;250 bis 299 Betten;-999;-999.00;-999.00;-999.00;-9.99;04;b0299 
+2;04_Bremen;300 bis 399 Betten;0;0.00;0.00;0.00;0.00;04;b0399 
+2;04_Bremen;400 bis 499 Betten;0;0.00;0.00;0.00;0.00;04;b0499 
+2;04_Bremen;500 bis 599 Betten;0;0.00;0.00;0.00;0.00;04;b0599 
+2;04_Bremen;600 bis 799 Betten;0;0.00;0.00;0.00;0.00;04;b0799 
+2;04_Bremen;800 bis 999 Betten;0;0.00;0.00;0.00;0.00;04;b0999 
+2;04_Bremen;1000 Betten und mehr;0;0.00;0.00;0.00;0.00;04;b1000+
+2;04_Bremen;Ohne Angabe;0;0.00;0.00;0.00;0.00;04;oA    
+2;05_Nordrhein-Westfalen;bis 49 Betten;3;1594.00;4.3667;0.6137;0.0033;05;b0049 
+2;05_Nordrhein-Westfalen;50 bis 99 Betten;0;0.00;0.00;0.00;0.00;05;b0099 
+2;05_Nordrhein-Westfalen;100 bis 149 Betten;8;554.25;3.55;0.5839;0.0101;05;b0149 
+2;05_Nordrhein-Westfalen;150 bis 199 Betten;9;272.6667;2.70;0.4759;0.0143;05;b0199 
+2;05_Nordrhein-Westfalen;200 bis 249 Betten;17;273.7647;2.5588;0.4438;0.0193;05;b0249 
+2;05_Nordrhein-Westfalen;250 bis 299 Betten;11;581.6364;3.9182;0.646;0.0088;05;b0299 
+2;05_Nordrhein-Westfalen;300 bis 399 Betten;32;423.00;2.4156;0.4563;0.0061;05;b0399 
+2;05_Nordrhein-Westfalen;400 bis 499 Betten;17;545.8235;3.5353;0.5764;0.0155;05;b0499 
+2;05_Nordrhein-Westfalen;500 bis 599 Betten;6;487.50;2.20;0.4375;0.0038;05;b0599 
+2;05_Nordrhein-Westfalen;600 bis 799 Betten;13;683.5385;2.1615;0.4163;0.0065;05;b0799 
+2;05_Nordrhein-Westfalen;800 bis 999 Betten;3;446.3333;2.0333;0.4523;0.006;05;b0999 
+2;05_Nordrhein-Westfalen;1000 Betten und mehr;5;1165.40;3.04;0.5108;0.0129;05;b1000+
+2;05_Nordrhein-Westfalen;Ohne Angabe;-999;-999.00;-999.00;-999.00;-9.99;05;oA    
+2;06_Hessen;bis 49 Betten;2;513.00;3.50;0.7755;0.0039;06;b0049 
+2;06_Hessen;50 bis 99 Betten;4;2954.50;4.45;0.7278;0.0164;06;b0099 
+2;06_Hessen;100 bis 149 Betten;7;3280.4286;3.8857;0.4973;0.03;06;b0149 
+2;06_Hessen;150 bis 199 Betten;8;421.875;3.0375;0.5429;0.0201;06;b0199 
+2;06_Hessen;200 bis 249 Betten;4;1256.25;3.40;0.541;0.0135;06;b0249 
+2;06_Hessen;250 bis 299 Betten;7;1575.2857;3.4714;0.5341;0.0098;06;b0299 
+2;06_Hessen;300 bis 399 Betten;10;1314.10;3.09;0.4907;0.0214;06;b0399 
+2;06_Hessen;400 bis 499 Betten;4;299.75;3.475;0.4548;0.0092;06;b0499 
+2;06_Hessen;500 bis 599 Betten;4;1555.25;4.575;0.663;0.0051;06;b0599 
+2;06_Hessen;600 bis 799 Betten;2;5705.00;5.10;0.571;0.0179;06;b0799 
+2;06_Hessen;800 bis 999 Betten;2;339.50;3.25;0.7595;0.0147;06;b0999 
+2;06_Hessen;1000 Betten und mehr;-999;-999.00;-999.00;-999.00;-9.99;06;b1000+
+2;06_Hessen;Ohne Angabe;0;0.00;0.00;0.00;0.00;06;oA    
+2;07_Rheinland-Pfalz;bis 49 Betten;-999;-999.00;-999.00;-999.00;-9.99;07;b0049 
+2;07_Rheinland-Pfalz;50 bis 99 Betten;0;0.00;0.00;0.00;0.00;07;b0099 
+2;07_Rheinland-Pfalz;100 bis 149 Betten;7;398.8571;3.6286;0.4993;0.0183;07;b0149 
+2;07_Rheinland-Pfalz;150 bis 199 Betten;9;568.4444;2.6111;0.4709;0.0174;07;b0199 
+2;07_Rheinland-Pfalz;200 bis 249 Betten;5;530.00;3.54;0.4786;0.0238;07;b0249 
+2;07_Rheinland-Pfalz;250 bis 299 Betten;5;999.80;3.92;0.5572;0.0154;07;b0299 
+2;07_Rheinland-Pfalz;300 bis 399 Betten;6;295.00;3.5667;0.4977;0.009;07;b0399 
+2;07_Rheinland-Pfalz;400 bis 499 Betten;7;486.00;4.30;0.5803;0.0085;07;b0499 
+2;07_Rheinland-Pfalz;500 bis 599 Betten;4;1126.50;4.05;0.609;0.0126;07;b0599 
+2;07_Rheinland-Pfalz;600 bis 799 Betten;3;457.00;2.8667;0.5157;0.0073;07;b0799 
+2;07_Rheinland-Pfalz;800 bis 999 Betten;0;0.00;0.00;0.00;0.00;07;b0999 
+2;07_Rheinland-Pfalz;1000 Betten und mehr;-999;-999.00;-999.00;-999.00;-9.99;07;b1000+
+2;07_Rheinland-Pfalz;Ohne Angabe;0;0.00;0.00;0.00;0.00;07;oA    
+2;08_Baden-Württemberg;bis 49 Betten;8;857.375;3.1875;0.562;0.0019;08;b0049 
+2;08_Baden-Württemberg;50 bis 99 Betten;8;1763.00;3.6875;0.5875;0.0181;08;b0099 
+2;08_Baden-Württemberg;100 bis 149 Betten;5;104.00;3.24;0.6142;0.0038;08;b0149 
+2;08_Baden-Württemberg;150 bis 199 Betten;11;316.9091;2.8636;0.5045;0.0069;08;b0199 
+2;08_Baden-Württemberg;200 bis 249 Betten;7;257.8571;2.0286;0.4186;0.0116;08;b0249 
+2;08_Baden-Württemberg;250 bis 299 Betten;7;517.4286;3.0143;0.5061;0.0174;08;b0299 
+2;08_Baden-Württemberg;300 bis 399 Betten;9;800.1111;2.8778;0.5301;0.0075;08;b0399 
+2;08_Baden-Württemberg;400 bis 499 Betten;10;462.50;3.62;0.5275;0.0149;08;b0499 
+2;08_Baden-Württemberg;500 bis 599 Betten;3;1089.00;3.3333;0.503;0.0055;08;b0599 
+2;08_Baden-Württemberg;600 bis 799 Betten;9;508.00;2.8556;0.4767;0.0203;08;b0799 
+2;08_Baden-Württemberg;800 bis 999 Betten;3;1159.6667;3.0333;0.4837;0.0152;08;b0999 
+2;08_Baden-Württemberg;1000 Betten und mehr;-999;-999.00;-999.00;-999.00;-9.99;08;b1000+
+2;08_Baden-Württemberg;Ohne Angabe;0;0.00;0.00;0.00;0.00;08;oA    
+2;09_Bayern;bis 49 Betten;8;1755.625;3.3125;0.5385;0.0143;09;b0049 
+2;09_Bayern;50 bis 99 Betten;19;1240.1053;3.0316;0.5369;0.0067;09;b0099 
+2;09_Bayern;100 bis 149 Betten;26;1042.9615;3.30;0.5537;0.0136;09;b0149 
+2;09_Bayern;150 bis 199 Betten;19;830.3158;3.5895;0.5605;0.0197;09;b0199 
+2;09_Bayern;200 bis 249 Betten;14;1882.00;4.3714;0.744;0.0107;09;b0249 
+2;09_Bayern;250 bis 299 Betten;15;1129.80;3.62;0.5323;0.027;09;b0299 
+2;09_Bayern;300 bis 399 Betten;18;1611.7222;4.0444;0.6433;0.0283;09;b0399 
+2;09_Bayern;400 bis 499 Betten;11;1024.1818;4.6909;0.6456;0.0121;09;b0499 
+2;09_Bayern;500 bis 599 Betten;7;731.2857;3.8429;0.7973;0.008;09;b0599 
+2;09_Bayern;600 bis 799 Betten;7;965.8571;3.1286;0.4817;0.0152;09;b0799 
+2;09_Bayern;800 bis 999 Betten;4;1145.25;2.45;0.4978;0.0087;09;b0999 
+2;09_Bayern;1000 Betten und mehr;-999;-999.00;-999.00;-999.00;-9.99;09;b1000+
+2;09_Bayern;Ohne Angabe;0;0.00;0.00;0.00;0.00;09;oA    
+2;10_Saarland;bis 49 Betten;0;0.00;0.00;0.00;0.00;10;b0049 
+2;10_Saarland;50 bis 99 Betten;0;0.00;0.00;0.00;0.00;10;b0099 
+2;10_Saarland;100 bis 149 Betten;-999;-999.00;-999.00;-999.00;-9.99;10;b0149 
+2;10_Saarland;150 bis 199 Betten;4;705.00;3.70;0.51;0.0195;10;b0199 
+2;10_Saarland;200 bis 249 Betten;-999;-999.00;-999.00;-999.00;-9.99;10;b0249 
+2;10_Saarland;250 bis 299 Betten;-999;-999.00;-999.00;-999.00;-9.99;10;b0299 
+2;10_Saarland;300 bis 399 Betten;2;235.00;10.15;3.8265;0.0021;10;b0399 
+2;10_Saarland;400 bis 499 Betten;2;352.00;2.10;0.4075;0.0071;10;b0499 
+2;10_Saarland;500 bis 599 Betten;0;0.00;0.00;0.00;0.00;10;b0599 
+2;10_Saarland;600 bis 799 Betten;0;0.00;0.00;0.00;0.00;10;b0799 
+2;10_Saarland;800 bis 999 Betten;0;0.00;0.00;0.00;0.00;10;b0999 
+2;10_Saarland;1000 Betten und mehr;0;0.00;0.00;0.00;0.00;10;b1000+
+2;10_Saarland;Ohne Angabe;0;0.00;0.00;0.00;0.00;10;oA    
+2;11_Berlin;bis 49 Betten;2;1253.50;3.45;0.7945;0.006;11;b0049 
+2;11_Berlin;50 bis 99 Betten;-999;-999.00;-999.00;-999.00;-9.99;11;b0099 
+2;11_Berlin;100 bis 149 Betten;0;0.00;0.00;0.00;0.00;11;b0149 
+2;11_Berlin;150 bis 199 Betten;0;0.00;0.00;0.00;0.00;11;b0199 
+2;11_Berlin;200 bis 249 Betten;2;169.00;3.70;0.994;0.0059;11;b0249 
+2;11_Berlin;250 bis 299 Betten;-999;-999.00;-999.00;-999.00;-9.99;11;b0299 
+2;11_Berlin;300 bis 399 Betten;0;0.00;0.00;0.00;0.00;11;b0399 
+2;11_Berlin;400 bis 499 Betten;-999;-999.00;-999.00;-999.00;-9.99;11;b0499 
+2;11_Berlin;500 bis 599 Betten;-999;-999.00;-999.00;-999.00;-9.99;11;b0599 
+2;11_Berlin;600 bis 799 Betten;0;0.00;0.00;0.00;0.00;11;b0799 
+2;11_Berlin;800 bis 999 Betten;0;0.00;0.00;0.00;0.00;11;b0999 
+2;11_Berlin;1000 Betten und mehr;-999;-999.00;-999.00;-999.00;-9.99;11;b1000+
+2;11_Berlin;Ohne Angabe;0;0.00;0.00;0.00;0.00;11;oA    
+2;12_Brandenburg;bis 49 Betten;0;0.00;0.00;0.00;0.00;12;b0049 
+2;12_Brandenburg;50 bis 99 Betten;0;0.00;0.00;0.00;0.00;12;b0099 
+2;12_Brandenburg;100 bis 149 Betten;2;170.00;4.40;0.5515;0.0118;12;b0149 
+2;12_Brandenburg;150 bis 199 Betten;0;0.00;0.00;0.00;0.00;12;b0199 
+2;12_Brandenburg;200 bis 249 Betten;0;0.00;0.00;0.00;0.00;12;b0249 
+2;12_Brandenburg;250 bis 299 Betten;0;0.00;0.00;0.00;0.00;12;b0299 
+2;12_Brandenburg;300 bis 399 Betten;0;0.00;0.00;0.00;0.00;12;b0399 
+2;12_Brandenburg;400 bis 499 Betten;3;200.3333;4.1333;0.548;0.0083;12;b0499 
+2;12_Brandenburg;500 bis 599 Betten;0;0.00;0.00;0.00;0.00;12;b0599 
+2;12_Brandenburg;600 bis 799 Betten;0;0.00;0.00;0.00;0.00;12;b0799 
+2;12_Brandenburg;800 bis 999 Betten;0;0.00;0.00;0.00;0.00;12;b0999 
+2;12_Brandenburg;1000 Betten und mehr;0;0.00;0.00;0.00;0.00;12;b1000+
+2;12_Brandenburg;Ohne Angabe;0;0.00;0.00;0.00;0.00;12;oA    
+2;13_Mecklenburg-Vorpommern;bis 49 Betten;0;0.00;0.00;0.00;0.00;13;b0049 
+2;13_Mecklenburg-Vorpommern;50 bis 99 Betten;-999;-999.00;-999.00;-999.00;-9.99;13;b0099 
+2;13_Mecklenburg-Vorpommern;100 bis 149 Betten;0;0.00;0.00;0.00;0.00;13;b0149 
+2;13_Mecklenburg-Vorpommern;150 bis 199 Betten;2;104.50;4.15;0.5205;0.00;13;b0199 
+2;13_Mecklenburg-Vorpommern;200 bis 249 Betten;2;585.50;2.90;0.5955;0.006;13;b0249 
+2;13_Mecklenburg-Vorpommern;250 bis 299 Betten;0;0.00;0.00;0.00;0.00;13;b0299 
+2;13_Mecklenburg-Vorpommern;300 bis 399 Betten;0;0.00;0.00;0.00;0.00;13;b0399 
+2;13_Mecklenburg-Vorpommern;400 bis 499 Betten;-999;-999.00;-999.00;-999.00;-9.99;13;b0499 
+2;13_Mecklenburg-Vorpommern;500 bis 599 Betten;0;0.00;0.00;0.00;0.00;13;b0599 
+2;13_Mecklenburg-Vorpommern;600 bis 799 Betten;0;0.00;0.00;0.00;0.00;13;b0799 
+2;13_Mecklenburg-Vorpommern;800 bis 999 Betten;-999;-999.00;-999.00;-999.00;-9.99;13;b0999 
+2;13_Mecklenburg-Vorpommern;1000 Betten und mehr;0;0.00;0.00;0.00;0.00;13;b1000+
+2;13_Mecklenburg-Vorpommern;Ohne Angabe;0;0.00;0.00;0.00;0.00;13;oA    
+2;14_Sachsen;bis 49 Betten;0;0.00;0.00;0.00;0.00;14;b0049 
+2;14_Sachsen;50 bis 99 Betten;3;361.6667;9.3667;0.6593;0.0009;14;b0099 
+2;14_Sachsen;100 bis 149 Betten;0;0.00;0.00;0.00;0.00;14;b0149 
+2;14_Sachsen;150 bis 199 Betten;3;209.3333;5.50;0.7893;0.00;14;b0199 
+2;14_Sachsen;200 bis 249 Betten;4;445.50;6.90;1.0925;0.0006;14;b0249 
+2;14_Sachsen;250 bis 299 Betten;5;587.80;5.20;0.7702;0.0065;14;b0299 
+2;14_Sachsen;300 bis 399 Betten;6;86.50;3.0667;0.5648;0.0116;14;b0399 
+2;14_Sachsen;400 bis 499 Betten;3;170.00;2.2333;0.4317;0.002;14;b0499 
+2;14_Sachsen;500 bis 599 Betten;-999;-999.00;-999.00;-999.00;-9.99;14;b0599 
+2;14_Sachsen;600 bis 799 Betten;0;0.00;0.00;0.00;0.00;14;b0799 
+2;14_Sachsen;800 bis 999 Betten;2;196.00;6.30;0.7655;0.0077;14;b0999 
+2;14_Sachsen;1000 Betten und mehr;-999;-999.00;-999.00;-999.00;-9.99;14;b1000+
+2;14_Sachsen;Ohne Angabe;0;0.00;0.00;0.00;0.00;14;oA    
+2;15_Sachsen-Anhalt;bis 49 Betten;-999;-999.00;-999.00;-999.00;-9.99;15;b0049 
+2;15_Sachsen-Anhalt;50 bis 99 Betten;0;0.00;0.00;0.00;0.00;15;b0099 
+2;15_Sachsen-Anhalt;100 bis 149 Betten;2;315.00;2.20;0.459;0.00;15;b0149 
+2;15_Sachsen-Anhalt;150 bis 199 Betten;-999;-999.00;-999.00;-999.00;-9.99;15;b0199 
+2;15_Sachsen-Anhalt;200 bis 249 Betten;-999;-999.00;-999.00;-999.00;-9.99;15;b0249 
+2;15_Sachsen-Anhalt;250 bis 299 Betten;3;188.6667;1.6667;0.4277;0.0035;15;b0299 
+2;15_Sachsen-Anhalt;300 bis 399 Betten;0;0.00;0.00;0.00;0.00;15;b0399 
+2;15_Sachsen-Anhalt;400 bis 499 Betten;3;286.3333;3.70;0.6057;0.0058;15;b0499 
+2;15_Sachsen-Anhalt;500 bis 599 Betten;-999;-999.00;-999.00;-999.00;-9.99;15;b0599 
+2;15_Sachsen-Anhalt;600 bis 799 Betten;3;393.6667;3.5333;0.6803;0.0025;15;b0799 
+2;15_Sachsen-Anhalt;800 bis 999 Betten;0;0.00;0.00;0.00;0.00;15;b0999 
+2;15_Sachsen-Anhalt;1000 Betten und mehr;0;0.00;0.00;0.00;0.00;15;b1000+
+2;15_Sachsen-Anhalt;Ohne Angabe;0;0.00;0.00;0.00;0.00;15;oA    
+2;16_Thüringen;bis 49 Betten;0;0.00;0.00;0.00;0.00;16;b0049 
+2;16_Thüringen;50 bis 99 Betten;0;0.00;0.00;0.00;0.00;16;b0099 
+2;16_Thüringen;100 bis 149 Betten;0;0.00;0.00;0.00;0.00;16;b0149 
+2;16_Thüringen;150 bis 199 Betten;-999;-999.00;-999.00;-999.00;-9.99;16;b0199 
+2;16_Thüringen;200 bis 249 Betten;0;0.00;0.00;0.00;0.00;16;b0249 
+2;16_Thüringen;250 bis 299 Betten;0;0.00;0.00;0.00;0.00;16;b0299 
+2;16_Thüringen;300 bis 399 Betten;2;81.00;3.50;0.3795;0.00;16;b0399 
+2;16_Thüringen;400 bis 499 Betten;4;410.25;5.00;0.8068;0.0012;16;b0499 
+2;16_Thüringen;500 bis 599 Betten;0;0.00;0.00;0.00;0.00;16;b0599 
+2;16_Thüringen;600 bis 799 Betten;-999;-999.00;-999.00;-999.00;-9.99;16;b0799 
+2;16_Thüringen;800 bis 999 Betten;0;0.00;0.00;0.00;0.00;16;b0999 
+2;16_Thüringen;1000 Betten und mehr;0;0.00;0.00;0.00;0.00;16;b1000+
+2;16_Thüringen;Ohne Angabe;0;0.00;0.00;0.00;0.00;16;oA    
