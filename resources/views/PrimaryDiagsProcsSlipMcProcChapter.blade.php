@@ -1,7 +1,7 @@
 @extends('welcome')
 
 @section('titel')
-    C-2-1-5a: Vollstationäre Fälle in belegärztl. Versorgung, nach Prozeduren (Kapitel) OPS Version 2014 und Alter, Datenjahr {{$year}}
+    C-2-1-5a: Vollstationäre Fälle in belegärztl. Versorgung, nach Prozeduren (Kapitel) OPS Version {{$year}} und Alter, Datenjahr {{$year}}
 @endsection
 
 @section('content')

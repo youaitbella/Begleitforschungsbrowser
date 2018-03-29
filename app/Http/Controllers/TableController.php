@@ -181,7 +181,7 @@ class tableController extends Controller
                 case 'PrimaryDiagsProcsSlipMcPdChapter':
                     $data = $this->getDataFromCSV('C_1_2abc.csv', $dataYear);
                     $filteredData = $this->filterPrimaryDiagsProc(1,3, $data);
-                    $dataSum = $this->getDataFromCSV('C_114_sum.csv', $dataYear);
+                    $dataSum = $this->getDataFromCSV('C_214_sum.csv', $dataYear);
                     return view('PrimaryDiagsProcsSlipMcPdChapter', [
                         'data' => $filteredData,
                         'dataSum' => $dataSum,
@@ -191,7 +191,7 @@ class tableController extends Controller
                 case 'PrimaryDiagsProcsSlipMcPdGroup':
                     $data = $this->getDataFromCSV('C_1_2abc.csv', $dataYear);
                     $filteredData = $this->filterPrimaryDiagsProc(2,3, $data);
-                    $dataSum = $this->getDataFromCSV('C_114_sum.csv', $dataYear);
+                    $dataSum = $this->getDataFromCSV('C_214_sum.csv', $dataYear);
                     return view('PrimaryDiagsProcsSlipMcPdGroup', [
                         'data' => $filteredData,
                         'dataSum' => $dataSum,
@@ -201,7 +201,7 @@ class tableController extends Controller
                 case 'PrimaryDiagsProcsSlipMcPdCat':
                     $data = $this->getDataFromCSV('C_1_2abc.csv', $dataYear);
                     $filteredData = $this->filterPrimaryDiagsProc(3,3, $data);
-                    $dataSum = $this->getDataFromCSV('C_114_sum.csv', $dataYear);
+                    $dataSum = $this->getDataFromCSV('C_214_sum.csv', $dataYear);
                     return view('PrimaryDiagsProcsSlipMcPdCat', [
                         'data' => $filteredData,
                         'dataSum' => $dataSum,
