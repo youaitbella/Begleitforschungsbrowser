@@ -1,7 +1,7 @@
 @extends('welcome')
 
 @section('titel')
-    C-2-1-2: Vollstationäre Fälle in belegärztl. Versorgung, nach Altersklassen und Geschlecht, Datenjahr {{$year}}
+    C-2-1-3: Vollstationäre Fälle in belegärztl. Versorgung, nach DRG, G-DRG-Version {{$year}}, Datenjahr {{$year}}
 @endsection
 
 @section('content')

@@ -1,7 +1,7 @@
 @extends('welcome')
 
 @section('titel')
-    C-1-2-1: Vollstationäre Versorgung in Hauptabteilungen nach Größenklassen (Bettenzahl)/Bundesland, Datenjahr {{$year}}
+    C-2-2-1: Vollstationäre Versorgung in belegärztl. Versorgung nach Größenklassen (Bettenzahl)/Bundesland, Datenjahr {{$year}}
 @endsection
 
 @section('content')
@@ -53,9 +53,9 @@
                             <tr>
                                 <td>{{$value[2]}}</td>
                                 <td class="text-right">{{number_format(str_replace(',','.',$value[3]), 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[4]), 2, ',', '.')}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[5]), 2, ',', '.')}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[6]), 2, ',', '.')}}</td>
+                                <td class="text-right">{{number_format(str_replace(',','.',$value[4]), 0, ',', '.')}}</td>
+                                <td class="text-right">{{number_format(str_replace(',','.',$value[5]), 1, ',', '.')}}</td>
+                                <td class="text-right">{{number_format(str_replace(',','.',$value[6]), 3, ',', '.')}}</td>
                                 <td class="text-right">{{number_format(str_replace(',','.',$value[7]) * 100, 2, ',', '.') . ' %'}}</td>
                             </tr>
                         @endforeach
@@ -84,9 +84,9 @@
                         @foreach($dataSum as $entry => $value)
                             <tr>
                                 <td class="text-right">{{number_format($value[2], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[3]), 2, ',', '.')}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[4]), 2, ',', '.')}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[5]), 2, ',', '.')}}</td>
+                                <td class="text-right">{{number_format(str_replace(',','.',$value[3]), 0, ',', '.')}}</td>
+                                <td class="text-right">{{number_format(str_replace(',','.',$value[4]), 1, ',', '.')}}</td>
+                                <td class="text-right">{{number_format(str_replace(',','.',$value[5]), 3, ',', '.')}}</td>
                                 <td class="text-right">{{number_format(str_replace(',','.',$value[6]) * 100, 2, ',', '.') . ' %'}}</td>
                             </tr>
                         @endforeach

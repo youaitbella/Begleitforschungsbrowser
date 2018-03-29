@@ -133,7 +133,7 @@ class tableController extends Controller
                     $data1 = $this->getDataFromCSV('C_122_222.csv', $dataYear);
                     $filteredData1 = $this->filterDataByTwoCol(0,1,1,'A', $data1);
                     $data2 = $this->getDataFromCSV('C_122_222.csv', $dataYear);
-                    $filteredData2 = $this->filterDataByTwoCol(0,1,2,'E', $data2);
+                    $filteredData2 = $this->filterDataByTwoCol(0,1,1,'E', $data2);
                     return view('casesprimarydepartment', [
                         'data1' => $filteredData1,
                         'data2' => $filteredData2,
@@ -299,7 +299,7 @@ class tableController extends Controller
                 case 'CasesSlipMc':
                     $data1 = $this->getDataFromCSV('C_122_222.csv', $dataYear);
                     $data2 = $this->getDataFromCSV('C_122_222.csv', $dataYear);
-                    $filteredData1 = $this->filterDataByTwoCol(0,1,1,'A', $data1);
+                    $filteredData1 = $this->filterDataByTwoCol(0,1,2,'A', $data1);
                     $filteredData2 = $this->filterDataByTwoCol(0,1,2,'E', $data2);
                     return view('CasesSlipMc', [
                         'data1' => $filteredData1,

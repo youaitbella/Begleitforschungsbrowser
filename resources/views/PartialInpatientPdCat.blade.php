@@ -1,7 +1,7 @@
 @extends('welcome')
 
 @section('titel')
-    D-1a: Teilstationäre Fälle, nach Hauptdiagnosen (Kategorie), ICD-10-GM Version {{$year}}, Datenjahr {{$year}}
+    D-1c: Teilstationäre Fälle, nach Hauptdiagnosen (Kategorie - 3-Steller), ICD-10-GM Version {{$year}}, Datenjahr {{$year}}
 @endsection
 
 @section('content')

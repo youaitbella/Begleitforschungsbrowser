@@ -70,7 +70,7 @@
                                 <td>{{$value[3]}}</td>
                                 <td class="text-right">{{number_format($value[4], 0, ',', '.')}}</td>
                                 <td class="text-right">{{number_format(str_replace(',','.',$value[5]), 2, ',', '.')}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[5]), 2, ',', '.')}}</td>
+                                <td class="text-right">{{number_format(str_replace(',','.',$value[6]), 2, ',', '.')}}</td>
                                 <td class="text-right">{{number_format($value[7], 0, ',', '.')}}</td>
                                 <td class="text-right">{{number_format($value[8], 0, ',', '.')}}</td>
                                 <td class="text-right">{{number_format($value[9], 0, ',', '.')}}</td>

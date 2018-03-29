@@ -1,7 +1,7 @@
 @extends('welcome')
 
 @section('titel')
-    C-1-1-5c: Vollstationäre Fälle in Hauptabteilungen, nach Prozeduren (Viersteller) OPS Version {{$year}} und Alter, Datenjahr {{$year}}
+    C-2-1-5c: Vollstationäre Fälle in Hauptabteilungen, nach Prozeduren (Viersteller) OPS Version {{$year}} und Alter, Datenjahr {{$year}}
 @endsection
 
 @section('content')
