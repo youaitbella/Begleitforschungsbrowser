@@ -27,7 +27,7 @@
                             <tr>
                                 <td>{{$value[1]}}</td>
                                 <td>{{$value[2]}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[3]), 3, ',', '.') . ' %'}}</td>
+                                <td class="text-right">{{number_format(str_replace(',','.',$value[3]), 3, ',', '.')}}</td>
                                 <td class="text-right">{{number_format($value[4], 0, ',', '.')}}</td>
                                 <td class="text-right">{{number_format(str_replace(',','.',$value[5]) * 100, 2, ',', '.') . ' %'}}</td>
                             </tr>
