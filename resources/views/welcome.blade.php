@@ -136,15 +136,14 @@
                                                         class="fa fa-angle-left pull-right"></i></span>
                                         </a>
                                         <ul class="treeview-menu"
-                                            @if(Request::is("full/ha/*/$dataYear")) style="display: block;" @endif">
+                                            @if(Request::is("full/ha/*/$dataYear")) style="display: block;" @endif>
                                     <li class="treeview @if(Request::is("full/ha/*/$dataYear")) menu-open active @endif">
                                         <a href="#">Demografische und medizinische Merkmale
                                             <span class="pull-right-container"><i
                                                         class="fa fa-angle-left pull-right"></i></span>
                                         </a>
                                         <ul class="treeview-menu"
-                                            @if(Request::is("full/ha/demo/*/$dataYear"))  style="display: block;" @endif
-                                        ">
+                                            @if(Request::is("full/ha/demo/*/$dataYear"))  style="display: block;" @endif>
                                     <li @if (Request::is("*/characteristicsmdcgender/$dataYear")) class="active" @endif>
                                         <a href="{!! route('full.ha.demo', ['table' => 'characteristicsmdcgender', 'dataYear' => $dataYear]) !!}">nach
                                             MDC und Geschlecht</a></li>
