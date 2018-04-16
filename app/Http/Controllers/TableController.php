@@ -135,8 +135,8 @@ class tableController extends Controller
                     $data2 = $this->getDataFromCSV('C_122_222.csv', $dataYear);
                     $filteredData2 = $this->filterDataByTwoCol(0,1,1,'E', $data2);
                     return view('casesprimarydepartment', [
-                        'data1' => $filteredData1,
-                        'data2' => $filteredData2,
+                        'data1' => array_sort($filteredData1, 4),
+                        'data2' => array_sort($filteredData2, 4),
                         'year' => $dataYear
                     ]);
                     break;
@@ -163,7 +163,7 @@ class tableController extends Controller
                     $filteredData = $this->filterDataByCol(0,2, $data);
                     $dataSum = $this->getDataFromCSV('C_212_sum.csv', $dataYear);
                     return view('SlipMcAgeGender', [
-                        'data' => $filteredData,
+                        'data' => $this->array_sort($filteredData, 9),
                         'dataSum' => $dataSum,
                         'year' => $dataYear
                     ]);
@@ -302,8 +302,8 @@ class tableController extends Controller
                     $filteredData1 = $this->filterDataByTwoCol(0,1,2,'A', $data1);
                     $filteredData2 = $this->filterDataByTwoCol(0,1,2,'E', $data2);
                     return view('CasesSlipMc', [
-                        'data1' => $filteredData1,
-                        'data2' => $filteredData2,
+                        'data1' => array_sort($filteredData1, 4),
+                        'data2' => array_sort($filteredData2, 4),
                         'year' => $dataYear
                     ]);
                     break;
@@ -498,7 +498,10 @@ class tableController extends Controller
         return $data;
     }
 
-    public function array_sort($array, $col, $sort_ascending=true)     {
+    public function array_sort($array, $col, $sort_ascending=true) {
+
+        if (!count($array)) return $array;
+
         if (count($array))
                 $temp_array[key($array)] = array_shift($array);
 

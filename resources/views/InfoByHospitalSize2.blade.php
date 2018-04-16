@@ -96,7 +96,7 @@
                     <h5>Stundenfälle: Fälle mit identischem Aufnahme- und Entlassungsdatum</h5>
                     <h5>ohne Mischfälle (Versorgung in Hauptabteilung und belegärztlicher Versorgung)</h5>
                     <h5>ohne zusätzliche Prüfung auf Umsetzung der Regelungen zur Fallzusammenführung</h5>
-                    <h5>Spalten mttl. Vwd. KH und mittl. CMI KH: jeweils ungewichtete arithmetische Mittelwerte)</h5>
+                    <h5>Spalten mittl. Vwd. KH und mittl. CMI KH: jeweils ungewichtete arithmetische Mittelwerte</h5>
                 </div>
             </div>
         </div>
@@ -111,6 +111,7 @@
                 'ordering': false,
                 'info': false,
                 'autoWidth': true,
+                'scrollX': true,
                 "language": {
                     "sEmptyTable": "Keine Daten in der Tabelle vorhanden",
                     "sLoadingRecords": "Wird geladen...",

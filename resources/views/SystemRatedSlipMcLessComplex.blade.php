@@ -53,14 +53,15 @@
                         @foreach($dataSum as $entry => $value)
                             <tr>
                                 <td class="text-right">{{number_format($value[0], 0, ',', '.')}}</td>
-                                <td class="text-right">{{str_replace(',','.',$value[1]) * 100 . ' %'}}</td>
+                                <td class="text-right">{{number_format(str_replace(',','.',$value[1]) * 100, 2, ',', '.') . ' %'}}</td>
                             </tr>
                         @endforeach
                         </tbody>
                     </table>
                     </div>
                     <h5>ohne Mischfälle (Versorgung in Hauptabteilung und belegärztlicher Versorgung)</h5>
-                    <h5>Spalte "Anteil": Bezogen auf Gesamt-Fallzahl bei Versorgung in Hauptabteilungen ohne 1-Belegungstag-DRGs</h5>
+                    <h5>Spalte "Anteil": Bezogen auf Gesamt-Fallzahl bei Versorgung in Belegabteilung</h5>
+                    <h5>ohne 1-Belegungstag-DRGs</h5>
                 </div>
             </div>
         </div>
@@ -76,6 +77,7 @@
                 'info': false,
                 'autoWidth': true,
                 'aaSorting': [],
+                'scrollX': true,
                 "language": {
                     "sEmptyTable": "Keine Daten in der Tabelle vorhanden",
                     "sLoadingRecords": "Wird geladen...",

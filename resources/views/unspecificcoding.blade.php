@@ -57,6 +57,7 @@
                 'ordering': true,
                 'info': false,
                 'autoWidth': true,
+                'scrollX': true,
                 "language": {
                     "sEmptyTable": "Keine Daten in der Tabelle vorhanden",
                     "sLoadingRecords": "Wird geladen...",

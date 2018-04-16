@@ -1,7 +1,7 @@
 @extends('welcome')
 
 @section('titel')
-    C-1-1-4b: Vollstationäre Fälle in Hauptabteilungen, nach Hauptdiagnosen (Gruppe) ICD-10-GM Version {{$year}}, Datenjahr {{$year}}
+    C-1-1-4c: Vollstationäre Fälle in Hauptabteilungen, nach Hauptdiagnosen (Kategorie) ICD-10-GM Version {{$year}}, Datenjahr {{$year}}
 @endsection
 
 @section('content')
@@ -235,6 +235,8 @@
                 'searching': true,
                 'ordering': true,
                 'info': false,
+                "pageLength": 10,
+                "lengthMenu": [5, 10, 25, 50, 100],
                 'autoWidth': false,
                 'scrollX': true,
                 "language": {

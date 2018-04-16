@@ -12,7 +12,7 @@
                 <div class="box-header">
                 </div>
                 <div class="box-body">
-                    Benutzen Sie das Menü auf der linken Seite, um sich die Daten anzuschauen.
+                    Benutzen Sie das Menü auf der linken Seite, um die Daten anzuschauen.
                 </div>
             </div>
         </div>

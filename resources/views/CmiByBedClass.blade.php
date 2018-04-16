@@ -73,8 +73,9 @@
                 'info': false,
                 'autoWidth': true,
                 'aaSorting': [],
+                'scrollX': true,
                 "language": {
-                    "sEmptyTable": "Keine Daten in der Tabelle vorhanden",
+                    "sEmptyTable": "Keine Datenangabe",
                     "sLoadingRecords": "Wird geladen...",
                     "sProcessing": "Bitte warten...",
                     "sSearch": "Suchen",

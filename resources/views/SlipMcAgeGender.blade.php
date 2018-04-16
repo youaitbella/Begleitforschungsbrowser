@@ -89,6 +89,10 @@
                 'ordering': true,
                 'info': false,
                 'autoWidth': true,
+                'aaSorting': [],
+                "pageLength": 10,
+                "lengthMenu": [5, 10, 25, 50, 100],
+                'scrollX': true,
                 "language": {
                     "sEmptyTable": "Keine Daten in der Tabelle vorhanden",
                     "sLoadingRecords": "Wird geladen...",
@@ -114,6 +118,7 @@
                 'ordering': false,
                 'info': false,
                 'autoWidth': false,
+                'scrollX': true,
                 "language": {
                     "sEmptyTable": "Keine Daten in der Tabelle vorhanden",
                     "sLoadingRecords": "Wird geladen...",

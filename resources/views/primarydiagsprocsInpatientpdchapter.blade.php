@@ -235,6 +235,8 @@
                 'ordering': true,
                 'info': false,
                 'autoWidth': false,
+                "pageLength": 10,
+                "lengthMenu": [5, 10, 25, 50, 100],
                 'scrollX': true,
                 "language": {
                     "sEmptyTable": "Keine Daten in der Tabelle vorhanden",

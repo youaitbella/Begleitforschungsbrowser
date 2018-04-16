@@ -24,11 +24,6 @@
     <!-- Pace style -->
     <link rel="stylesheet" href="/plugins/pace/pace.min.css">
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 
     <!-- jQuery 3 -->
     <script src="/bower_components/jquery/dist/jquery.min.js"></script>
@@ -42,7 +37,11 @@
     <script src="/bower_components/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
     <!-- PACE -->
     <script src="/bower_components/PACE/pace.min.js"></script>
-    <!--[endif]-->
+
+    <!-- Fixes Haeders -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/fixedheader/3.1.3/css/fixedHeader.dataTables.min.css">
+    <script src="https://cdn.datatables.net/fixedheader/3.1.3/js/dataTables.fixedHeader.min.js"></script>
+
 
     <!-- Google Font -->
     <link rel="stylesheet"
@@ -136,8 +135,8 @@
                                                         class="fa fa-angle-left pull-right"></i></span>
                                         </a>
                                         <ul class="treeview-menu"
-                                            @if(Request::is("full/ha/*/$dataYear")) style="display: block;" @endif>
-                                    <li class="treeview @if(Request::is("full/ha/*/$dataYear")) menu-open active @endif">
+                                            @if(Request::is("full/ha/demo/*/$dataYear")) style="display: block;" @endif>
+                                    <li class="treeview @if(Request::is("full/ha/demo/*/$dataYear")) menu-open active @endif">
                                         <a href="#">Demografische und medizinische Merkmale
                                             <span class="pull-right-container"><i
                                                         class="fa fa-angle-left pull-right"></i></span>
@@ -191,7 +190,7 @@
                                     </li>
                                 </ul>
                             </li>
-                            <li class="treeview @if(Request::is("full/ha/kh/main/*/$dataYear")) menu-open active @endif">
+                            <li class="treeview @if(Request::is("full/ha/kh/*/$dataYear")) menu-open active @endif">
                                 <a href="#">Versorgung im Krankenhaus
                                     <span class="pull-right-container"><i
                                                 class="fa fa-angle-left pull-right"></i></span>
@@ -200,7 +199,7 @@
                                     @if(Request::is("full/ha/kh/*/$dataYear"))  style="display: block;" @endif>
                                     <li @if (Request::is("*/InfoByHospitalSize/$dataYear")) class="active" @endif><a
                                                 href="{!! route('full.ha.kh', ['table' => 'InfoByHospitalSize', 'dataYear' => $dataYear, 'bl' => 0]) !!}">Fallzahl,
-                                            VMD, CMI nach Größe (Betten) / Bundesland</a></li>
+                                            VWD, CMI nach Größe (Betten) / Bundesland</a></li>
                                     <li @if (Request::is("*/casesprimarydepartment/$dataYear")) class="active" @endif><a
                                                 href="{!! route('full.ha.kh', ['table' => 'casesprimarydepartment', 'dataYear' => $dataYear]) !!}">Aufnahmeanlass
                                             und Entlassungs-/ Verlegegrund</a></li>
@@ -212,7 +211,7 @@
                         </ul>
                     </li>
                     <li class="treeview @if(Request::is("full/bv/*/$dataYear")) menu-open active @endif">
-                        <a href="#">Belegärtzliche Versorgung
+                        <a href="#">Belegärztliche Versorgung
                             <span class="pull-right-container"><i class="fa fa-angle-left pull-right"></i></span>
                         </a>
                         <ul class="treeview-menu"
@@ -280,7 +279,7 @@
                                     @if(Request::is("full/bv/kh/*/$dataYear"))  style="display: block;" @endif>
                                     <li @if (Request::is("*/InfoByHospitalSize2/$dataYear")) class="active" @endif><a
                                                 href="{!! route('full.bv.kh', ['table' => 'InfoByHospitalSize2', 'dataYear' => $dataYear, 'bl' => 0]) !!}">Fallzahl,
-                                            VMD, CMI nach Größe (Betten) / Bundesland</a></li>
+                                            VWD, CMI nach Größe (Betten) / Bundesland</a></li>
                                     <li @if (Request::is("*/CasesSlipMc/$dataYear")) class="active" @endif><a
                                                 href="{!! route('full.bv.kh', ['table' => 'CasesSlipMc', 'dataYear' => $dataYear]) !!}">Aufnahmeanlass
                                             und Entlassungs-/ Verlegegrund</a></li>
@@ -358,7 +357,7 @@
                         </ul>
                     </li>
                     <li class="treeview @if(Request::is("gdrg/bv/*/$dataYear")) menu-open active @endif">
-                        <a href="#">belegärtzliche Versorgung
+                        <a href="#">belegärztliche Versorgung
                             <span class="pull-right-container"><i class="fa fa-angle-left pull-right"></i></span>
                         </a>
                         <ul class="treeview-menu"

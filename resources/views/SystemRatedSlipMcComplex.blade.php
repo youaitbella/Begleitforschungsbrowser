@@ -60,7 +60,8 @@
                     </table>
                     </div>
                     <h5>ohne Mischfälle (Versorgung in Hauptabteilung und belegärztlicher Versorgung)</h5>
-                    <h5>Spalte "Anteil": Bezogen auf Gesamt-Fallzahl bei Versorgung in Hauptabteilungen ohne 1-Belegungstag-DRGs</h5>
+                    <h5>Spalte "Anteil": Bezogen auf Gesamt-Fallzahl bei Versorgung in Belegabteilung</h5>
+                    <h5>ohne 1-Belegungstag-DRGs</h5>
                 </div>
             </div>
         </div>
@@ -76,6 +77,7 @@
                 'info': false,
                 'autoWidth': true,
                 'aaSorting': [],
+                'scrollX': true,
                 "language": {
                     "sEmptyTable": "Keine Daten in der Tabelle vorhanden",
                     "sLoadingRecords": "Wird geladen...",

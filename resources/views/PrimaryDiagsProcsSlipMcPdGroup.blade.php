@@ -234,6 +234,8 @@
                 'lengthChange': true,
                 'searching': true,
                 'ordering': true,
+                "pageLength": 10,
+                "lengthMenu": [5, 10, 25, 50, 100],
                 'info': false,
                 'autoWidth': false,
                 'scrollX': true,
