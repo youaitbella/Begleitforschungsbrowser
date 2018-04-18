@@ -128,7 +128,6 @@
                 'ordering': false,
                 'info': false,
                 'autoWidth': false,
-                'scrollX': true,
                 "language": {
                     "sEmptyTable": "Keine Daten in der Tabelle vorhanden",
                     "sLoadingRecords": "Wird geladen...",

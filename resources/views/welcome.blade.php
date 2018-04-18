@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="shortcut icon" href="img/logo1.ico"/>
     <title>Begleitforschungsbrowser</title>
 
     <!-- Tell the browser to be responsive to screen width -->
