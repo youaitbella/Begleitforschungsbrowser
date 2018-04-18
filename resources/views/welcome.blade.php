@@ -55,7 +55,7 @@
         <a href="http://g-drg.de" class="logo">
             <!-- mini logo for sidebar mini 50x50 pixels -->
             <img src="/InEK_Logo.gif">
-            <span>InEK GmBH</span>
+            <span>InEK GmbH</span>
         </a>
         <!-- Header Navbar: style can be found in header.less -->
         <nav class="navbar">
@@ -81,6 +81,7 @@
             </span>
                         </a>
                         <ul class="treeview-menu" @if(Request::is("*/$dataYear*")) style="display: block;" @endif>
+                            <li><a href="{!! route('download.manual', ['dataYear' => $dataYear]) !!}">Download Handbuch {{$dataYear}}</a></li>
                             <!-- Datenbasis -->
                             <li class="treeview @if(Request::is("database/participation/$dataYear")) menu-open active @endif">
                                 <a href="#">Datenbasis
@@ -377,7 +378,7 @@
             </li>
             <!-- End G-DRG-System -->
             <!-- Download -->
-            <li><a href="{!! route('download.manual', ['dataYear' => $dataYear]) !!}">Download Handbuch {{$dataYear}}</a></li>
+
             <li><a href="{!! route('download.data', ['dataYear' => $dataYear]) !!}">Download Daten {{$dataYear}}</a></li>
             <!-- End Download -->
             </ul>

@@ -29,12 +29,13 @@ Route::middleware(['AgreementController'])->group(function() {
     Route::get('/gdrg/ha/{table}/{dataYear}', 'TableController@getTable')->name('gdrg.ha');
     Route::get('/gdrg/bv/{table}/{dataYear}', 'TableController@getTable')->name('gdrg.bv');
 
-    Route::get('download/manual/{dataYear}', 'DownloadController@downloadManual')->name('download.manual');
+
     Route::get('download/data/{dataYear}', 'DownloadController@downloadData')->name('download.data');
 
     Route::get('/', 'AgreementController@index');
 });
 
+Route::get('download/manual/{dataYear}', 'DownloadController@downloadManual')->name('download.manual');
 Route::get('/agreement', 'AgreementController@getAgreemend')->name('agree');
 Route::post('/agreement', 'AgreementController@agree');
 Route::get('/error404', 'ErrorController@get404')->name('404');

@@ -4,6 +4,7 @@
  */
 .skin-green-light .main-header .navbar {
   background-color: #043358;
+  font-size: 14px;
 }
 .skin-green-light .main-header .navbar .nav > li > a {
   color: #ffffff;

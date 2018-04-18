@@ -489,7 +489,7 @@ class tableController extends Controller
     }
 
     public function getDataFromCSV($csv, $dataYear) {
-        $csvFile = file('content\\' . strval($dataYear) . '\\' . $csv);
+        $csvFile = file('content/' . strval($dataYear) . '/' . $csv);
         $data = [];
         foreach ($csvFile as $line) {
             $data[] = str_getcsv($line, ';');
