@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="shortcut icon" href="img/logo1.ico"/>
+    <link rel="shortcut icon" href="/img/inek_logo.jpg"/>
     <title>Begleitforschungsbrowser</title>
 
     <!-- Tell the browser to be responsive to screen width -->
@@ -55,13 +55,19 @@
         <!-- Logo -->
         <a href="http://g-drg.de" class="logo">
             <!-- mini logo for sidebar mini 50x50 pixels -->
-            <img src="/InEK_Logo.gif">
+            <span class="logo-mini">InEK</span>
+            <!-- logo for regular state and mobile devices -->
+            <img src="/img/inek_logo.jpg">
             <span>InEK GmbH</span>
+
+            <!-- mini logo for sidebar mini 50x50 pixels
+            <img src="/img/inek_logo.jpg">
+            <span>InEK GmbH</span>-->
         </a>
         <!-- Header Navbar: style can be found in header.less -->
         <nav class="navbar">
             <a href="#" class="sidebar-toggle" data-toggle="push-menu" role="button">
-                <span class="sr-only">Toggle navigation</span>
+                <span class="sr-only">Menü verkleinern</span>
             </a>
             <span style="font-size: 35px; color: #ffffff">G-DRG-Begleitforschungsbrowser</span>
         </nav>
