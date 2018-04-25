@@ -412,10 +412,10 @@
     </div>
     <!-- /.content-wrapper -->
     <footer class="main-footer">
-        @section('footer')
-            <h5>© InEK GmbH - Institut für das Entgeltsystem im Krankenhaus 2010 - 2018 - G-DRG-Begleitforschungsbrowser</h5>
-        @show
-
+        <div class="pull-right hidden-xs">
+            <h5>Version 2018.0.1</h5>
+        </div>
+            <h5>© InEK GmbH - Institut für das Entgeltsystem im Krankenhaus 2010 - 2018 - G-DRG-Begleitforschungsbrowser </h5>
     </footer>
 </div>
 <script type="text/javascript">
