@@ -26,7 +26,7 @@
                             <tr>
                                 <td>{{$value[0]}}</td>
                                 <td class="text-right">{{$value[1]}}</td>
-                                <td class="text-right">{{number_format($value[2], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[2]}}" class="text-right">{{number_format($value[2], 0, ',', '.')}}</td>
                             </tr>
                         @endforeach
                         </tbody>

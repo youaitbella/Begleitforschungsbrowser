@@ -52,11 +52,11 @@
                         @foreach($data as $entry => $value)
                             <tr>
                                 <td>{{$value[2]}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[3]), 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[4]), 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[5]), 1, ',', '.')}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[6]), 3, ',', '.')}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[7]) * 100, 2, ',', '.') . ' %'}}</td>
+                                <td data-sort="{{$value[3]}}" class="text-right">{{number_format(str_replace(',','.',$value[3]), 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[4]}}" class="text-right">{{number_format(str_replace(',','.',$value[4]), 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[5]}}" class="text-right">{{number_format(str_replace(',','.',$value[5]), 1, ',', '.')}}</td>
+                                <td data-sort="{{$value[6]}}" class="text-right">{{number_format(str_replace(',','.',$value[6]), 3, ',', '.')}}</td>
+                                <td data-sort="{{$value[7]}}" class="text-right">{{number_format(str_replace(',','.',$value[7]) * 100, 2, ',', '.') . ' %'}}</td>
                             </tr>
                         @endforeach
                         </tbody>

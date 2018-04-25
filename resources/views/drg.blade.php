@@ -32,13 +32,13 @@
                             <tr>
                                 <td>{{$value[1]}}</td>
                                 <td>{{$value[2]}}</td>
-                                <td class="text-right">{{number_format($value[3], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[4]), 2, ',', '.')}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[5]), 2, ',', '.')}}</td>
-                                <td class="text-right">{{number_format($value[6], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format($value[8], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[7]) * 100, 2, ',', '.') . ' %'}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[9]) * 100, 2, ',', '.') . ' %'}}</td>
+                                <td data-sort="{{$value[3]}}" class="text-right">{{number_format($value[3], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[4]}}" class="text-right">{{number_format(str_replace(',','.',$value[4]), 2, ',', '.')}}</td>
+                                <td data-sort="{{$value[5]}}" class="text-right">{{number_format(str_replace(',','.',$value[5]), 2, ',', '.')}}</td>
+                                <td data-sort="{{$value[6]}}" class="text-right">{{number_format($value[6], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[8]}}" class="text-right">{{number_format($value[8], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[7]}}" class="text-right">{{number_format(str_replace(',','.',$value[7]) * 100, 2, ',', '.') . ' %'}}</td>
+                                <td data-sort="{{$value[9]}}" class="text-right">{{number_format(str_replace(',','.',$value[9]) * 100, 2, ',', '.') . ' %'}}</td>
                             </tr>
                         @endforeach
                         </tbody>

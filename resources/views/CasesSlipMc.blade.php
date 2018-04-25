@@ -25,7 +25,7 @@
                         @foreach($data1 as $entry => $value)
                             <tr>
                                 <td>{{$value[2]}}</td>
-                                <td class="text-right">{{number_format($value[3], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[3]}}" class="text-right">{{number_format($value[3], 0, ',', '.')}}</td>
                             </tr>
                         @endforeach
                         </tbody>
@@ -50,7 +50,7 @@
                         @foreach($data2 as $entry => $value)
                             <tr>
                                 <td>{{$value[2]}}</td>
-                                <td class="text-right">{{number_format($value[3], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[3]}}" class="text-right">{{number_format($value[3], 0, ',', '.')}}</td>
                             </tr>
                         @endforeach
                         </tbody>

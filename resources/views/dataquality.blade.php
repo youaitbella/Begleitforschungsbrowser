@@ -26,8 +26,8 @@
                         @foreach($data as $entry => $value)
                             <tr>
                                 <td>{{$value[0]}}</td>
-                                <td class="text-right">{{number_format($value[1], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[2]) * 100, 2, ',', '.') . ' %'}}</td>
+                                <td data-sort="{{$value[1]}}" class="text-right">{{number_format($value[1], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[2]}}" class="text-right">{{number_format(str_replace(',','.',$value[2]) * 100, 2, ',', '.') . ' %'}}</td>
                             </tr>
                         @endforeach
                         </tbody>

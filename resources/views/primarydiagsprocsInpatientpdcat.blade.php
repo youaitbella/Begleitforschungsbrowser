@@ -68,49 +68,49 @@
                             <tr>
                                 <td>{{$value[2]}}</td>
                                 <td>{{$value[3]}}</td>
-                                <td class="text-right">{{number_format($value[4], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[5]), 2, ',', '.')}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[6]), 2, ',', '.')}}</td>
-                                <td class="text-right">{{number_format($value[7], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format($value[8], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format($value[9], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format($value[10], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format($value[11], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format($value[12], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format($value[13], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format($value[14], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format($value[15], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format($value[16], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format($value[17], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format($value[18], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format($value[19], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format($value[20], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format($value[21], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format($value[22], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format($value[23], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format($value[24], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format($value[25], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format($value[26], 0, ',', '.')}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[27]) * 100, 2, ',', '.') . ' %'}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[28]) * 100, 2, ',', '.') . ' %'}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[29]) * 100, 2, ',', '.') . ' %'}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[30]) * 100, 2, ',', '.') . ' %'}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[31]) * 100, 2, ',', '.') . ' %'}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[32]) * 100, 2, ',', '.') . ' %'}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[33]) * 100, 2, ',', '.') . ' %'}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[34]) * 100, 2, ',', '.') . ' %'}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[35]) * 100, 2, ',', '.') . ' %'}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[36]) * 100, 2, ',', '.') . ' %'}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[37]) * 100, 2, ',', '.') . ' %'}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[38]) * 100, 2, ',', '.') . ' %'}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[39]) * 100, 2, ',', '.') . ' %'}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[40]) * 100, 2, ',', '.') . ' %'}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[41]) * 100, 2, ',', '.') . ' %'}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[42]) * 100, 2, ',', '.') . ' %'}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[43]) * 100, 2, ',', '.') . ' %'}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[44]) * 100, 2, ',', '.') . ' %'}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[45]) * 100, 2, ',', '.') . ' %'}}</td>
-                                <td class="text-right">{{number_format(str_replace(',','.',$value[46]) * 100, 2, ',', '.') . ' %'}}</td>
+                                <td data-sort="{{$value[4]}}" class="text-right">{{number_format($value[4], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[5]}}" class="text-right">{{number_format(str_replace(',','.',$value[5]), 2, ',', '.')}}</td>
+                                <td data-sort="{{$value[6]}}" class="text-right">{{number_format(str_replace(',','.',$value[6]), 2, ',', '.')}}</td>
+                                <td data-sort="{{$value[7]}}" class="text-right">{{number_format($value[7], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[8]}}" class="text-right">{{number_format($value[8], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[9]}}" class="text-right">{{number_format($value[9], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[10]}}" class="text-right">{{number_format($value[10], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[11]}}" class="text-right">{{number_format($value[11], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[12]}}" class="text-right">{{number_format($value[12], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[13]}}" class="text-right">{{number_format($value[13], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[14]}}" class="text-right">{{number_format($value[14], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[15]}}" class="text-right">{{number_format($value[15], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[16]}}" class="text-right">{{number_format($value[16], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[17]}}" class="text-right">{{number_format($value[17], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[18]}}" class="text-right">{{number_format($value[18], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[19]}}" class="text-right">{{number_format($value[19], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[20]}}" class="text-right">{{number_format($value[20], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[21]}}" class="text-right">{{number_format($value[21], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[22]}}" class="text-right">{{number_format($value[22], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[23]}}" class="text-right">{{number_format($value[23], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[24]}}" class="text-right">{{number_format($value[24], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[25]}}" class="text-right">{{number_format($value[25], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[26]}}" class="text-right">{{number_format($value[26], 0, ',', '.')}}</td>
+                                <td data-sort="{{$value[27]}}" class="text-right">{{number_format(str_replace(',','.',$value[27]) * 100, 2, ',', '.') . ' %'}}</td>
+                                <td data-sort="{{$value[28]}}" class="text-right">{{number_format(str_replace(',','.',$value[28]) * 100, 2, ',', '.') . ' %'}}</td>
+                                <td data-sort="{{$value[29]}}" class="text-right">{{number_format(str_replace(',','.',$value[29]) * 100, 2, ',', '.') . ' %'}}</td>
+                                <td data-sort="{{$value[30]}}" class="text-right">{{number_format(str_replace(',','.',$value[30]) * 100, 2, ',', '.') . ' %'}}</td>
+                                <td data-sort="{{$value[31]}}" class="text-right">{{number_format(str_replace(',','.',$value[31]) * 100, 2, ',', '.') . ' %'}}</td>
+                                <td data-sort="{{$value[32]}}" class="text-right">{{number_format(str_replace(',','.',$value[32]) * 100, 2, ',', '.') . ' %'}}</td>
+                                <td data-sort="{{$value[33]}}" class="text-right">{{number_format(str_replace(',','.',$value[33]) * 100, 2, ',', '.') . ' %'}}</td>
+                                <td data-sort="{{$value[34]}}" class="text-right">{{number_format(str_replace(',','.',$value[34]) * 100, 2, ',', '.') . ' %'}}</td>
+                                <td data-sort="{{$value[35]}}" class="text-right">{{number_format(str_replace(',','.',$value[35]) * 100, 2, ',', '.') . ' %'}}</td>
+                                <td data-sort="{{$value[36]}}" class="text-right">{{number_format(str_replace(',','.',$value[36]) * 100, 2, ',', '.') . ' %'}}</td>
+                                <td data-sort="{{$value[37]}}" class="text-right">{{number_format(str_replace(',','.',$value[37]) * 100, 2, ',', '.') . ' %'}}</td>
+                                <td data-sort="{{$value[38]}}" class="text-right">{{number_format(str_replace(',','.',$value[38]) * 100, 2, ',', '.') . ' %'}}</td>
+                                <td data-sort="{{$value[39]}}" class="text-right">{{number_format(str_replace(',','.',$value[39]) * 100, 2, ',', '.') . ' %'}}</td>
+                                <td data-sort="{{$value[40]}}" class="text-right">{{number_format(str_replace(',','.',$value[40]) * 100, 2, ',', '.') . ' %'}}</td>
+                                <td data-sort="{{$value[41]}}" class="text-right">{{number_format(str_replace(',','.',$value[41]) * 100, 2, ',', '.') . ' %'}}</td>
+                                <td data-sort="{{$value[42]}}" class="text-right">{{number_format(str_replace(',','.',$value[42]) * 100, 2, ',', '.') . ' %'}}</td>
+                                <td data-sort="{{$value[43]}}" class="text-right">{{number_format(str_replace(',','.',$value[43]) * 100, 2, ',', '.') . ' %'}}</td>
+                                <td data-sort="{{$value[44]}}" class="text-right">{{number_format(str_replace(',','.',$value[44]) * 100, 2, ',', '.') . ' %'}}</td>
+                                <td data-sort="{{$value[45]}}" class="text-right">{{number_format(str_replace(',','.',$value[45]) * 100, 2, ',', '.') . ' %'}}</td>
+                                <td data-sort="{{$value[46]}}" class="text-right">{{number_format(str_replace(',','.',$value[46]) * 100, 2, ',', '.') . ' %'}}</td>
 
                             </tr>
                         @endforeach
