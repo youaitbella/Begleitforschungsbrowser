@@ -1,6 +1,6 @@
 ##Handbuch
 
-Das Handbuch befindet sich unter: W:\EDV\Projekte\InEK-Browsers\Handbuch sortiert nach Datenjahren. Für ein neues Datanjahr sollte das Handbuch kopiert und entsprechend angepasst werden. Die älteren Versionen sollen beibehalten werden.
+Das Handbuch befindet sich unter: W:\EDV\Projekte\InEK-Browsers\G-DRG Begleitforschungsbrowser\Handbuch sortiert nach Datenjahren. Für ein neues Datanjahr sollte das Handbuch kopiert und entsprechend angepasst werden. Die älteren Versionen sollen beibehalten werden.
 
 ##Hinweise für Hinzufügen von Daten:
 
