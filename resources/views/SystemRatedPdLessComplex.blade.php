@@ -52,7 +52,7 @@
                         <tbody>
                         @foreach($dataSum as $entry => $value)
                             <tr>
-                                <td class="text-right">{{number_format($value[0], 2, ',', '.')}}</td>
+                                <td class="text-right">{{number_format($value[0], 0, ',', '.')}}</td>
                                 <td class="text-right">{{number_format(str_replace(',','.',$value[1]) * 100, 2, ',', '.') . ' %'}}</td>
                             </tr>
                         @endforeach
