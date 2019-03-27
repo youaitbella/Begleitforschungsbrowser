@@ -26,7 +26,7 @@
 1;22;MDC 22 Verbrennungen;16139;6628;9510;1;0.4107;0.5893;0.0001
 1;23;MDC 23 Faktoren, die den Gesundheitszustand beeinflussen, und andere Inanspruchnahme des Gesundheitswesens;102220;53804;48405;11;0.5264;0.4735;0.0001
 1;24;MDC 24 Sonstige DRGs;47017;22062;24952;3;0.4692;0.5307;0.0001
-1;FE;Fehler-DRGs und sonstige DRGs;677;308;347;22;0.4549;0.5126;0.0325
+1;FE;Fehler-DRGs;677;308;347;22;0.4549;0.5126;0.0325
 2;00;Prä-MDC;112;43;69;0;0.3839;0.6161;0.00
 2;01;MDC 01 Krankheiten und Störungen des Nervensystems;3738;1992;1746;0;0.5329;0.4671;0.00
 2;02;MDC 02 Krankheiten und Störungen des Auges;41300;23625;17672;3;0.572;0.4279;0.0001
@@ -53,4 +53,4 @@
 2;22;MDC 22 Verbrennungen;30;11;19;0;0.3667;0.6333;0.00
 2;23;MDC 23 Faktoren, die den Gesundheitszustand beeinflussen, und andere Inanspruchnahme des Gesundheitswesens;1664;1003;661;0;0.6028;0.3972;0.00
 2;24;MDC 24 Sonstige DRGs;352;182;170;0;0.517;0.483;0.00
-2;FE;Fehler-DRGs und sonstige DRGs;5;1;4;0;0.20;0.80;0.00
+2;FE;Fehler-DRGs;5;1;4;0;0.20;0.80;0.00
